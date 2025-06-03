@@ -80,11 +80,26 @@ def test_process():
         "fill-mask", model=config.OUTPUT_FILE
     )
 
-    text = "This is a [MASK]"
-    preds = mask_filler(text)
+    sentences = [
+        ('we observe here a seismic section of medium frequency and high noise',
+        'we observe here a seismic section of medium [MASK] and high noise'
+         ),
+        ('we observe here a seismic section of a rigid deformation known or fault of an inclined horizontal beds with an erosional unconformity', 'we observe here a seismic section of a rigid deformation known or [MASK] of an inclined horizontal beds with an erosional unconformity'
+         ),
+        ('this image represents a seismic image with a fault of a tectonic tilting with an angular unconformity', 'this image represents a seismic image with a fault of a [MASK] tilting with an angular unconformity'
+         ),
+    ]
 
-    for pred in preds:
-        print(pred)
+    for text, masked_text in sentences:
+        tokens = text.split(" ")
+
+        idx = random.randint(0, len(tokens) - 1)
+
+        preds = mask_filler(masked_text)
+
+        print("Original text:", text)
+        print("Masked text:", masked_text)
+        print("Prediction:", preds[0]['sequence'])
 
 
 def main():
