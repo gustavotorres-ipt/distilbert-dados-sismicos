@@ -1,0 +1,6 @@
+this model depicts a sesimic section with a structural discontinuity of high frequency and high noise.
+this model depicts a sesimic section with a fault.
+this image represents a 2D subsurface model of a structural discontinuity of high frequency and high noise.
+we see here a 2D section of a fault.
+we observe here a 2D subsurface model of a geologic rigid deformation.
+we observe here a model with a fault of high frequency and high noise.

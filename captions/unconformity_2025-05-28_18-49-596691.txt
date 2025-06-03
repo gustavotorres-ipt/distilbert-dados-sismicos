@@ -1,0 +1,4 @@
+this model depicts a sesimic section of an unconformity.
+this image represents a sesimic section of an angular unconformity.
+we observe here a subsurface model with an angular unconformity of low frequency and low noise.
+we see here a 2D subsurface model with low frequency and low noise.

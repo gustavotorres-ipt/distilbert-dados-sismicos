@@ -1,0 +1,6 @@
+this image demonstrates a subsurface model with medium frequency and low noise.
+we see here a seismic image with a structural deformation with a subsurface layer rotation of a disconformity.
+this image represents a subsurface model with a tectonic deformation with an inclined horizontal beds of a nonconformity of medium frequency and low noise.
+this image demonstrates a section of medium frequency and low noise.
+we see here a 2D subsurface model of a geologic rigid deformation of a tectonic tilting of an unconformity with medium frequency and low noise.
+this image represents a 2D section with a rigid deformation known or fault of a tilt of a disconformity.

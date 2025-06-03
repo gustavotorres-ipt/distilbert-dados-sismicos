@@ -1,0 +1,7 @@
+we see here a 2D section with high frequency and medium noise.
+this model depicts a section with high frequency and medium noise.
+this image demonstrates a section of a structural discontinuity with a fold with a tilt.
+we observe here a model with a fault of a tectonic compression of a tilted horizontal beds of high frequency and medium noise.
+this model depicts a 2D subsurface model with a structural deformation of a fold with a subsurface layer rotation with high frequency and medium noise.
+we observe here a subsurface model with a dip-slip fault with a fold with a tilted horizontal beds.
+this image demonstrates a subsurface representation of a rigid deformation known or fault of an anticline of an inclined horizontal beds.

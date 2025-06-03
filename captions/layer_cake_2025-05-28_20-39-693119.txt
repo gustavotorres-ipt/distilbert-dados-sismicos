@@ -1,0 +1,2 @@
+this image represents a 2D section with a layer-cake model of low frequency and high noise.
+we observe here a section of a layer-cake structural model.

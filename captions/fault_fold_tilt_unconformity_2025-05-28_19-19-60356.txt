@@ -1,0 +1,4 @@
+this image represents a subsurface representation of low frequency and high noise.
+this image represents a 2D section with low frequency and high noise.
+this model depicts a model of a fault of an anticline with a subsurface layer rotation of a nonconformity.
+this image demonstrates a section with a structural discontinuity of a structural compression with a subsurface layer rotation with an unconformity.

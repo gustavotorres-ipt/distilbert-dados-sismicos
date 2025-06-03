@@ -1,0 +1,2 @@
+this image represents a 2D subsurface model with a geologic rigid deformation with a tilt of a disconformity.
+this image demonstrates a subsurface model with a fault of a tilt of an angular unconformity with medium frequency and medium noise.

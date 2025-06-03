@@ -1,0 +1,6 @@
+this image demonstrates a 2D section of medium frequency and medium noise.
+this image represents a 2D subsurface model of medium frequency and medium noise.
+we see here a subsurface representation of a structural discontinuity with a folded deformation of a nonconformity.
+this image demonstrates a sesimic section with a tectonic deformation of a structural compression of a disconformity.
+this model depicts a section of medium frequency and medium noise.
+this model depicts a subsurface model with a rigid deformation known or fault of a fold with an erosional unconformity.

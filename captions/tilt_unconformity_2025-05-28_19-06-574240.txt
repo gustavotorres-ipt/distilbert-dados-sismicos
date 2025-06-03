@@ -1,0 +1,4 @@
+we see here a seismic image with high frequency and high noise.
+this image represents a 2D subsurface model of an inclined horizontal beds of a nonconformity of high frequency and high noise.
+this model depicts a seismic image with a subsurface layer rotation with an erosional unconformity.
+we see here a section of an inclined horizontal beds with a disconformity of high frequency and high noise.

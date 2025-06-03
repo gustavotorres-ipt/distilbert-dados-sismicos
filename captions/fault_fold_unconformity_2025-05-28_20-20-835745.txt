@@ -1,0 +1,5 @@
+this image demonstrates a 2D subsurface model of low frequency and low noise.
+we observe here a model of a tectonic deformation of an anticline with an erosional unconformity.
+this model depicts a sesimic section of a tectonic deformation with a tectonic compression of a disconformity.
+we see here a seismic image with a tectonic fault of a fold of a disconformity.
+we see here a 2D section with a fault with a folded deformation with a disconformity with low frequency and low noise.

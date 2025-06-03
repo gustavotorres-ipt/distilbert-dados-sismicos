@@ -1,0 +1,6 @@
+this model depicts a seismic image with a ductile deformation.
+we see here a sesimic section with an anticline.
+we observe here a 2D subsurface model with a fold with high frequency and medium noise.
+we see here a sesimic section of high frequency and medium noise.
+we see here a 2D section with a ductile deformation with high frequency and medium noise.
+this model depicts a 2D subsurface model of a ductile deformation of high frequency and medium noise.

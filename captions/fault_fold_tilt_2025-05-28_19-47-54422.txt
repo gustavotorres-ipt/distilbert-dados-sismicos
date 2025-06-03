@@ -1,0 +1,6 @@
+this image represents a 2D subsurface model of a rigid deformation known or fault of a ductile deformation with a tilt.
+this image demonstrates a subsurface representation with a tectonic fault with a ductile deformation with an inclined horizontal beds.
+we observe here a 2D section with a structural discontinuity of a tectonic compression with an inclined horizontal beds.
+we observe here a sesimic section with high frequency and low noise.
+we observe here a subsurface model with a dip-slip fault of a structural compression with a subsurface layer rotation of high frequency and low noise.
+we see here a seismic image of a structural deformation of a ductile deformation of a tilt.

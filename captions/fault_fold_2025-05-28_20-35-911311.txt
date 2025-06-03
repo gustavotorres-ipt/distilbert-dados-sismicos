@@ -1,0 +1,6 @@
+this model depicts a seismic image with a geologic rigid deformation with a tectonic compression with medium frequency and high noise.
+this model depicts a model with a fault of an anticline.
+we see here a seismic image of a horizons displacement along fault of a fold.
+we observe here a subsurface model with a dip-slip fault of a ductile deformation.
+this image demonstrates a model with a fault of a folded deformation.
+we see here a seismic image of a tectonic deformation of a ductile deformation.

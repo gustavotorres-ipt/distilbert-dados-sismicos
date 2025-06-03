@@ -1,0 +1,4 @@
+we observe here a subsurface representation of an unconformity.
+this image represents a sesimic section with a nonconformity with high frequency and medium noise.
+this image demonstrates a 2D subsurface model with an erosional unconformity.
+this image demonstrates a 2D section with an angular unconformity.

@@ -1,0 +1,4 @@
+this image demonstrates a sesimic section with a tectonic tilting with an unconformity.
+this image demonstrates a subsurface model of low frequency and medium noise.
+this model depicts a subsurface representation of low frequency and medium noise.
+this model depicts a 2D section with a subsurface layer rotation of an angular unconformity.

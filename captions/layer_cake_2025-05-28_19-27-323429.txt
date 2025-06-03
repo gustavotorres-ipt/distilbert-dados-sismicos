@@ -1,0 +1,7 @@
+this image represents a 2D section with a flat bed stratigraphy section.
+this model depicts a seismic image of an undeformed section.
+this model depicts a section with high frequency and medium noise.
+we observe here a subsurface model of high frequency and medium noise.
+this image demonstrates a seismic image with a section with flat horizons.
+this image demonstrates a sesimic section of a flat bed stratigraphy section.
+we observe here a seismic image with an undeformed section with high frequency and medium noise.

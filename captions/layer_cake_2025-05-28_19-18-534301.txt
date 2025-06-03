@@ -1,0 +1,6 @@
+we see here a seismic image of a model with no structural deformation.
+this image demonstrates a 2D section with an undeformed section.
+this model depicts a seismic image of a flat bed stratigraphy section with low frequency and medium noise.
+this model depicts a sesimic section of a layer-cake model.
+this model depicts a subsurface representation with low frequency and medium noise.
+this model depicts a sesimic section of low frequency and medium noise.

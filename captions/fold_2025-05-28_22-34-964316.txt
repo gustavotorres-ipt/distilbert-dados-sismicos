@@ -1,0 +1,6 @@
+we see here a 2D section with an antiform of high frequency and medium noise.
+we see here a 2D subsurface model with a folded deformation of high frequency and medium noise.
+this image represents a sesimic section of a ductile deformation.
+this image represents a subsurface representation with an anticline.
+this image demonstrates a sesimic section of an anticline.
+we observe here a 2D subsurface model with a fold with high frequency and medium noise.

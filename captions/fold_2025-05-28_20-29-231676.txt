@@ -1,0 +1,2 @@
+this image demonstrates a sesimic section with high frequency and high noise.
+this model depicts a 2D subsurface model with a structural compression.

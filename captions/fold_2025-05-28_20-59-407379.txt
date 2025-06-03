@@ -1,0 +1,4 @@
+this image represents a seismic image with a ductile deformation.
+we observe here a model of high frequency and medium noise.
+we see here a 2D subsurface model of an antiform.
+we observe here a seismic image of high frequency and medium noise.

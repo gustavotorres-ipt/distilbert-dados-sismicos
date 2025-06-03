@@ -1,0 +1,4 @@
+this image represents a seismic image with medium frequency and medium noise.
+this image represents a 2D subsurface model with a geologic rigid deformation of a ductile deformation.
+we observe here a seismic image of a structural deformation with a fold.
+this model depicts a 2D section of a tectonic fault with a ductile deformation.

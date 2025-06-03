@@ -1,0 +1,3 @@
+this image demonstrates a subsurface representation with a geologic rigid deformation with a nonconformity.
+we observe here a model with a structural discontinuity of an angular unconformity.
+this image demonstrates a subsurface model of a tectonic deformation with a disconformity with medium frequency and low noise.

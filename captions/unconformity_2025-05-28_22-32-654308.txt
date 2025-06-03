@@ -1,0 +1,3 @@
+this image represents a model with a disconformity.
+we observe here a subsurface model with an erosional unconformity.
+we see here a 2D subsurface model with medium frequency and medium noise.

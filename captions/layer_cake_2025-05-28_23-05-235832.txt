@@ -1,0 +1,5 @@
+this image demonstrates a section of a model with no structural deformation.
+we see here a subsurface representation of a model with no structural deformation with medium frequency and medium noise.
+we see here a subsurface model of a model with no tectonic deformation.
+this image represents a subsurface model of medium frequency and medium noise.
+we observe here a model of a layer-cake stratigraphy section of medium frequency and medium noise.

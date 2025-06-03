@@ -1,0 +1,3 @@
+this model depicts a subsurface model of a model with no tectonic deformation with medium frequency and high noise.
+this image represents a 2D section with medium frequency and high noise.
+this image represents a 2D subsurface model of a layer-cake structural model.

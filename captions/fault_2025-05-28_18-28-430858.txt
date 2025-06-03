@@ -1,0 +1,4 @@
+we see here a section with low frequency and medium noise.
+this image demonstrates a section with a fault.
+this image represents a 2D subsurface model with a geologic rigid deformation.
+we observe here a subsurface model of low frequency and medium noise.

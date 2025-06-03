@@ -1,0 +1,5 @@
+this image represents a section with low frequency and medium noise.
+this model depicts a 2D section of a rigid deformation known or fault with an anticline of a disconformity of low frequency and medium noise.
+we see here a 2D section with low frequency and medium noise.
+this model depicts a sesimic section with low frequency and medium noise.
+we see here a subsurface representation with a horizons displacement along fault of a tectonic compression with a nonconformity with low frequency and medium noise.

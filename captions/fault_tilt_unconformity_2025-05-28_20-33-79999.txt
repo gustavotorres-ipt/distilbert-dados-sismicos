@@ -1,0 +1,3 @@
+this model depicts a 2D section with low frequency and high noise.
+this image represents a seismic image with a structural discontinuity with a tectonic tilting of a disconformity.
+we see here a subsurface representation of a structural discontinuity with a tectonic tilting with an angular unconformity.

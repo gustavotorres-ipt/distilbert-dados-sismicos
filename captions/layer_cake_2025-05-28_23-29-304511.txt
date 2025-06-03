@@ -1,0 +1,2 @@
+we observe here a section of a layer-cake model.
+this model depicts a 2D section of a section with flat horizons.

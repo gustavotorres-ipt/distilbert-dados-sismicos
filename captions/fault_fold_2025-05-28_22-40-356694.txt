@@ -1,0 +1,4 @@
+this image represents a 2D subsurface model of a geologic rigid deformation with a structural compression with high frequency and high noise.
+this model depicts a model with a geologic rigid deformation of a fold with high frequency and high noise.
+this image represents a model with high frequency and high noise.
+we observe here a model of a horizons displacement along fault with a ductile deformation.

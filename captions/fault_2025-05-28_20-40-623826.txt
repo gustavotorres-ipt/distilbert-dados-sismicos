@@ -1,0 +1,2 @@
+this model depicts a sesimic section with a tectonic fault.
+we observe here a 2D subsurface model with a tectonic fault with high frequency and medium noise.

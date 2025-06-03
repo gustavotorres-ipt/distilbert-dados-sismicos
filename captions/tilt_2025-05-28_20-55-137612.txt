@@ -1,0 +1,7 @@
+this image represents a model with medium frequency and medium noise.
+this image represents a subsurface representation of a tilt.
+this image represents a subsurface representation with a tectonic tilting.
+this image demonstrates a sesimic section with a subsurface layer rotation.
+we observe here a model of medium frequency and medium noise.
+we observe here a model of a tilt.
+we see here a seismic image with a tilt.

@@ -1,0 +1,2 @@
+this image represents a 2D subsurface model of low frequency and medium noise.
+this image represents a seismic image of a structural deformation with a tectonic compression with a tilted horizontal beds of a nonconformity.

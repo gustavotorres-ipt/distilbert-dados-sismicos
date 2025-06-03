@@ -1,0 +1,4 @@
+we observe here a model with low frequency and medium noise.
+this model depicts a section of a tilt of a nonconformity.
+this image demonstrates a 2D subsurface model with an inclined horizontal beds with an unconformity of low frequency and medium noise.
+this model depicts a model with a subsurface layer rotation of an erosional unconformity.

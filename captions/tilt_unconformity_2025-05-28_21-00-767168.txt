@@ -1,0 +1,2 @@
+this image represents a seismic image of a tilted horizontal beds with an unconformity.
+this image represents a 2D subsurface model with a tectonic tilting with an unconformity.

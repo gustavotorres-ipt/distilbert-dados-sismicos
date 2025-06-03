@@ -1,0 +1,5 @@
+this image demonstrates a 2D section with a tectonic deformation with an antiform with a disconformity.
+this image demonstrates a subsurface representation with a geologic rigid deformation with a fold of a disconformity.
+we observe here a sesimic section of low frequency and medium noise.
+this model depicts a sesimic section of low frequency and medium noise.
+this image represents a model of a tectonic deformation with an antiform of an angular unconformity.

@@ -1,0 +1,4 @@
+this model depicts a 2D subsurface model with a horizons displacement along fault of a structural compression of a tilt with a disconformity.
+we see here a model with a fault of a structural compression with an inclined horizontal beds of a nonconformity with low frequency and medium noise.
+this model depicts a 2D subsurface model of a structural deformation with a fold of a tilted horizontal beds with a disconformity.
+this image demonstrates a sesimic section of a rigid deformation known or fault of an antiform with a tectonic tilting of an erosional unconformity of low frequency and medium noise.

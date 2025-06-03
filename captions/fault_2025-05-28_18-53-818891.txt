@@ -1,0 +1,6 @@
+we observe here a model with low frequency and medium noise.
+we observe here a 2D subsurface model with a structural deformation.
+this image represents a subsurface representation with a rigid deformation known or fault with low frequency and medium noise.
+this image represents a sesimic section with a structural deformation of low frequency and medium noise.
+this model depicts a section of a tectonic fault.
+this model depicts a section of a rigid deformation known or fault.

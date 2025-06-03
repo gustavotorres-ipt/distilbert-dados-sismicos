@@ -1,0 +1,4 @@
+this image represents a 2D subsurface model of low frequency and medium noise.
+we observe here a subsurface model of a ductile deformation with a tectonic tilting.
+this image represents a subsurface representation of a fold of an inclined horizontal beds.
+this model depicts a subsurface representation of a tectonic compression of a tilted horizontal beds.

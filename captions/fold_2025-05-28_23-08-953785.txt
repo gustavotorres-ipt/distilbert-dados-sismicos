@@ -1,0 +1,3 @@
+this image demonstrates a 2D subsurface model of an anticline.
+this model depicts a 2D subsurface model with a fold.
+we observe here a sesimic section with an antiform.

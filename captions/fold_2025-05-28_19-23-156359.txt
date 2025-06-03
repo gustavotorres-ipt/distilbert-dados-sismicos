@@ -1,0 +1,7 @@
+this model depicts a seismic image with a ductile deformation.
+this model depicts a sesimic section of a ductile deformation with high frequency and medium noise.
+we observe here a 2D subsurface model with an antiform with high frequency and medium noise.
+we see here a subsurface representation of high frequency and medium noise.
+this image represents a subsurface representation of a structural compression.
+we see here a seismic image with a tectonic compression of high frequency and medium noise.
+this model depicts a sesimic section of a structural compression of high frequency and medium noise.

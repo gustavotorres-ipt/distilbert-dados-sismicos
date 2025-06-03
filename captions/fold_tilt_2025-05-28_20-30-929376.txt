@@ -1,0 +1,7 @@
+this image demonstrates a 2D section with a ductile deformation with a tilt.
+this model depicts a subsurface representation with an antiform of an inclined horizontal beds of high frequency and medium noise.
+we observe here a subsurface representation of a structural compression of an inclined horizontal beds with high frequency and medium noise.
+this image represents a seismic image of a structural compression of a tilt.
+we observe here a sesimic section with high frequency and medium noise.
+this model depicts a subsurface representation of an anticline of a tectonic tilting with high frequency and medium noise.
+this model depicts a seismic image with a tectonic compression of a tilted horizontal beds of high frequency and medium noise.

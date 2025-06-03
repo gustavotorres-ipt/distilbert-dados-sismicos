@@ -1,0 +1,7 @@
+this image demonstrates a 2D subsurface model of a rigid deformation known or fault with a ductile deformation.
+this image represents a subsurface model of a tectonic fault of a fold.
+this image demonstrates a 2D section of a structural deformation of a fold.
+we see here a model of a tectonic fault with a tectonic compression of high frequency and medium noise.
+this image demonstrates a section with high frequency and medium noise.
+we observe here a section with a geologic rigid deformation of an antiform.
+this model depicts a section of high frequency and medium noise.

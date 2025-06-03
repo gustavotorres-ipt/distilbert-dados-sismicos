@@ -1,0 +1,3 @@
+this image represents a seismic image with medium frequency and medium noise.
+we see here a model with medium frequency and medium noise.
+we see here a subsurface model with a rigid deformation known or fault of a tilt.

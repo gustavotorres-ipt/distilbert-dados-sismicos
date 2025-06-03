@@ -1,0 +1,7 @@
+this model depicts a subsurface model with high frequency and low noise.
+we observe here a seismic image of high frequency and low noise.
+this image demonstrates a 2D section with a fault of a disconformity.
+this model depicts a 2D subsurface model with a fault with an angular unconformity with high frequency and low noise.
+this model depicts a subsurface representation of a structural deformation with an unconformity.
+this model depicts a section with a horizons displacement along fault with a disconformity.
+this image demonstrates a 2D subsurface model of a tectonic fault with an angular unconformity with high frequency and low noise.

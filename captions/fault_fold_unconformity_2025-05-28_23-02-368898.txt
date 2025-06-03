@@ -1,0 +1,5 @@
+this model depicts a subsurface model of a tectonic fault of a tectonic compression with a disconformity of high frequency and medium noise.
+we see here a seismic image with a dip-slip fault of a structural compression of an angular unconformity.
+we see here a subsurface model of a tectonic fault with a tectonic compression with an angular unconformity of high frequency and medium noise.
+this image demonstrates a 2D subsurface model of a dip-slip fault with a fold with a nonconformity.
+this image demonstrates a model of a geologic rigid deformation with a structural compression of an angular unconformity.

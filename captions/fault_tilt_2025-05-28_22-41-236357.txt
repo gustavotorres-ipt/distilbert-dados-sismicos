@@ -1,0 +1,2 @@
+this image represents a seismic image of low frequency and medium noise.
+this image represents a section with low frequency and medium noise.

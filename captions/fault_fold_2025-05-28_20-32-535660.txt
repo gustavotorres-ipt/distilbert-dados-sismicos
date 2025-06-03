@@ -1,0 +1,5 @@
+this image represents a seismic image with high frequency and high noise.
+this image represents a seismic image with a dip-slip fault of a ductile deformation.
+this image demonstrates a seismic image with high frequency and high noise.
+we see here a section of high frequency and high noise.
+we observe here a subsurface model of a rigid deformation known or fault of a ductile deformation.

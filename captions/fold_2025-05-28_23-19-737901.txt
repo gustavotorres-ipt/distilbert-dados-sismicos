@@ -1,0 +1,4 @@
+this model depicts a subsurface model of a folded deformation.
+we observe here a subsurface representation with a fold with high frequency and low noise.
+we see here a subsurface representation with an antiform.
+we see here a subsurface representation of an antiform.

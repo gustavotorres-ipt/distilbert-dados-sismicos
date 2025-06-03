@@ -1,0 +1,2 @@
+this model depicts a subsurface representation of an undeformed section.
+this image represents a subsurface representation with medium frequency and medium noise.

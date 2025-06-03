@@ -1,0 +1,3 @@
+we observe here a 2D section with high frequency and high noise.
+this image represents a 2D subsurface model with a fault.
+this image represents a model of a horizons displacement along fault of high frequency and high noise.

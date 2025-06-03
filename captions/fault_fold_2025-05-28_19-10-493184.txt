@@ -1,0 +1,2 @@
+this model depicts a 2D subsurface model with a fault with a fold.
+this image demonstrates a model of a rigid deformation known or fault with a fold with medium frequency and low noise.

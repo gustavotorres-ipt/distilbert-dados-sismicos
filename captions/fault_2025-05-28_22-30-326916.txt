@@ -1,0 +1,6 @@
+this image represents a seismic image with a dip-slip fault.
+we observe here a subsurface representation with a horizons displacement along fault.
+this image demonstrates a section with a fault with high frequency and low noise.
+this image demonstrates a 2D subsurface model of a structural deformation.
+we observe here a subsurface model with a fault with high frequency and low noise.
+this model depicts a sesimic section of a horizons displacement along fault.

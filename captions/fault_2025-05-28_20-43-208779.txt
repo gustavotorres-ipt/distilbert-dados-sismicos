@@ -1,0 +1,5 @@
+this model depicts a subsurface model of a tectonic deformation.
+this image demonstrates a 2D subsurface model with a structural discontinuity.
+this image represents a seismic image of a rigid deformation known or fault.
+we see here a subsurface representation with a geologic rigid deformation with low frequency and low noise.
+we see here a 2D subsurface model with a structural deformation.

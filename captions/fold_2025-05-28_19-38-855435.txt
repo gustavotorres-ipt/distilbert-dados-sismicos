@@ -1,0 +1,6 @@
+this model depicts a model with an antiform.
+this image represents a 2D subsurface model with a structural compression.
+we observe here a subsurface representation of a folded deformation of low frequency and medium noise.
+this image represents a sesimic section with a ductile deformation with low frequency and medium noise.
+we observe here a 2D section with a tectonic compression.
+this image represents a section of a tectonic compression with low frequency and medium noise.

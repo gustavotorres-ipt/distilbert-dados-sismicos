@@ -1,0 +1,4 @@
+this image demonstrates a seismic image of a fold of an inclined horizontal beds of an unconformity.
+we observe here a 2D subsurface model of medium frequency and medium noise.
+this image demonstrates a section of medium frequency and medium noise.
+this model depicts a section with a structural compression with a tilted horizontal beds of a disconformity.

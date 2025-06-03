@@ -1,0 +1,3 @@
+this model depicts a seismic image with a tectonic compression with a nonconformity.
+this image represents a subsurface representation with a tectonic compression of a nonconformity of medium frequency and medium noise.
+this image represents a 2D subsurface model with a tectonic compression of a disconformity.

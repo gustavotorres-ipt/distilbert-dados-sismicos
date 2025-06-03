@@ -1,0 +1,3 @@
+this model depicts a seismic image with a tectonic fault of a structural compression with an angular unconformity.
+we observe here a section with a fault with a ductile deformation with an unconformity.
+this model depicts a 2D section with a rigid deformation known or fault with a fold of an angular unconformity.

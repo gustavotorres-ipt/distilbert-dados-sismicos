@@ -1,0 +1,3 @@
+this image represents a model of medium frequency and medium noise.
+we see here a 2D subsurface model with a geologic rigid deformation of a fold with an erosional unconformity.
+we see here a 2D section of a fault with a tectonic compression of a nonconformity.

@@ -1,0 +1,2 @@
+this model depicts a sesimic section with low frequency and low noise.
+we see here a subsurface representation of a tectonic deformation.

@@ -1,0 +1,3 @@
+this model depicts a subsurface representation with an antiform with a tectonic tilting of an angular unconformity.
+we observe here a 2D subsurface model of a tectonic compression with an inclined horizontal beds of an erosional unconformity with medium frequency and high noise.
+we observe here a subsurface model with an anticline with a tectonic tilting of a nonconformity.

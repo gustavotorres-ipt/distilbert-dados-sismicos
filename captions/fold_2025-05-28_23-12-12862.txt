@@ -1,0 +1,4 @@
+this image demonstrates a seismic image of a folded deformation.
+we see here a 2D subsurface model of low frequency and medium noise.
+this image demonstrates a sesimic section of a folded deformation of low frequency and medium noise.
+this image demonstrates a 2D section of a tectonic compression.

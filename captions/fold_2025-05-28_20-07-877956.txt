@@ -1,0 +1,5 @@
+this image represents a 2D subsurface model with a structural compression.
+this model depicts a sesimic section with a fold with medium frequency and medium noise.
+this model depicts a seismic image with a folded deformation.
+this image represents a subsurface model of a structural compression with medium frequency and medium noise.
+this model depicts a section with an antiform of medium frequency and medium noise.

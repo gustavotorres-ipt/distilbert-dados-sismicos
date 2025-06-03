@@ -1,0 +1,3 @@
+this image demonstrates a seismic image with low frequency and low noise.
+we observe here a 2D subsurface model of a nonconformity.
+this image demonstrates a model with an angular unconformity.

@@ -1,0 +1,4 @@
+this model depicts a section of a tectonic compression with an inclined horizontal beds.
+this image represents a model of an anticline of a tilt.
+this image represents a subsurface representation of a tectonic compression with an inclined horizontal beds of low frequency and medium noise.
+this model depicts a 2D subsurface model of a fold with a tilted horizontal beds with low frequency and medium noise.

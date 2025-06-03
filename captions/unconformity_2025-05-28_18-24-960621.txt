@@ -1,0 +1,3 @@
+this image represents a 2D subsurface model of a disconformity.
+we observe here a sesimic section with a disconformity of high frequency and high noise.
+we see here a seismic image with an erosional unconformity.

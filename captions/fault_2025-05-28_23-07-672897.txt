@@ -1,0 +1,5 @@
+we observe here a subsurface model with a structural deformation.
+we see here a model with a tectonic fault.
+we see here a section of a tectonic fault.
+this image represents a 2D subsurface model of high frequency and low noise.
+we see here a section of a tectonic deformation of high frequency and low noise.

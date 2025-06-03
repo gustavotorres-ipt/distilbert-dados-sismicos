@@ -1,0 +1,2 @@
+this model depicts a 2D subsurface model of low frequency and medium noise.
+we see here a subsurface model of a dip-slip fault of a nonconformity.

@@ -1,0 +1,3 @@
+this image demonstrates a 2D section of medium frequency and high noise.
+this image demonstrates a section of an antiform of medium frequency and high noise.
+this model depicts a sesimic section with a folded deformation.

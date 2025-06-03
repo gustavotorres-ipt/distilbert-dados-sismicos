@@ -1,0 +1,6 @@
+this image represents a subsurface representation with medium frequency and low noise.
+this model depicts a seismic image of a tectonic fault with an anticline with a nonconformity with medium frequency and low noise.
+we observe here a subsurface model of a horizons displacement along fault with an antiform with a nonconformity.
+this image demonstrates a 2D subsurface model of medium frequency and low noise.
+we observe here a sesimic section of medium frequency and low noise.
+this image represents a model with a dip-slip fault with a structural compression with an angular unconformity.

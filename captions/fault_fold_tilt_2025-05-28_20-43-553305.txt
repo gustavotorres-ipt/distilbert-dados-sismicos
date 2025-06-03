@@ -1,0 +1,2 @@
+this model depicts a subsurface representation of a rigid deformation known or fault of a fold of a tilt.
+this model depicts a 2D subsurface model of a structural deformation of a ductile deformation with a tilt.

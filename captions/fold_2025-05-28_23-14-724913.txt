@@ -1,0 +1,7 @@
+we observe here a 2D subsurface model with an anticline.
+this model depicts a seismic image with a ductile deformation with medium frequency and medium noise.
+we see here a subsurface representation with medium frequency and medium noise.
+this model depicts a subsurface representation with an antiform.
+we see here a 2D section with medium frequency and medium noise.
+this image demonstrates a 2D subsurface model with a fold.
+this image represents a section of a structural compression with medium frequency and medium noise.

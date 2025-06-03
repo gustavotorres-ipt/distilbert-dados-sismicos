@@ -1,0 +1,4 @@
+this model depicts a subsurface representation with high frequency and high noise.
+we see here a seismic image with high frequency and high noise.
+we observe here a subsurface model with high frequency and high noise.
+this model depicts a 2D section with a tilted horizontal beds with an unconformity.

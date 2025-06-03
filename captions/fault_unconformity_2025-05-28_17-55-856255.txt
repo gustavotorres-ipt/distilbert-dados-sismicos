@@ -1,0 +1,3 @@
+this image demonstrates a 2D section of a rigid deformation known or fault with an angular unconformity of low frequency and medium noise.
+we observe here a 2D section with a dip-slip fault of an erosional unconformity with low frequency and medium noise.
+this model depicts a seismic image of a horizons displacement along fault of an erosional unconformity.

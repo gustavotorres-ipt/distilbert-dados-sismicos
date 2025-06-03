@@ -1,0 +1,3 @@
+this image demonstrates a subsurface representation with a horizons displacement along fault of a tilted horizontal beds of an angular unconformity.
+we see here a section of a fault with a tilt of an unconformity with medium frequency and medium noise.
+this model depicts a subsurface model with a geologic rigid deformation with a subsurface layer rotation with a nonconformity.

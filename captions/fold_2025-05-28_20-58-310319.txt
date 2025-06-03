@@ -1,0 +1,4 @@
+this image demonstrates a sesimic section with a tectonic compression.
+this model depicts a subsurface model with medium frequency and high noise.
+this model depicts a 2D subsurface model of an antiform.
+this image demonstrates a subsurface model of an anticline.

@@ -1,0 +1,2 @@
+this model depicts a seismic image with an inclined horizontal beds with an angular unconformity.
+this model depicts a 2D subsurface model with a tilt of a nonconformity.

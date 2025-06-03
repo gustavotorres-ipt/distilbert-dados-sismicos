@@ -1,0 +1,4 @@
+we observe here a 2D section of medium frequency and medium noise.
+we observe here a section with a subsurface layer rotation.
+this model depicts a 2D section of a tilted horizontal beds with medium frequency and medium noise.
+this model depicts a model of an inclined horizontal beds.

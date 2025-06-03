@@ -1,0 +1,4 @@
+we observe here a 2D subsurface model of an inclined horizontal beds with a disconformity of high frequency and low noise.
+we observe here a subsurface representation with a tilt with an unconformity.
+this image represents a 2D section of high frequency and low noise.
+this image demonstrates a sesimic section of a tilted horizontal beds with a disconformity.

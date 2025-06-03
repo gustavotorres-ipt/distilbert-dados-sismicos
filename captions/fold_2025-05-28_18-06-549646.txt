@@ -1,0 +1,7 @@
+we observe here a subsurface model with an anticline.
+this image represents a 2D subsurface model of a folded deformation.
+this model depicts a model with a tectonic compression.
+we observe here a subsurface model of a fold.
+this image represents a subsurface representation of an anticline.
+this image represents a subsurface representation of a folded deformation.
+we observe here a subsurface representation of a tectonic compression of low frequency and low noise.

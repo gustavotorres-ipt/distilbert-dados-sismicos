@@ -1,0 +1,5 @@
+this model depicts a 2D subsurface model with a structural deformation.
+we observe here a model with a tectonic deformation.
+we see here a subsurface representation with low frequency and high noise.
+we observe here a sesimic section with a structural discontinuity.
+this image represents a subsurface representation with a structural discontinuity.

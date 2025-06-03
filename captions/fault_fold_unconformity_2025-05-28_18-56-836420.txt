@@ -1,0 +1,7 @@
+this image represents a model with a structural discontinuity of an antiform of an angular unconformity.
+this image demonstrates a model with a geologic rigid deformation with a fold of a disconformity.
+this model depicts a subsurface representation with low frequency and low noise.
+we see here a 2D subsurface model with a geologic rigid deformation of an antiform with an erosional unconformity of low frequency and low noise.
+this image represents a model with a dip-slip fault with a tectonic compression of an angular unconformity.
+this image represents a 2D subsurface model of a fault with a tectonic compression with a disconformity.
+we see here a subsurface representation with a fault of a tectonic compression of a disconformity of low frequency and low noise.

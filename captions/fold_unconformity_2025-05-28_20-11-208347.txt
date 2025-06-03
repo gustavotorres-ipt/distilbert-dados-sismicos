@@ -1,0 +1,6 @@
+this image demonstrates a subsurface representation of a tectonic compression with a nonconformity with low frequency and medium noise.
+this image represents a 2D subsurface model with a fold with an angular unconformity with low frequency and medium noise.
+we observe here a subsurface model of low frequency and medium noise.
+this image represents a seismic image of a fold of an erosional unconformity.
+this image represents a 2D subsurface model of a tectonic compression with an unconformity.
+we observe here a subsurface representation of an anticline with an angular unconformity of low frequency and medium noise.

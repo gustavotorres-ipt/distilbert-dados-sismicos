@@ -1,0 +1,6 @@
+we observe here a seismic image with high frequency and medium noise.
+this image demonstrates a 2D subsurface model with a tectonic deformation of a folded deformation.
+this image represents a 2D subsurface model with a geologic rigid deformation with a folded deformation.
+this image represents a subsurface model of a fault with an antiform with high frequency and medium noise.
+we see here a section of a horizons displacement along fault with an anticline.
+this image demonstrates a section of high frequency and medium noise.

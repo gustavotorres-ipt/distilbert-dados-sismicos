@@ -1,0 +1,3 @@
+we observe here a 2D subsurface model of low frequency and medium noise.
+this image demonstrates a 2D section with a structural compression of a nonconformity.
+this image represents a subsurface representation of a structural compression with a nonconformity of low frequency and medium noise.

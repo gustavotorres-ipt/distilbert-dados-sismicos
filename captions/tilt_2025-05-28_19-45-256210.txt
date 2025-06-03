@@ -1,0 +1,6 @@
+this image represents a 2D section of an inclined horizontal beds of high frequency and medium noise.
+we see here a subsurface representation with an inclined horizontal beds.
+we see here a model of an inclined horizontal beds.
+this image represents a subsurface model of high frequency and medium noise.
+this image represents a section of a tilted horizontal beds.
+this model depicts a subsurface model of high frequency and medium noise.

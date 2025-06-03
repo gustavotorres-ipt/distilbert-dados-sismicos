@@ -1,0 +1,4 @@
+we see here a subsurface representation of a horizons displacement along fault with a tectonic tilting.
+this model depicts a section of a horizons displacement along fault of a tilt.
+this image represents a 2D subsurface model with a tectonic deformation of a tilt.
+we see here a subsurface representation with low frequency and medium noise.

@@ -1,0 +1,4 @@
+this model depicts a seismic image with a ductile deformation of a tectonic tilting.
+we see here a sesimic section with a tectonic compression of a subsurface layer rotation.
+we observe here a 2D subsurface model of a fold of a subsurface layer rotation.
+we see here a subsurface representation with a fold of a tilt of medium frequency and high noise.

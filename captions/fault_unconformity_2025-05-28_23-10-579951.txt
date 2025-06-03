@@ -1,0 +1,7 @@
+this image demonstrates a 2D subsurface model of high frequency and medium noise.
+this model depicts a seismic image of a horizons displacement along fault with an unconformity.
+we see here a subsurface representation of a tectonic fault with an erosional unconformity.
+this model depicts a subsurface model of a rigid deformation known or fault with an erosional unconformity.
+this image demonstrates a seismic image of a fault of an unconformity.
+this model depicts a section of a fault of an unconformity with high frequency and medium noise.
+we see here a sesimic section with high frequency and medium noise.

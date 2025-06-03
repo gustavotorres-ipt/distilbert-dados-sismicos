@@ -1,0 +1,4 @@
+we see here a subsurface model with low frequency and medium noise.
+we see here a seismic image with a disconformity of low frequency and medium noise.
+this image demonstrates a section with a nonconformity with low frequency and medium noise.
+we see here a subsurface representation of low frequency and medium noise.

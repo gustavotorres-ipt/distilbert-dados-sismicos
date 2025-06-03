@@ -1,0 +1,6 @@
+we see here a 2D subsurface model of a rigid deformation known or fault with a tectonic tilting with an angular unconformity.
+this image represents a sesimic section of a fault with a subsurface layer rotation of an angular unconformity.
+this image demonstrates a 2D section of a structural deformation of an inclined horizontal beds with an angular unconformity.
+we see here a 2D subsurface model of high frequency and medium noise.
+we observe here a subsurface model with a tectonic fault with an inclined horizontal beds of an erosional unconformity with high frequency and medium noise.
+we see here a model with a rigid deformation known or fault of an inclined horizontal beds of a disconformity.

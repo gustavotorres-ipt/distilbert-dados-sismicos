@@ -1,0 +1,5 @@
+we see here a 2D subsurface model of an inclined horizontal beds with a disconformity of low frequency and medium noise.
+this image represents a sesimic section with a subsurface layer rotation with an erosional unconformity.
+we see here a model of a tilt of an angular unconformity of low frequency and medium noise.
+we observe here a sesimic section with a tilted horizontal beds with an angular unconformity of low frequency and medium noise.
+we see here a 2D section with a tilt with a nonconformity with low frequency and medium noise.

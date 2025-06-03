@@ -1,0 +1,3 @@
+this image represents a 2D section of a fold.
+we see here a sesimic section of a folded deformation.
+we observe here a subsurface model with a structural compression of medium frequency and medium noise.

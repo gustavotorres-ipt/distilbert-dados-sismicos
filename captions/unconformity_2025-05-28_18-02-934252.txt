@@ -1,0 +1,3 @@
+this model depicts a seismic image with an angular unconformity.
+this image represents a subsurface model with an angular unconformity.
+this image represents a 2D section of an unconformity.

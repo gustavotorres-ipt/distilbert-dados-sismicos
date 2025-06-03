@@ -1,0 +1,5 @@
+this image demonstrates a 2D subsurface model with a horizons displacement along fault with a ductile deformation with a tectonic tilting of an erosional unconformity.
+this model depicts a subsurface model of high frequency and high noise.
+we observe here a sesimic section of high frequency and high noise.
+this model depicts a section of a fault of a tectonic compression of a tilt with a nonconformity of high frequency and high noise.
+this model depicts a 2D section of a rigid deformation known or fault with a tectonic compression with a tilted horizontal beds of an erosional unconformity.

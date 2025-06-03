@@ -1,0 +1,6 @@
+this image represents a model with a structural deformation with a tilt.
+this image represents a 2D subsurface model of high frequency and high noise.
+we see here a model with a tectonic deformation with a tilted horizontal beds.
+this model depicts a section with high frequency and high noise.
+we observe here a 2D section of high frequency and high noise.
+we observe here a model with a geologic rigid deformation with a tectonic tilting.

@@ -1,0 +1,4 @@
+this image demonstrates a subsurface representation with a folded deformation with a tilt.
+this image demonstrates a 2D section of an antiform of a tilt.
+this image represents a section with a ductile deformation with a tectonic tilting.
+we see here a sesimic section with medium frequency and medium noise.

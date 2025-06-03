@@ -1,0 +1,3 @@
+this image demonstrates a section of an angular unconformity.
+we observe here a subsurface model of low frequency and high noise.
+we see here a seismic image of an angular unconformity.

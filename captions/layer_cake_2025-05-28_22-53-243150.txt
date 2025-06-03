@@ -1,0 +1,3 @@
+this model depicts a section of medium frequency and medium noise.
+this image demonstrates a 2D section with medium frequency and medium noise.
+we observe here a section of a model with no tectonic deformation with medium frequency and medium noise.

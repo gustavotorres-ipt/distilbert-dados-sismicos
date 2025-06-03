@@ -1,0 +1,7 @@
+this image represents a model with a dip-slip fault of a structural compression of an unconformity.
+this model depicts a seismic image with a tectonic fault with a fold with a disconformity.
+we see here a 2D section with a dip-slip fault of a folded deformation of a nonconformity of high frequency and medium noise.
+we see here a subsurface model with a horizons displacement along fault of a structural compression with a nonconformity of high frequency and medium noise.
+this image represents a 2D section of high frequency and medium noise.
+we see here a seismic image of a tectonic deformation with a ductile deformation with a nonconformity of high frequency and medium noise.
+we observe here a 2D subsurface model of high frequency and medium noise.

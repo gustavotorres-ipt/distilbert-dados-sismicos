@@ -1,0 +1,6 @@
+this image represents a 2D subsurface model with a folded deformation of high frequency and high noise.
+we observe here a section of high frequency and high noise.
+this image demonstrates a subsurface model with a ductile deformation.
+this image demonstrates a section with a fold.
+we see here a seismic image with a fold.
+this model depicts a model of a structural compression of high frequency and high noise.

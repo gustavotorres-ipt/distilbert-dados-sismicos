@@ -1,0 +1,6 @@
+this image demonstrates a sesimic section with an angular unconformity.
+this image demonstrates a model with a nonconformity.
+we observe here a 2D subsurface model with a nonconformity.
+this image demonstrates a 2D section of an unconformity.
+we observe here a subsurface model with a disconformity with high frequency and high noise.
+this image represents a subsurface representation of a nonconformity with high frequency and high noise.

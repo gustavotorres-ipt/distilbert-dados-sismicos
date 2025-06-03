@@ -1,0 +1,6 @@
+this image demonstrates a 2D subsurface model with a structural compression with a subsurface layer rotation with an unconformity.
+we observe here a model of a structural compression of a tectonic tilting of an unconformity.
+this model depicts a sesimic section of a folded deformation of a tilt with an unconformity with low frequency and medium noise.
+this model depicts a sesimic section with low frequency and medium noise.
+we see here a 2D section of a structural compression of a tectonic tilting with an unconformity.
+this model depicts a sesimic section of a tectonic compression with an inclined horizontal beds of a disconformity with low frequency and medium noise.

@@ -1,0 +1,2 @@
+this model depicts a sesimic section with a rigid deformation known or fault of a ductile deformation.
+this model depicts a subsurface representation of a horizons displacement along fault of a tectonic compression.

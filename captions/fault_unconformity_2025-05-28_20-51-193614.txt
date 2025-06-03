@@ -1,0 +1,4 @@
+this image demonstrates a model of a dip-slip fault with a nonconformity.
+this image demonstrates a 2D section with a geologic rigid deformation of a nonconformity.
+we see here a sesimic section with a structural deformation with a disconformity of high frequency and high noise.
+we see here a sesimic section of a tectonic fault with an erosional unconformity.

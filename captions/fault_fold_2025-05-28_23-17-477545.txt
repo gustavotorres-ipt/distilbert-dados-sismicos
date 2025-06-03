@@ -1,0 +1,3 @@
+this image represents a seismic image with a fault of a ductile deformation.
+this image demonstrates a seismic image with a structural deformation with a folded deformation.
+this image demonstrates a subsurface model of a horizons displacement along fault of a structural compression.

@@ -1,0 +1,7 @@
+this model depicts a 2D subsurface model with medium frequency and medium noise.
+we observe here a section with a dip-slip fault of a structural compression of an inclined horizontal beds.
+this image demonstrates a section of a dip-slip fault with an antiform with an inclined horizontal beds.
+we see here a 2D subsurface model of medium frequency and medium noise.
+this image demonstrates a subsurface representation of a tectonic deformation with a tectonic compression of a tilted horizontal beds.
+this model depicts a model with a geologic rigid deformation with a folded deformation with a tilt.
+this image represents a seismic image of a tectonic deformation with an anticline of a tilt.

@@ -1,0 +1,2 @@
+this image represents a 2D subsurface model with high frequency and medium noise.
+this model depicts a subsurface representation with high frequency and medium noise.

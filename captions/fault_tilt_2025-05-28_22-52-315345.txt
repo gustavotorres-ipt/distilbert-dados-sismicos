@@ -1,0 +1,4 @@
+this image demonstrates a seismic image with medium frequency and medium noise.
+this image demonstrates a subsurface representation of a dip-slip fault of a tilt.
+this image demonstrates a model with medium frequency and medium noise.
+this image represents a 2D section of a rigid deformation known or fault of a tilt.

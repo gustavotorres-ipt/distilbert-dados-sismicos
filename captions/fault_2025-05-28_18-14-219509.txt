@@ -1,0 +1,6 @@
+this image demonstrates a subsurface model with a structural deformation.
+we observe here a model of a tectonic fault.
+this image demonstrates a subsurface representation with a tectonic deformation of medium frequency and medium noise.
+this model depicts a model of medium frequency and medium noise.
+this image demonstrates a 2D section of medium frequency and medium noise.
+we observe here a 2D section with a tectonic deformation.

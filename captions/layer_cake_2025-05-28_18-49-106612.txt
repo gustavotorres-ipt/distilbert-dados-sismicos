@@ -1,0 +1,7 @@
+this image represents a model with medium frequency and low noise.
+this image demonstrates a 2D subsurface model with a layer-cake stratigraphy section.
+we see here a seismic image of a section with flat horizons of medium frequency and low noise.
+this image represents a subsurface representation with a flat bed stratigraphy section.
+we see here a section with a flat bed stratigraphy section of medium frequency and low noise.
+this model depicts a subsurface representation of a section with flat horizons.
+this image represents a 2D section with a model with no structural deformation.

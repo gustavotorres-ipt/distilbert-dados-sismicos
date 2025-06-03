@@ -1,0 +1,4 @@
+this model depicts a sesimic section of a structural deformation with an erosional unconformity.
+we see here a seismic image of a structural discontinuity with an erosional unconformity with high frequency and medium noise.
+this model depicts a section of a horizons displacement along fault of a nonconformity.
+this image demonstrates a 2D subsurface model of high frequency and medium noise.

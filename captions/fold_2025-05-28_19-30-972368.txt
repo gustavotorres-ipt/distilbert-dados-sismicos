@@ -1,0 +1,7 @@
+this image represents a 2D section with medium frequency and medium noise.
+this image demonstrates a section with a fold of medium frequency and medium noise.
+we see here a model of an antiform with medium frequency and medium noise.
+this image demonstrates a subsurface model of medium frequency and medium noise.
+this model depicts a subsurface model of an anticline.
+we see here a 2D subsurface model of medium frequency and medium noise.
+this image represents a subsurface representation with an anticline with medium frequency and medium noise.

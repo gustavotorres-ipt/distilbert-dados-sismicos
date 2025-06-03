@@ -1,0 +1,7 @@
+this model depicts a model with a dip-slip fault with a fold.
+this model depicts a 2D subsurface model of a dip-slip fault with a tectonic compression with low frequency and low noise.
+this image represents a 2D section with a tectonic fault of a fold of low frequency and low noise.
+we see here a 2D subsurface model with a fault with a ductile deformation.
+we observe here a subsurface model with a structural discontinuity with a fold.
+this image represents a sesimic section with a rigid deformation known or fault with a folded deformation.
+we observe here a seismic image with low frequency and low noise.

@@ -1,0 +1,2 @@
+this image represents a seismic image with a section with flat horizons.
+we observe here a subsurface model of an undeformed section of medium frequency and medium noise.

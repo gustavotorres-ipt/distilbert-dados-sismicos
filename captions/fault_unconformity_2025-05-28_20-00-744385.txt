@@ -1,0 +1,3 @@
+this model depicts a 2D subsurface model of medium frequency and medium noise.
+this image demonstrates a section with a fault of an angular unconformity.
+this image represents a seismic image of a geologic rigid deformation with an erosional unconformity.

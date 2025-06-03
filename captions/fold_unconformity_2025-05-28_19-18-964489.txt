@@ -1,0 +1,7 @@
+this model depicts a 2D section of a structural compression with an erosional unconformity.
+this image represents a seismic image of medium frequency and medium noise.
+this image represents a model with a tectonic compression of an unconformity.
+we see here a subsurface model of medium frequency and medium noise.
+we see here a section with medium frequency and medium noise.
+we observe here a section of a fold of a disconformity with medium frequency and medium noise.
+this image represents a model of a structural compression with an angular unconformity.

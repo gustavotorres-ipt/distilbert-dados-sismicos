@@ -1,0 +1,6 @@
+this image demonstrates a 2D subsurface model with a horizons displacement along fault of a tectonic compression with a tilt.
+we see here a subsurface model of a geologic rigid deformation with an antiform with an inclined horizontal beds.
+we observe here a 2D section of low frequency and medium noise.
+we observe here a subsurface model with a geologic rigid deformation with an antiform of a tilted horizontal beds of low frequency and medium noise.
+we see here a seismic image of a structural discontinuity of an antiform with an inclined horizontal beds.
+this image demonstrates a 2D section with a geologic rigid deformation with an anticline with an inclined horizontal beds.

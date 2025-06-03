@@ -1,0 +1,3 @@
+this image represents a seismic image of an undeformed section.
+this image demonstrates a model with a layer-cake model.
+we see here a sesimic section of high frequency and medium noise.

@@ -1,0 +1,6 @@
+this image demonstrates a 2D section with a model with no structural deformation.
+this image represents a 2D subsurface model of medium frequency and low noise.
+this image demonstrates a section of a layer-cake stratigraphy section of medium frequency and low noise.
+this image represents a subsurface representation with a layer-cake model.
+this image demonstrates a section of medium frequency and low noise.
+we observe here a model with a model with no structural deformation.

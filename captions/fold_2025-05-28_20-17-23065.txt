@@ -1,0 +1,5 @@
+we observe here a 2D subsurface model with a folded deformation.
+this image demonstrates a subsurface representation of a ductile deformation.
+this model depicts a 2D subsurface model of a tectonic compression.
+we observe here a section with a structural compression with high frequency and low noise.
+this model depicts a section with a structural compression.

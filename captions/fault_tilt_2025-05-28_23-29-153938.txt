@@ -1,0 +1,3 @@
+this image represents a model of low frequency and medium noise.
+we observe here a seismic image with a structural deformation of a subsurface layer rotation.
+this model depicts a subsurface model of a horizons displacement along fault of an inclined horizontal beds.

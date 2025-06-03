@@ -1,0 +1,2 @@
+we see here a 2D subsurface model of medium frequency and medium noise.
+this model depicts a 2D subsurface model of a geologic rigid deformation with a tilted horizontal beds.

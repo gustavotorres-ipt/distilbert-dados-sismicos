@@ -1,0 +1,3 @@
+this image demonstrates a 2D subsurface model with low frequency and medium noise.
+this model depicts a section of low frequency and medium noise.
+we see here a seismic image with a tilted horizontal beds.

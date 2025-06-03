@@ -1,0 +1,5 @@
+we see here a subsurface model with a geologic rigid deformation of a structural compression.
+we see here a 2D subsurface model of a structural discontinuity with a ductile deformation.
+we observe here a 2D subsurface model with a structural discontinuity of a folded deformation.
+we see here a subsurface representation with a tectonic fault of a folded deformation.
+this image represents a subsurface model of high frequency and medium noise.

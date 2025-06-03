@@ -1,0 +1,4 @@
+this image demonstrates a section with a fault.
+this image represents a 2D section of high frequency and medium noise.
+we see here a subsurface representation of a structural deformation.
+we see here a model with a structural discontinuity.

@@ -1,0 +1,4 @@
+we see here a seismic image with a fold.
+we see here a seismic image with a ductile deformation.
+this model depicts a section of a folded deformation.
+this model depicts a subsurface model of a tectonic compression with medium frequency and high noise.

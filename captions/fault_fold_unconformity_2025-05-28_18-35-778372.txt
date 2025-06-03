@@ -1,0 +1,7 @@
+this image represents a section of medium frequency and medium noise.
+this image represents a 2D subsurface model with a structural discontinuity with a ductile deformation with a disconformity.
+we see here a 2D section of a structural discontinuity of a folded deformation of an angular unconformity.
+this image represents a sesimic section with a tectonic deformation with an antiform of an erosional unconformity.
+this image represents a model of a fault of an anticline with an unconformity.
+we see here a subsurface model of a rigid deformation known or fault of a ductile deformation of a nonconformity with medium frequency and medium noise.
+this image demonstrates a sesimic section with a rigid deformation known or fault of a folded deformation of a disconformity.

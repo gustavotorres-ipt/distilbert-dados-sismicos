@@ -1,0 +1,4 @@
+we see here a 2D section of medium frequency and medium noise.
+this image represents a section of a horizons displacement along fault with a ductile deformation of a disconformity.
+we observe here a 2D subsurface model with a tectonic fault of an anticline of an angular unconformity of medium frequency and medium noise.
+this model depicts a sesimic section of a dip-slip fault of a tectonic compression of an erosional unconformity.

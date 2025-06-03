@@ -1,0 +1,5 @@
+this model depicts a seismic image of medium frequency and medium noise.
+this model depicts a 2D section of medium frequency and medium noise.
+this image demonstrates a 2D subsurface model of a tilt of medium frequency and medium noise.
+we see here a subsurface representation of medium frequency and medium noise.
+this model depicts a sesimic section with a subsurface layer rotation of medium frequency and medium noise.

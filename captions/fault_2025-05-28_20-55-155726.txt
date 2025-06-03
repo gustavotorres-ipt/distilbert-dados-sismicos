@@ -1,0 +1,5 @@
+we observe here a subsurface model with a structural deformation.
+this model depicts a 2D section of a rigid deformation known or fault.
+we see here a subsurface representation of medium frequency and low noise.
+we observe here a subsurface model with a horizons displacement along fault.
+we see here a subsurface model of a dip-slip fault.

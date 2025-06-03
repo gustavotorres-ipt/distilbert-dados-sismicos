@@ -1,0 +1,6 @@
+this model depicts a 2D section with medium frequency and medium noise.
+we see here a section of a rigid deformation known or fault of a tilt with medium frequency and medium noise.
+this model depicts a subsurface representation with medium frequency and medium noise.
+we see here a seismic image of a geologic rigid deformation with an inclined horizontal beds of medium frequency and medium noise.
+this image represents a section of a fault of a tilted horizontal beds.
+we observe here a section of a tectonic fault of an inclined horizontal beds with medium frequency and medium noise.

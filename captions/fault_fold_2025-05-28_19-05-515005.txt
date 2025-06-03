@@ -1,0 +1,5 @@
+this image represents a 2D section of medium frequency and medium noise.
+this image represents a model of a tectonic fault with a folded deformation.
+we see here a subsurface representation of a fault of a fold of medium frequency and medium noise.
+this image demonstrates a model with a tectonic fault with a structural compression.
+we see here a seismic image of a geologic rigid deformation of a tectonic compression.

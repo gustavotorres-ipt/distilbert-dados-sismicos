@@ -1,0 +1,5 @@
+this model depicts a 2D section with a fold.
+this model depicts a section with a ductile deformation with medium frequency and medium noise.
+we observe here a 2D subsurface model of a tectonic compression.
+we observe here a 2D section of a ductile deformation.
+this image demonstrates a 2D section of a fold.

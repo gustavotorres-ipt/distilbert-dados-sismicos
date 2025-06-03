@@ -1,0 +1,4 @@
+this image represents a subsurface representation of a horizons displacement along fault.
+this model depicts a sesimic section of a structural deformation.
+we observe here a 2D subsurface model with a structural discontinuity.
+we observe here a 2D subsurface model with a dip-slip fault.

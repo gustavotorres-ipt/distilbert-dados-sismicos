@@ -1,0 +1,5 @@
+this model depicts a sesimic section of an erosional unconformity.
+we see here a subsurface model with high frequency and medium noise.
+this model depicts a subsurface representation of high frequency and medium noise.
+this image represents a section with a disconformity with high frequency and medium noise.
+we observe here a 2D subsurface model of a disconformity with high frequency and medium noise.

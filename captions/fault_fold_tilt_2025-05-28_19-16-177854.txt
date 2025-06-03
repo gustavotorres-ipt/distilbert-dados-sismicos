@@ -1,0 +1,2 @@
+this image represents a subsurface model with medium frequency and high noise.
+this model depicts a 2D subsurface model of a tectonic deformation with a ductile deformation with a subsurface layer rotation.

@@ -1,0 +1,5 @@
+this image demonstrates a subsurface representation with medium frequency and medium noise.
+this image represents a subsurface representation of medium frequency and medium noise.
+this model depicts a 2D section of a fault with a folded deformation with an inclined horizontal beds with an angular unconformity.
+this image represents a seismic image with a geologic rigid deformation with a folded deformation with a tilted horizontal beds with an erosional unconformity with medium frequency and medium noise.
+this model depicts a sesimic section of medium frequency and medium noise.

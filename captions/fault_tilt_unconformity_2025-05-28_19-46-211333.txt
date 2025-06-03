@@ -1,0 +1,5 @@
+this image represents a 2D subsurface model of a horizons displacement along fault of a subsurface layer rotation of a nonconformity.
+this image demonstrates a 2D subsurface model of a horizons displacement along fault of a subsurface layer rotation of an erosional unconformity.
+this image represents a 2D section with high frequency and low noise.
+this image demonstrates a 2D subsurface model of a fault of a tectonic tilting with a disconformity.
+we see here a subsurface representation with a structural discontinuity with a tectonic tilting of an angular unconformity.

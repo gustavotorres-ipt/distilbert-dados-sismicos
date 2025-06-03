@@ -1,0 +1,5 @@
+this image demonstrates a 2D subsurface model of a tectonic tilting of a nonconformity.
+we see here a model of an inclined horizontal beds with a nonconformity.
+this image represents a subsurface representation with medium frequency and medium noise.
+we observe here a model of medium frequency and medium noise.
+this image demonstrates a model with an inclined horizontal beds of an unconformity.

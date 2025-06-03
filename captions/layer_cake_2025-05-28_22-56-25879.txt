@@ -1,0 +1,2 @@
+this model depicts a 2D section with a section with flat horizons of high frequency and medium noise.
+this model depicts a subsurface representation of a layer-cake structural model.

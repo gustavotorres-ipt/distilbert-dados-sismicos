@@ -1,0 +1,4 @@
+this model depicts a seismic image with medium frequency and medium noise.
+we observe here a sesimic section of a structural compression with an angular unconformity.
+we see here a section of a tectonic compression of an unconformity with medium frequency and medium noise.
+we observe here a 2D section with a structural compression of an unconformity.

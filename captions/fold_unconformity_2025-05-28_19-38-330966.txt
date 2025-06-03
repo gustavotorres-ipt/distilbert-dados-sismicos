@@ -1,0 +1,4 @@
+this image represents a subsurface model of a ductile deformation with an angular unconformity.
+this image represents a subsurface model of low frequency and high noise.
+this image represents a 2D section of low frequency and high noise.
+this image demonstrates a section with a fold with an erosional unconformity of low frequency and high noise.

@@ -1,0 +1,4 @@
+this image demonstrates a 2D section of a disconformity.
+we observe here a 2D subsurface model of an unconformity of high frequency and medium noise.
+this image represents a subsurface model of a nonconformity.
+this image represents a section with a disconformity.

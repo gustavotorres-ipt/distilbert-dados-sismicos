@@ -1,0 +1,5 @@
+this model depicts a sesimic section of high frequency and low noise.
+we observe here a 2D subsurface model of a dip-slip fault.
+this model depicts a subsurface representation with a structural deformation.
+we observe here a section with a structural discontinuity with high frequency and low noise.
+this image demonstrates a section of high frequency and low noise.

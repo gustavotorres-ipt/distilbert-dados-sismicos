@@ -1,0 +1,3 @@
+this image demonstrates a 2D section of an inclined horizontal beds with high frequency and medium noise.
+this image demonstrates a seismic image with high frequency and medium noise.
+this model depicts a seismic image of a subsurface layer rotation.

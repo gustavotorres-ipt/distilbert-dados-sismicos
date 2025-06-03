@@ -1,0 +1,7 @@
+we see here a 2D subsurface model of a geologic rigid deformation with an angular unconformity.
+we see here a subsurface representation with a dip-slip fault with an angular unconformity with high frequency and medium noise.
+we observe here a model of a rigid deformation known or fault with an erosional unconformity of high frequency and medium noise.
+we see here a sesimic section of a tectonic fault of a disconformity of high frequency and medium noise.
+we see here a subsurface model of a tectonic fault with an erosional unconformity.
+we see here a 2D section of a dip-slip fault with a disconformity.
+this model depicts a seismic image of high frequency and medium noise.

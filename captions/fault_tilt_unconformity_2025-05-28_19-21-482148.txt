@@ -1,0 +1,4 @@
+this image demonstrates a section of a horizons displacement along fault with a tilted horizontal beds of an angular unconformity with medium frequency and medium noise.
+this model depicts a section with a structural deformation of an inclined horizontal beds with a disconformity.
+this model depicts a 2D subsurface model of a structural deformation with a tilted horizontal beds with an unconformity of medium frequency and medium noise.
+we observe here a sesimic section of a structural discontinuity with a tilted horizontal beds with an unconformity.

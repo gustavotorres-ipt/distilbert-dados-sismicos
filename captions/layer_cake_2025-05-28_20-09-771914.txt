@@ -1,0 +1,2 @@
+we see here a 2D subsurface model with a model with no structural deformation with high frequency and medium noise.
+this image demonstrates a seismic image with an undeformed section.

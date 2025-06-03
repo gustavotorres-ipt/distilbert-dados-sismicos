@@ -1,0 +1,7 @@
+we see here a 2D section with a structural discontinuity of a tectonic compression of a subsurface layer rotation.
+we see here a 2D section with medium frequency and high noise.
+we observe here a seismic image with a horizons displacement along fault of a ductile deformation with a tilt of medium frequency and high noise.
+we see here a 2D subsurface model with a structural discontinuity of a tectonic compression of an inclined horizontal beds of medium frequency and high noise.
+we see here a 2D subsurface model of a geologic rigid deformation with a structural compression with a tectonic tilting.
+this image demonstrates a seismic image with a geologic rigid deformation with a ductile deformation of a tilted horizontal beds with medium frequency and high noise.
+we observe here a 2D subsurface model of a horizons displacement along fault with an anticline of an inclined horizontal beds with medium frequency and high noise.

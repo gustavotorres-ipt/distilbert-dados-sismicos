@@ -1,0 +1,3 @@
+this model depicts a sesimic section with a fault with an antiform with an unconformity.
+this model depicts a seismic image with high frequency and medium noise.
+this image demonstrates a section with a geologic rigid deformation of an antiform of an unconformity.

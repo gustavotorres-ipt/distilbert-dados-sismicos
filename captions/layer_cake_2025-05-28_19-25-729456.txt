@@ -1,0 +1,2 @@
+this image demonstrates a sesimic section of an undeformed section.
+we see here a subsurface representation of low frequency and high noise.

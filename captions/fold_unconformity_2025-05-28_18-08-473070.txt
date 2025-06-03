@@ -1,0 +1,6 @@
+we see here a subsurface representation of a fold with an unconformity.
+we see here a 2D subsurface model with a ductile deformation with an unconformity.
+we see here a sesimic section of a ductile deformation of a disconformity.
+this image demonstrates a model with high frequency and low noise.
+this image represents a sesimic section of an anticline with an erosional unconformity.
+we see here a subsurface representation of high frequency and low noise.

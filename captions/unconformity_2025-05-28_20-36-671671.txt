@@ -1,0 +1,4 @@
+this image demonstrates a subsurface representation with an unconformity.
+we observe here a seismic image with low frequency and medium noise.
+we see here a 2D section of an angular unconformity of low frequency and medium noise.
+this image represents a section with an angular unconformity.

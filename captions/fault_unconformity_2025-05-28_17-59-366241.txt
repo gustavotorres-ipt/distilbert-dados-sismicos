@@ -1,0 +1,6 @@
+this image represents a subsurface model with high frequency and low noise.
+we see here a subsurface model with a dip-slip fault with an angular unconformity with high frequency and low noise.
+we observe here a 2D section with a tectonic fault of an erosional unconformity with high frequency and low noise.
+this image represents a seismic image of a tectonic fault of an erosional unconformity.
+this image represents a subsurface representation with high frequency and low noise.
+this image represents a subsurface representation of a horizons displacement along fault with an unconformity with high frequency and low noise.

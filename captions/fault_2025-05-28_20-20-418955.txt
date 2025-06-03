@@ -1,0 +1,5 @@
+this image represents a model of a structural discontinuity.
+this model depicts a 2D section with low frequency and medium noise.
+we see here a subsurface representation with low frequency and medium noise.
+we observe here a 2D subsurface model with a fault.
+this model depicts a section of a structural discontinuity.

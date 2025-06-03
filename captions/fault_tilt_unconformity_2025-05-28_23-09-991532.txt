@@ -1,0 +1,5 @@
+this image represents a sesimic section with low frequency and medium noise.
+we see here a model with a structural discontinuity with a tilt with an unconformity with low frequency and medium noise.
+this image represents a subsurface model with low frequency and medium noise.
+this model depicts a subsurface representation with a tectonic deformation with a tilted horizontal beds with a nonconformity.
+we see here a seismic image of low frequency and medium noise.

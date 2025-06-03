@@ -1,0 +1,5 @@
+we see here a seismic image of low frequency and low noise.
+we see here a subsurface representation of low frequency and low noise.
+this image demonstrates a 2D section with a nonconformity.
+we observe here a seismic image of an angular unconformity.
+we observe here a model of an erosional unconformity of low frequency and low noise.

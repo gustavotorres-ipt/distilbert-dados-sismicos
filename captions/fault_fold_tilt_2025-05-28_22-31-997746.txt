@@ -1,0 +1,4 @@
+this image represents a seismic image with medium frequency and high noise.
+we see here a section with a geologic rigid deformation of a tectonic compression with a tilted horizontal beds.
+this model depicts a section of a horizons displacement along fault with an antiform of a tilt of medium frequency and high noise.
+this model depicts a section with a geologic rigid deformation of a structural compression of a tectonic tilting of medium frequency and high noise.

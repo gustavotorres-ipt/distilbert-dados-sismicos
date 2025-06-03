@@ -1,0 +1,3 @@
+this image demonstrates a sesimic section of a model with no structural deformation.
+this image demonstrates a 2D section with a flat bed stratigraphy section.
+this image demonstrates a subsurface model with low frequency and low noise.

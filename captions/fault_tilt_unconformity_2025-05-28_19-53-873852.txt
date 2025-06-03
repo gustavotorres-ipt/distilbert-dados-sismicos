@@ -1,0 +1,6 @@
+we observe here a section with a tectonic deformation of a tilted horizontal beds with an erosional unconformity.
+we observe here a 2D subsurface model with a dip-slip fault with an inclined horizontal beds of an unconformity.
+we observe here a seismic image of a geologic rigid deformation with an inclined horizontal beds with an erosional unconformity.
+we observe here a 2D subsurface model of a fault with an inclined horizontal beds with a disconformity.
+we observe here a 2D section with low frequency and high noise.
+we see here a seismic image of a geologic rigid deformation of an inclined horizontal beds with a nonconformity.

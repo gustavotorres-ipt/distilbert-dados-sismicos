@@ -1,0 +1,5 @@
+we observe here a seismic image of high frequency and medium noise.
+this image represents a sesimic section of high frequency and medium noise.
+we observe here a 2D subsurface model of a horizons displacement along fault with an angular unconformity.
+we observe here a model of high frequency and medium noise.
+this image represents a seismic image with a horizons displacement along fault of an erosional unconformity.

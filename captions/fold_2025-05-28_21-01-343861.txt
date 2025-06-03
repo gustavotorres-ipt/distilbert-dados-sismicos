@@ -1,0 +1,2 @@
+this model depicts a 2D section of a structural compression.
+this model depicts a model with high frequency and medium noise.

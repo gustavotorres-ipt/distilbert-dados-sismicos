@@ -1,0 +1,4 @@
+this image represents a sesimic section of a fault with an unconformity.
+we see here a 2D section with a fault of an unconformity with medium frequency and medium noise.
+we observe here a section of medium frequency and medium noise.
+this model depicts a subsurface representation with a tectonic deformation of an erosional unconformity.

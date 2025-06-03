@@ -1,0 +1,7 @@
+this image demonstrates a 2D subsurface model of an anticline of an unconformity.
+this model depicts a sesimic section of a ductile deformation of an erosional unconformity.
+this image represents a 2D section with a folded deformation with a disconformity of low frequency and medium noise.
+we observe here a model with an anticline of a nonconformity.
+this model depicts a sesimic section of low frequency and medium noise.
+this image demonstrates a 2D section with low frequency and medium noise.
+we observe here a model of a folded deformation with an unconformity.

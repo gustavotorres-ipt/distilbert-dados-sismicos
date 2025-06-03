@@ -1,0 +1,4 @@
+this image demonstrates a 2D subsurface model with a dip-slip fault with a subsurface layer rotation of high frequency and medium noise.
+this image represents a sesimic section with high frequency and medium noise.
+we see here a seismic image of a tectonic deformation of an inclined horizontal beds.
+we see here a section of high frequency and medium noise.

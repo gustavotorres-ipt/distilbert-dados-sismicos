@@ -1,0 +1,5 @@
+this image demonstrates a 2D subsurface model of a rigid deformation known or fault with an erosional unconformity.
+we see here a 2D subsurface model of a fault of a disconformity.
+this image demonstrates a 2D subsurface model of medium frequency and high noise.
+this image demonstrates a seismic image of a rigid deformation known or fault with an unconformity of medium frequency and high noise.
+we observe here a subsurface model with medium frequency and high noise.

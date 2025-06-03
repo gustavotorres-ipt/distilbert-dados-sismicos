@@ -1,0 +1,3 @@
+this image represents a model with a geologic rigid deformation with a tilted horizontal beds with medium frequency and high noise.
+we see here a model with a tectonic deformation with a tilt.
+this image represents a 2D subsurface model of a tectonic deformation with a tilt.

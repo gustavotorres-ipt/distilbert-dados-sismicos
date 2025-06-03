@@ -1,0 +1,3 @@
+this image represents a 2D section of a dip-slip fault.
+we observe here a sesimic section with high frequency and medium noise.
+this image demonstrates a sesimic section with a horizons displacement along fault of high frequency and medium noise.

@@ -1,0 +1,4 @@
+this image demonstrates a 2D section of a nonconformity.
+this image demonstrates a model with medium frequency and medium noise.
+we see here a subsurface representation of medium frequency and medium noise.
+we observe here a model with an erosional unconformity.

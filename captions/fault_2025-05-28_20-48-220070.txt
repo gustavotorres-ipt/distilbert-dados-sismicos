@@ -1,0 +1,2 @@
+we see here a seismic image with a dip-slip fault of low frequency and medium noise.
+this image demonstrates a 2D subsurface model of a structural deformation.

@@ -1,0 +1,4 @@
+this image represents a seismic image with a subsurface layer rotation with high frequency and medium noise.
+this model depicts a 2D subsurface model with a subsurface layer rotation.
+we observe here a 2D subsurface model of a subsurface layer rotation.
+we observe here a 2D subsurface model of a tilt.

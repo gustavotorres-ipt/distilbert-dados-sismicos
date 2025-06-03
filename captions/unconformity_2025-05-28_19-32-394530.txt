@@ -1,0 +1,6 @@
+this image demonstrates a seismic image of an angular unconformity.
+this image demonstrates a subsurface representation of a disconformity.
+this model depicts a subsurface representation with an unconformity.
+this model depicts a subsurface representation of a nonconformity.
+this image demonstrates a 2D subsurface model with an unconformity with high frequency and high noise.
+this model depicts a subsurface representation with a disconformity.

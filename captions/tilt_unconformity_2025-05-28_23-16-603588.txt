@@ -1,0 +1,3 @@
+this model depicts a subsurface model with an inclined horizontal beds of a disconformity.
+this image represents a sesimic section with a tilt of a disconformity.
+this image demonstrates a 2D subsurface model of medium frequency and medium noise.

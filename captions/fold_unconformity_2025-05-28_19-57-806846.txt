@@ -1,0 +1,2 @@
+we see here a seismic image with medium frequency and low noise.
+this model depicts a 2D subsurface model with an anticline with an unconformity.

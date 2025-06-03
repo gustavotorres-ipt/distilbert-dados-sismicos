@@ -1,0 +1,5 @@
+we see here a model with a tectonic deformation with a tectonic tilting of a nonconformity.
+this image represents a section of a structural deformation with a tilt of an angular unconformity.
+we see here a 2D subsurface model of a rigid deformation known or fault with a subsurface layer rotation with an unconformity.
+this image represents a sesimic section with medium frequency and high noise.
+this image represents a section with a rigid deformation known or fault of an inclined horizontal beds with a nonconformity.

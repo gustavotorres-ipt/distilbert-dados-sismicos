@@ -1,0 +1,6 @@
+this model depicts a sesimic section of medium frequency and medium noise.
+this model depicts a 2D section with a rigid deformation known or fault with a tilt with an angular unconformity.
+we see here a sesimic section of a tectonic fault of a tilted horizontal beds with an erosional unconformity of medium frequency and medium noise.
+this image demonstrates a section with a dip-slip fault with a tilt of an erosional unconformity of medium frequency and medium noise.
+we see here a seismic image with a tectonic deformation with a tilt of a nonconformity.
+this image demonstrates a sesimic section with medium frequency and medium noise.

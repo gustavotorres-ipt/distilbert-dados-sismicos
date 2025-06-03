@@ -1,0 +1,3 @@
+this image represents a subsurface model of a structural discontinuity of medium frequency and medium noise.
+this image represents a subsurface representation with a geologic rigid deformation.
+this image represents a subsurface representation of a fault.

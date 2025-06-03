@@ -1,0 +1,5 @@
+this model depicts a model with medium frequency and low noise.
+this image represents a sesimic section with a dip-slip fault of a folded deformation.
+this image demonstrates a section with medium frequency and low noise.
+this image represents a sesimic section with medium frequency and low noise.
+this image demonstrates a 2D subsurface model with a rigid deformation known or fault with a folded deformation with medium frequency and low noise.

@@ -1,0 +1,4 @@
+we observe here a 2D section with high frequency and medium noise.
+we observe here a section with a structural discontinuity.
+this image demonstrates a 2D subsurface model of a rigid deformation known or fault.
+this image represents a sesimic section with a tectonic fault.

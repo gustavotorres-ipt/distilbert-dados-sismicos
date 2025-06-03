@@ -1,0 +1,2 @@
+this image demonstrates a subsurface representation with a folded deformation of an inclined horizontal beds.
+we observe here a model with medium frequency and low noise.

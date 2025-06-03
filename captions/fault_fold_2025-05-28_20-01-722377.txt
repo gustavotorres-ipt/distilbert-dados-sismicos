@@ -1,0 +1,4 @@
+this model depicts a 2D section with a dip-slip fault of a folded deformation of medium frequency and medium noise.
+this image represents a seismic image of a geologic rigid deformation of a fold with medium frequency and medium noise.
+this image demonstrates a subsurface representation of a structural deformation with a structural compression.
+we see here a subsurface representation with a fault of an antiform.

@@ -1,0 +1,5 @@
+this image demonstrates a 2D subsurface model with a fault of an inclined horizontal beds with a disconformity of medium frequency and medium noise.
+this image represents a subsurface model with a horizons displacement along fault with a subsurface layer rotation with a nonconformity.
+this image demonstrates a 2D subsurface model with a rigid deformation known or fault with a tilted horizontal beds with an erosional unconformity with medium frequency and medium noise.
+we observe here a subsurface representation with a fault with a tilt of an erosional unconformity with medium frequency and medium noise.
+this model depicts a model with medium frequency and medium noise.

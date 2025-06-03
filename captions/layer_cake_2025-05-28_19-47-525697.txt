@@ -1,0 +1,4 @@
+this image represents a 2D section with high frequency and medium noise.
+we observe here a model of a flat bed stratigraphy section with high frequency and medium noise.
+we observe here a subsurface model with a section with flat horizons of high frequency and medium noise.
+this image represents a 2D subsurface model with a section with flat horizons with high frequency and medium noise.

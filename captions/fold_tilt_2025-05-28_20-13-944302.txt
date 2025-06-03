@@ -1,0 +1,4 @@
+this model depicts a subsurface model with a tectonic compression with a tilted horizontal beds.
+this model depicts a sesimic section of a ductile deformation of an inclined horizontal beds.
+we observe here a sesimic section with a tectonic compression with an inclined horizontal beds.
+this image represents a 2D section of an anticline with a tectonic tilting of medium frequency and medium noise.

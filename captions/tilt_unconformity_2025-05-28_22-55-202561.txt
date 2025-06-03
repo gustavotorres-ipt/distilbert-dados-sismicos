@@ -1,0 +1,7 @@
+this model depicts a seismic image with medium frequency and low noise.
+we observe here a model of a tilted horizontal beds of an erosional unconformity.
+this image represents a section with an inclined horizontal beds of a nonconformity.
+this image demonstrates a subsurface model with an inclined horizontal beds with an unconformity.
+this image demonstrates a model of a subsurface layer rotation with an unconformity.
+this image demonstrates a subsurface representation with a subsurface layer rotation of an unconformity.
+this model depicts a subsurface model of medium frequency and low noise.

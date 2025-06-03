@@ -1,0 +1,3 @@
+this model depicts a model with an angular unconformity.
+this model depicts a 2D section of a disconformity.
+we observe here a section with an erosional unconformity.

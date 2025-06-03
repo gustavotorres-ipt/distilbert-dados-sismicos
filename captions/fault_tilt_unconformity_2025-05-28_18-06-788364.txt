@@ -1,0 +1,7 @@
+this model depicts a subsurface representation with low frequency and high noise.
+we see here a sesimic section with a rigid deformation known or fault of a tectonic tilting with an erosional unconformity.
+we see here a 2D section with a horizons displacement along fault of a tilted horizontal beds of an erosional unconformity.
+we observe here a 2D subsurface model of a dip-slip fault with a subsurface layer rotation of a disconformity.
+this image demonstrates a 2D subsurface model of a fault of a tectonic tilting with a disconformity.
+this model depicts a seismic image with a structural discontinuity of a tilted horizontal beds of an erosional unconformity.
+this model depicts a section with a tectonic deformation with an inclined horizontal beds with an angular unconformity.

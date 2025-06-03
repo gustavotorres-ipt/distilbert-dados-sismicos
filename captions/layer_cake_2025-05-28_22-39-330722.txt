@@ -1,0 +1,6 @@
+this image demonstrates a 2D subsurface model with a section with flat horizons.
+this image represents a subsurface representation with an undeformed section.
+we observe here a section of an undeformed section.
+we see here a seismic image of a flat bed stratigraphy section.
+this image represents a subsurface model with a layer-cake structural model of high frequency and medium noise.
+this model depicts a seismic image of a section with flat horizons.

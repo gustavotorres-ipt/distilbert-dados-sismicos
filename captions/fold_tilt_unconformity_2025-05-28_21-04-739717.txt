@@ -1,0 +1,3 @@
+this image demonstrates a seismic image of a folded deformation of a tilted horizontal beds with a nonconformity of medium frequency and high noise.
+we observe here a 2D section with a fold with a tilted horizontal beds with an angular unconformity.
+this model depicts a sesimic section with medium frequency and high noise.

@@ -1,0 +1,7 @@
+this image demonstrates a subsurface model of a structural discontinuity.
+this image represents a subsurface model of a fault.
+we observe here a 2D subsurface model with a structural discontinuity with high frequency and low noise.
+we observe here a subsurface representation with a structural discontinuity with high frequency and low noise.
+this model depicts a section with a tectonic fault with high frequency and low noise.
+this image represents a section with a rigid deformation known or fault of high frequency and low noise.
+we see here a sesimic section of high frequency and low noise.

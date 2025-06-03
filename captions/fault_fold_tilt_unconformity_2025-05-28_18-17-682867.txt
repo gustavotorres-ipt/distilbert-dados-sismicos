@@ -1,0 +1,3 @@
+this model depicts a section of a structural discontinuity with a structural compression with a tilt with a nonconformity.
+we observe here a 2D subsurface model with a tectonic fault with a ductile deformation with a subsurface layer rotation of an unconformity with low frequency and medium noise.
+this model depicts a subsurface model with low frequency and medium noise.

@@ -1,0 +1,4 @@
+this model depicts a 2D section of a dip-slip fault of a fold.
+this model depicts a sesimic section with a tectonic deformation of a structural compression of high frequency and medium noise.
+this image demonstrates a section of a structural discontinuity with an anticline.
+this model depicts a subsurface representation with a tectonic deformation of an antiform with high frequency and medium noise.

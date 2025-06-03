@@ -1,0 +1,4 @@
+this model depicts a sesimic section of a tectonic deformation of a tilt with a nonconformity.
+this image demonstrates a 2D section with a rigid deformation known or fault with a tilted horizontal beds with a disconformity.
+this model depicts a 2D section of high frequency and medium noise.
+this image represents a subsurface model of a tectonic deformation of a tectonic tilting of an unconformity of high frequency and medium noise.

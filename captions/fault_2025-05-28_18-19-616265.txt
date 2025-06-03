@@ -1,0 +1,2 @@
+this image demonstrates a seismic image with a tectonic deformation with high frequency and medium noise.
+this image represents a 2D subsurface model of a fault.

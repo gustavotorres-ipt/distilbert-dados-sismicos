@@ -1,0 +1,6 @@
+this model depicts a subsurface model with a tilted horizontal beds.
+we observe here a seismic image of low frequency and medium noise.
+this image represents a model with a tilted horizontal beds.
+this image represents a subsurface model with a tilted horizontal beds with low frequency and medium noise.
+we see here a seismic image with a subsurface layer rotation.
+this image demonstrates a 2D subsurface model of a tilted horizontal beds.

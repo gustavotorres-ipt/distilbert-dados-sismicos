@@ -1,0 +1,6 @@
+this model depicts a subsurface model of a rigid deformation known or fault with a structural compression with an inclined horizontal beds.
+this model depicts a sesimic section of a structural deformation of a folded deformation with a tilt.
+this image represents a 2D section with a horizons displacement along fault of an anticline with an inclined horizontal beds with high frequency and medium noise.
+this image represents a sesimic section with a dip-slip fault of a fold with an inclined horizontal beds.
+we see here a subsurface model with high frequency and medium noise.
+we see here a seismic image with a structural discontinuity of a structural compression with a tilted horizontal beds with high frequency and medium noise.

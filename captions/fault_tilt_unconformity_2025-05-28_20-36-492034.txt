@@ -1,0 +1,5 @@
+this model depicts a model with a fault of a subsurface layer rotation of an angular unconformity.
+this image demonstrates a subsurface representation of a dip-slip fault with a subsurface layer rotation of a nonconformity.
+we observe here a subsurface model with a geologic rigid deformation of an inclined horizontal beds of an angular unconformity.
+this model depicts a 2D section of a horizons displacement along fault with an inclined horizontal beds of an erosional unconformity.
+we see here a 2D section with high frequency and low noise.

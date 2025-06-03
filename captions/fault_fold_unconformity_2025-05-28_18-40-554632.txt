@@ -1,0 +1,4 @@
+this image demonstrates a subsurface model with a geologic rigid deformation with a tectonic compression of a disconformity of high frequency and medium noise.
+this image represents a subsurface model with a fault of a folded deformation with a disconformity.
+this image demonstrates a 2D section with a rigid deformation known or fault of an anticline with an erosional unconformity with high frequency and medium noise.
+this model depicts a section with a structural deformation of a folded deformation of an erosional unconformity.

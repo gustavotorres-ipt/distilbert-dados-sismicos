@@ -1,0 +1,3 @@
+this image demonstrates a model of an anticline with medium frequency and medium noise.
+we observe here a 2D section of an anticline.
+this image represents a subsurface model with an anticline of medium frequency and medium noise.

@@ -1,0 +1,4 @@
+this image demonstrates a 2D section with a dip-slip fault with a tilt of medium frequency and medium noise.
+this model depicts a seismic image with a geologic rigid deformation of an inclined horizontal beds of medium frequency and medium noise.
+this image represents a 2D section with medium frequency and medium noise.
+this image represents a seismic image with medium frequency and medium noise.

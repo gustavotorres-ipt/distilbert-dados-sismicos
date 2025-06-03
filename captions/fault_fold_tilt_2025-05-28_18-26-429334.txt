@@ -1,0 +1,4 @@
+this image demonstrates a sesimic section of a fault of a folded deformation of a tilted horizontal beds.
+this image represents a subsurface representation with medium frequency and low noise.
+we observe here a 2D section of medium frequency and low noise.
+we see here a 2D subsurface model of a geologic rigid deformation of a fold of a subsurface layer rotation with medium frequency and low noise.

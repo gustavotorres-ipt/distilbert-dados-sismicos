@@ -1,0 +1,2 @@
+this model depicts a 2D subsurface model with an erosional unconformity.
+this model depicts a subsurface model with medium frequency and low noise.

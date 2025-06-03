@@ -1,0 +1,4 @@
+this image represents a 2D subsurface model with a geologic rigid deformation with a fold with high frequency and medium noise.
+this image demonstrates a subsurface representation of a structural deformation of a ductile deformation.
+this model depicts a subsurface representation with a geologic rigid deformation of a ductile deformation with high frequency and medium noise.
+this image represents a sesimic section with high frequency and medium noise.

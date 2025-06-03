@@ -1,0 +1,4 @@
+this image demonstrates a sesimic section with medium frequency and medium noise.
+this model depicts a 2D section of a flat bed stratigraphy section.
+we see here a seismic image with a model with no tectonic deformation.
+we see here a sesimic section with a section with flat horizons of medium frequency and medium noise.

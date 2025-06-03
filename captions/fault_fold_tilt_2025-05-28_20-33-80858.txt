@@ -1,0 +1,2 @@
+this image demonstrates a subsurface model with a geologic rigid deformation with a tectonic compression with a tectonic tilting with low frequency and high noise.
+this image demonstrates a 2D section with a tectonic fault with a tectonic compression with a subsurface layer rotation with low frequency and high noise.

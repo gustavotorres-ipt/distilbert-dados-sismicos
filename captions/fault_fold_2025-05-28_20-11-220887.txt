@@ -1,0 +1,7 @@
+this model depicts a section with medium frequency and medium noise.
+this model depicts a 2D section of a fault with a tectonic compression with medium frequency and medium noise.
+we observe here a 2D section of a dip-slip fault with a structural compression.
+we observe here a sesimic section of a horizons displacement along fault with a folded deformation with medium frequency and medium noise.
+we observe here a seismic image with a structural deformation of a tectonic compression.
+this model depicts a 2D subsurface model of medium frequency and medium noise.
+this image demonstrates a model with a geologic rigid deformation of a folded deformation.

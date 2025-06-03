@@ -1,0 +1,7 @@
+we observe here a 2D section with a ductile deformation with a nonconformity.
+we see here a 2D section with an anticline with a nonconformity.
+this image demonstrates a seismic image of a folded deformation of an angular unconformity with low frequency and medium noise.
+this image demonstrates a sesimic section of an anticline with a disconformity of low frequency and medium noise.
+this image demonstrates a sesimic section with an antiform of a nonconformity with low frequency and medium noise.
+we see here a subsurface representation of low frequency and medium noise.
+this model depicts a subsurface representation with an antiform of a disconformity.

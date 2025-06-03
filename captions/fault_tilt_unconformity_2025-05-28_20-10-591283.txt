@@ -1,0 +1,5 @@
+this model depicts a section of a tectonic deformation with a tilted horizontal beds with an erosional unconformity.
+this image represents a subsurface representation of a tectonic fault of an inclined horizontal beds with an erosional unconformity with medium frequency and medium noise.
+this image represents a 2D section with a geologic rigid deformation with a subsurface layer rotation of a disconformity.
+we see here a seismic image of a structural deformation of a tilt of an angular unconformity.
+this image represents a model with medium frequency and medium noise.

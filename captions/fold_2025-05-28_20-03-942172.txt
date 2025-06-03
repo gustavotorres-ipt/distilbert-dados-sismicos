@@ -1,0 +1,7 @@
+this model depicts a 2D subsurface model of a folded deformation.
+this model depicts a subsurface representation with low frequency and medium noise.
+we observe here a 2D subsurface model of low frequency and medium noise.
+this image represents a subsurface representation with an antiform.
+this image represents a 2D subsurface model of an antiform.
+this image represents a 2D subsurface model of a ductile deformation.
+this image represents a 2D subsurface model with an anticline.

@@ -1,0 +1,4 @@
+this model depicts a subsurface model of a tectonic fault of an erosional unconformity.
+this image demonstrates a 2D subsurface model of a fault with a disconformity with high frequency and high noise.
+we observe here a 2D subsurface model with a geologic rigid deformation with an unconformity.
+we observe here a sesimic section of a geologic rigid deformation with a disconformity.

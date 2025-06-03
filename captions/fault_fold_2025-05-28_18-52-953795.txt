@@ -1,0 +1,6 @@
+we observe here a 2D subsurface model with a dip-slip fault with an anticline.
+this image represents a subsurface representation with a tectonic fault of a fold.
+this image represents a subsurface model with low frequency and medium noise.
+we observe here a 2D subsurface model of low frequency and medium noise.
+this model depicts a section of a rigid deformation known or fault of a fold.
+we observe here a section of low frequency and medium noise.

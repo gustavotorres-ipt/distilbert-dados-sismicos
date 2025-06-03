@@ -1,0 +1,3 @@
+this image demonstrates a 2D section with medium frequency and medium noise.
+this model depicts a subsurface model with an inclined horizontal beds of an erosional unconformity.
+we observe here a 2D subsurface model of a subsurface layer rotation of a disconformity with medium frequency and medium noise.

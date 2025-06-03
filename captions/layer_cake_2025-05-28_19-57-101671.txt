@@ -1,0 +1,4 @@
+this image represents a seismic image with a section with flat horizons.
+this image represents a subsurface representation with low frequency and high noise.
+we observe here a subsurface model of a model with no structural deformation.
+we observe here a seismic image of low frequency and high noise.

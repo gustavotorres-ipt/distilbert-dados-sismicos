@@ -1,0 +1,3 @@
+this image represents a 2D subsurface model with a rigid deformation known or fault with an erosional unconformity.
+this image demonstrates a model of a rigid deformation known or fault with a disconformity with high frequency and medium noise.
+this image represents a subsurface representation with a geologic rigid deformation with a disconformity.

@@ -1,0 +1,7 @@
+this image represents a 2D subsurface model of high frequency and low noise.
+this image represents a model of a tectonic deformation of high frequency and low noise.
+we see here a 2D subsurface model with a geologic rigid deformation with high frequency and low noise.
+we see here a subsurface model of a fault.
+this image represents a section of high frequency and low noise.
+this model depicts a section of a horizons displacement along fault.
+this image represents a 2D section of high frequency and low noise.

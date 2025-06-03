@@ -1,0 +1,3 @@
+this model depicts a sesimic section with a tectonic fault of a tectonic compression of a tilted horizontal beds with low frequency and medium noise.
+this image demonstrates a 2D subsurface model of low frequency and medium noise.
+this image demonstrates a seismic image of a tectonic fault of a structural compression of a tilt.

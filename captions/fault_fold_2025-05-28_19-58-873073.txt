@@ -1,0 +1,4 @@
+this image demonstrates a sesimic section with a rigid deformation known or fault of a tectonic compression.
+this image demonstrates a seismic image with a horizons displacement along fault with a fold of medium frequency and medium noise.
+this image represents a sesimic section of medium frequency and medium noise.
+this model depicts a 2D subsurface model with a horizons displacement along fault of a folded deformation.

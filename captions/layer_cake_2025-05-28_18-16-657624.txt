@@ -1,0 +1,4 @@
+this image demonstrates a 2D subsurface model of a layer-cake stratigraphy section.
+this model depicts a section of a model with no structural deformation.
+this image demonstrates a section of a section with flat horizons with high frequency and medium noise.
+we see here a seismic image with a flat bed stratigraphy section.

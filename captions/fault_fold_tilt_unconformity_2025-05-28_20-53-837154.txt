@@ -1,0 +1,2 @@
+this image demonstrates a sesimic section with high frequency and medium noise.
+this image demonstrates a 2D subsurface model with a horizons displacement along fault with a fold of a tilted horizontal beds with an angular unconformity with high frequency and medium noise.

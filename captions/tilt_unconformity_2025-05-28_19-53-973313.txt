@@ -1,0 +1,6 @@
+this image represents a sesimic section with an inclined horizontal beds with an angular unconformity of medium frequency and medium noise.
+this image demonstrates a 2D subsurface model of an inclined horizontal beds of an unconformity with medium frequency and medium noise.
+we see here a subsurface model of a tilt with an angular unconformity.
+this model depicts a sesimic section with medium frequency and medium noise.
+we observe here a 2D subsurface model with a tilted horizontal beds of an erosional unconformity of medium frequency and medium noise.
+this model depicts a subsurface representation with a tilt with an erosional unconformity.

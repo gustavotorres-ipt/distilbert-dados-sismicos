@@ -1,0 +1,4 @@
+this model depicts a 2D subsurface model with a geologic rigid deformation of a fold of a subsurface layer rotation with a disconformity of high frequency and medium noise.
+we observe here a subsurface representation of a tectonic deformation with a folded deformation with a tilted horizontal beds of a nonconformity with high frequency and medium noise.
+we observe here a seismic image of high frequency and medium noise.
+we see here a subsurface representation with a fault with a ductile deformation of an inclined horizontal beds of an erosional unconformity with high frequency and medium noise.

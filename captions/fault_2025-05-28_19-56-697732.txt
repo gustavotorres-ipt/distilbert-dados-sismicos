@@ -1,0 +1,7 @@
+we see here a seismic image with a structural deformation.
+this model depicts a 2D subsurface model of a rigid deformation known or fault.
+we see here a 2D section with low frequency and high noise.
+we observe here a subsurface representation with a rigid deformation known or fault.
+this image represents a section of a dip-slip fault with low frequency and high noise.
+this image represents a 2D section of low frequency and high noise.
+this model depicts a 2D section of a tectonic deformation.

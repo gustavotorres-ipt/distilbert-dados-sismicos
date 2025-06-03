@@ -1,0 +1,3 @@
+this model depicts a seismic image with a nonconformity.
+we observe here a 2D subsurface model with an unconformity.
+this model depicts a seismic image with an erosional unconformity.

@@ -1,0 +1,3 @@
+this image demonstrates a 2D subsurface model with high frequency and low noise.
+we see here a section with a tectonic tilting with a nonconformity.
+this model depicts a seismic image of high frequency and low noise.

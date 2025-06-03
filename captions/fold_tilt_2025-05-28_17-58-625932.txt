@@ -1,0 +1,4 @@
+we observe here a 2D subsurface model with high frequency and low noise.
+we observe here a 2D subsurface model with a folded deformation of a subsurface layer rotation.
+we observe here a subsurface representation of a tectonic compression with a tilted horizontal beds.
+this image represents a subsurface model of an antiform of an inclined horizontal beds.

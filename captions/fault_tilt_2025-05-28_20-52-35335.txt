@@ -1,0 +1,3 @@
+this image represents a 2D section of a structural discontinuity of a tilt.
+this image demonstrates a sesimic section with low frequency and medium noise.
+this image demonstrates a subsurface representation of a structural discontinuity with an inclined horizontal beds with low frequency and medium noise.

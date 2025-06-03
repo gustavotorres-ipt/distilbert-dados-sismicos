@@ -1,0 +1,4 @@
+this image demonstrates a sesimic section with a tilted horizontal beds with an angular unconformity.
+we observe here a 2D section of low frequency and high noise.
+this image demonstrates a subsurface model with low frequency and high noise.
+we see here a subsurface model of a tilt with an unconformity of low frequency and high noise.

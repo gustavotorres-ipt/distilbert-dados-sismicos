@@ -1,0 +1,5 @@
+this image represents a 2D section with a tectonic fault with a ductile deformation of a tectonic tilting with low frequency and medium noise.
+this model depicts a 2D subsurface model with low frequency and medium noise.
+this model depicts a seismic image with a horizons displacement along fault with an antiform with a tectonic tilting.
+this model depicts a section of low frequency and medium noise.
+we observe here a 2D section with low frequency and medium noise.

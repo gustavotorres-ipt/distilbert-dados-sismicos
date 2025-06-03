@@ -1,0 +1,5 @@
+this image demonstrates a 2D subsurface model of a tectonic deformation.
+we observe here a subsurface representation of a fault.
+we see here a sesimic section with medium frequency and medium noise.
+we observe here a section of a rigid deformation known or fault.
+this image represents a seismic image with a tectonic deformation with medium frequency and medium noise.

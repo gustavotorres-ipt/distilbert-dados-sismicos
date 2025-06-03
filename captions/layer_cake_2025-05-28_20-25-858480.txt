@@ -1,0 +1,5 @@
+we see here a section of an undeformed section.
+we observe here a subsurface model of a model with no tectonic deformation.
+we see here a 2D subsurface model of medium frequency and medium noise.
+this image represents a subsurface model with medium frequency and medium noise.
+we observe here a 2D subsurface model of a section with flat horizons.

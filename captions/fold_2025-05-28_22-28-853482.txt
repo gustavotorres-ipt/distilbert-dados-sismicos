@@ -1,0 +1,7 @@
+this model depicts a subsurface representation of high frequency and medium noise.
+this image represents a seismic image with a fold.
+we see here a seismic image with a folded deformation of high frequency and medium noise.
+we observe here a section of an antiform.
+this image represents a sesimic section with an anticline of high frequency and medium noise.
+this model depicts a 2D section of a folded deformation.
+we see here a 2D subsurface model with a ductile deformation with high frequency and medium noise.

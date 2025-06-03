@@ -1,0 +1,3 @@
+this model depicts a subsurface representation of a fold with a disconformity.
+this model depicts a section of a folded deformation of a nonconformity.
+this model depicts a model of a folded deformation with a disconformity of high frequency and low noise.

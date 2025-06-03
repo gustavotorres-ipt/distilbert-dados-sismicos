@@ -1,0 +1,6 @@
+this image demonstrates a subsurface model with low frequency and medium noise.
+we observe here a section with a tectonic deformation with an antiform.
+this image represents a seismic image with low frequency and medium noise.
+we observe here a sesimic section with a fault of an antiform of low frequency and medium noise.
+we observe here a section of a tectonic fault of a fold.
+we see here a 2D section with a structural deformation with a fold.

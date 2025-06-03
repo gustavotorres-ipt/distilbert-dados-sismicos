@@ -1,0 +1,6 @@
+this image represents a subsurface model of a geologic rigid deformation of a nonconformity.
+we observe here a section of a fault with a disconformity with high frequency and medium noise.
+this image demonstrates a subsurface representation with a geologic rigid deformation with an erosional unconformity.
+we observe here a sesimic section of high frequency and medium noise.
+this image demonstrates a subsurface model with a geologic rigid deformation with an angular unconformity.
+we see here a sesimic section of high frequency and medium noise.

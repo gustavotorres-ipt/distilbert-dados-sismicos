@@ -1,0 +1,5 @@
+this image represents a seismic image with a geologic rigid deformation with a tectonic tilting of medium frequency and medium noise.
+this model depicts a 2D section with a tectonic fault with a tilt.
+we observe here a 2D subsurface model with a dip-slip fault with an inclined horizontal beds with medium frequency and medium noise.
+we observe here a 2D subsurface model with medium frequency and medium noise.
+we observe here a 2D subsurface model of a structural deformation of a tectonic tilting.

@@ -1,0 +1,2 @@
+this model depicts a subsurface model of medium frequency and high noise.
+this model depicts a 2D section with a rigid deformation known or fault with a folded deformation of an angular unconformity.

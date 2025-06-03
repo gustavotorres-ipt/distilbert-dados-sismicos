@@ -1,0 +1,3 @@
+this image demonstrates a 2D section with low frequency and high noise.
+this model depicts a subsurface model with a tectonic deformation with a folded deformation of an angular unconformity.
+we observe here a section with low frequency and high noise.

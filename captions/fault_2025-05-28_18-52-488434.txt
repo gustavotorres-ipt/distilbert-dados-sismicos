@@ -1,0 +1,4 @@
+this model depicts a subsurface model with a structural deformation of low frequency and high noise.
+this image demonstrates a subsurface model with low frequency and high noise.
+we see here a subsurface representation of a tectonic fault.
+this image represents a section with a dip-slip fault of low frequency and high noise.

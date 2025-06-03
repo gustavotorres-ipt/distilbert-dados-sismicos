@@ -1,0 +1,4 @@
+we see here a model of a tectonic deformation.
+we observe here a model with a tectonic deformation with medium frequency and low noise.
+we observe here a seismic image of a fault with medium frequency and low noise.
+we see here a model with a rigid deformation known or fault of medium frequency and low noise.

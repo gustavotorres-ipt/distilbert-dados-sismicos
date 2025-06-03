@@ -1,0 +1,4 @@
+this image represents a section of a dip-slip fault of a structural compression of a tectonic tilting.
+this model depicts a sesimic section of a structural discontinuity of a folded deformation of an inclined horizontal beds.
+this model depicts a subsurface representation with a horizons displacement along fault of a structural compression with a tilt.
+we see here a 2D section with high frequency and medium noise.

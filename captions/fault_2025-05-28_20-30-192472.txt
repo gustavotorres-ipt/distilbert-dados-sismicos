@@ -1,0 +1,6 @@
+this image demonstrates a subsurface model with medium frequency and medium noise.
+this image represents a seismic image with a structural deformation.
+this model depicts a subsurface model with medium frequency and medium noise.
+we see here a 2D section with a tectonic fault.
+this model depicts a 2D section of a structural discontinuity.
+we see here a subsurface model of a rigid deformation known or fault.

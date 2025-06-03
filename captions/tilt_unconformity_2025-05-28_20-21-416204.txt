@@ -1,0 +1,3 @@
+we observe here a 2D subsurface model with high frequency and medium noise.
+we see here a section with a subsurface layer rotation with a disconformity of high frequency and medium noise.
+this image represents a sesimic section with an inclined horizontal beds of a nonconformity with high frequency and medium noise.

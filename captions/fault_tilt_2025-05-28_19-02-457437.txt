@@ -1,0 +1,5 @@
+this image represents a seismic image of high frequency and low noise.
+we observe here a section with high frequency and low noise.
+this model depicts a subsurface representation with a rigid deformation known or fault of a subsurface layer rotation with high frequency and low noise.
+this image demonstrates a sesimic section with a geologic rigid deformation with a tilted horizontal beds with high frequency and low noise.
+this model depicts a 2D subsurface model with a rigid deformation known or fault of an inclined horizontal beds with high frequency and low noise.

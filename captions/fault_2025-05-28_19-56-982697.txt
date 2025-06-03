@@ -1,0 +1,4 @@
+this image represents a model with a dip-slip fault.
+we see here a 2D subsurface model of a fault.
+we observe here a seismic image of a tectonic deformation.
+this model depicts a sesimic section with a dip-slip fault of low frequency and medium noise.

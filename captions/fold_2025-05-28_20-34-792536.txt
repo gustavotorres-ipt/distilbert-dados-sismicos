@@ -1,0 +1,4 @@
+this image represents a 2D section with low frequency and high noise.
+this image represents a seismic image of an antiform.
+this model depicts a sesimic section with a tectonic compression.
+this image represents a 2D subsurface model with a fold of low frequency and high noise.

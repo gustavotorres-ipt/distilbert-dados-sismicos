@@ -1,0 +1,6 @@
+this image represents a 2D section with a fault.
+we see here a sesimic section with a geologic rigid deformation.
+this image demonstrates a section of a geologic rigid deformation.
+we observe here a seismic image with a structural deformation.
+this image demonstrates a 2D subsurface model of a rigid deformation known or fault.
+we see here a sesimic section of medium frequency and medium noise.

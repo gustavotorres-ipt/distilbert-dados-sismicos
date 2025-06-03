@@ -1,0 +1,3 @@
+we see here a 2D subsurface model with an unconformity of medium frequency and medium noise.
+we see here a seismic image with an angular unconformity.
+this model depicts a model of a disconformity.

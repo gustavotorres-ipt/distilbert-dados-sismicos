@@ -1,0 +1,2 @@
+this image demonstrates a model of a horizons displacement along fault with a tilted horizontal beds.
+this image demonstrates a 2D section with a horizons displacement along fault of a tectonic tilting.

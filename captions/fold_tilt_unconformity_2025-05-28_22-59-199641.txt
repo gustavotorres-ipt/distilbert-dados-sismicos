@@ -1,0 +1,7 @@
+we see here a seismic image with a tectonic compression of an inclined horizontal beds of a disconformity.
+this image represents a subsurface model with high frequency and medium noise.
+this image demonstrates a 2D section of high frequency and medium noise.
+this image represents a subsurface model of a fold with a subsurface layer rotation of an erosional unconformity with high frequency and medium noise.
+this image demonstrates a 2D subsurface model with a folded deformation of a tilted horizontal beds with a disconformity.
+we observe here a 2D subsurface model with high frequency and medium noise.
+we observe here a seismic image with high frequency and medium noise.

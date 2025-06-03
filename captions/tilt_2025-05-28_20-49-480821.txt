@@ -1,0 +1,7 @@
+we observe here a section of high frequency and medium noise.
+this image represents a subsurface representation with a subsurface layer rotation.
+this model depicts a 2D subsurface model with a subsurface layer rotation with high frequency and medium noise.
+we observe here a 2D subsurface model of a tilted horizontal beds.
+we observe here a section of an inclined horizontal beds.
+this model depicts a 2D section with a tilt.
+we observe here a model with a tilted horizontal beds.

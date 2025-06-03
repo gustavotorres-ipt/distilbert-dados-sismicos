@@ -1,0 +1,4 @@
+this image represents a seismic image of a folded deformation with a subsurface layer rotation of high frequency and medium noise.
+this model depicts a model with high frequency and medium noise.
+we see here a subsurface model of a structural compression with an inclined horizontal beds.
+this model depicts a model with a ductile deformation with a subsurface layer rotation.

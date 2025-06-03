@@ -1,0 +1,4 @@
+we see here a 2D section with a dip-slip fault with a tilt.
+this image demonstrates a 2D section of high frequency and medium noise.
+this model depicts a 2D section with high frequency and medium noise.
+we see here a subsurface representation of a tectonic deformation of a tilted horizontal beds.

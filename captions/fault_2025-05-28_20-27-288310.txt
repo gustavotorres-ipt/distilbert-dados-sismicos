@@ -1,0 +1,2 @@
+this image demonstrates a 2D subsurface model with medium frequency and medium noise.
+this image represents a seismic image with a structural deformation.

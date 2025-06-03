@@ -1,0 +1,3 @@
+this model depicts a seismic image of a layer-cake structural model with high frequency and high noise.
+this image represents a 2D subsurface model with a model with no tectonic deformation with high frequency and high noise.
+this image demonstrates a sesimic section with a flat bed stratigraphy section with high frequency and high noise.

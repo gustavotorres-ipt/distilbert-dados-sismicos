@@ -1,0 +1,6 @@
+this image demonstrates a model of a horizons displacement along fault of an unconformity with high frequency and medium noise.
+this image represents a 2D section with a tectonic deformation with a nonconformity.
+this image represents a 2D section with a tectonic deformation with a disconformity with high frequency and medium noise.
+this image demonstrates a 2D subsurface model with a dip-slip fault of a disconformity with high frequency and medium noise.
+this image demonstrates a subsurface model of a horizons displacement along fault with an erosional unconformity with high frequency and medium noise.
+we see here a model of a structural deformation with a disconformity with high frequency and medium noise.

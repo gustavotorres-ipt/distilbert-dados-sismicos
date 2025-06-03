@@ -1,0 +1,4 @@
+this image represents a 2D subsurface model with a dip-slip fault with a tectonic compression of a tilted horizontal beds of a disconformity.
+we see here a sesimic section with high frequency and medium noise.
+this image demonstrates a 2D subsurface model of a horizons displacement along fault with an anticline of a subsurface layer rotation with a nonconformity of high frequency and medium noise.
+we see here a 2D section with a tectonic deformation of an anticline with a subsurface layer rotation of an angular unconformity.

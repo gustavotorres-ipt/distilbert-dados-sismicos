@@ -1,0 +1,7 @@
+this image demonstrates a subsurface model with a structural discontinuity of an anticline of an inclined horizontal beds with medium frequency and medium noise.
+this image represents a 2D subsurface model with a geologic rigid deformation of a folded deformation with a tectonic tilting.
+this image represents a subsurface representation with a dip-slip fault of an antiform with a tilt of medium frequency and medium noise.
+we see here a sesimic section of a dip-slip fault of a folded deformation of a tilted horizontal beds.
+we see here a model of a structural discontinuity of an anticline with a tilted horizontal beds.
+this model depicts a section of a horizons displacement along fault with an antiform with a tilt.
+we observe here a section with a tectonic fault of a folded deformation with a tilted horizontal beds.

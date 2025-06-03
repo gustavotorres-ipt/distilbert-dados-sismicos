@@ -1,0 +1,4 @@
+this image represents a 2D subsurface model of high frequency and medium noise.
+this image represents a model with a structural compression with a tilted horizontal beds.
+we see here a 2D section with an anticline with a subsurface layer rotation.
+this image represents a sesimic section of an antiform with a tilted horizontal beds with high frequency and medium noise.

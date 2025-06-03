@@ -1,0 +1,3 @@
+this model depicts a subsurface representation of a rigid deformation known or fault with a folded deformation with a nonconformity.
+this model depicts a 2D subsurface model with a fault with a fold with a nonconformity of high frequency and low noise.
+this image demonstrates a model with a fault with a folded deformation with an angular unconformity.

@@ -1,0 +1,5 @@
+this image demonstrates a sesimic section of a tectonic fault of a tectonic compression.
+we see here a seismic image with a structural deformation of an anticline.
+this image demonstrates a section with a geologic rigid deformation of a fold.
+we see here a 2D subsurface model with a structural discontinuity with an anticline of medium frequency and high noise.
+this image represents a section with a tectonic fault with an anticline.

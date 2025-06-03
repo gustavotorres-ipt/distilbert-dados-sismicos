@@ -1,0 +1,3 @@
+this image demonstrates a 2D subsurface model of a tectonic deformation.
+we observe here a subsurface representation with a dip-slip fault.
+this image demonstrates a section with a fault of high frequency and low noise.

@@ -1,0 +1,4 @@
+this image represents a subsurface representation of a folded deformation.
+this image represents a sesimic section with low frequency and medium noise.
+this model depicts a 2D section of low frequency and medium noise.
+this model depicts a 2D subsurface model with low frequency and medium noise.

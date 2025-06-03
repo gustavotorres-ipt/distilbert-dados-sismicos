@@ -1,0 +1,5 @@
+this image demonstrates a 2D subsurface model with a structural discontinuity of a structural compression with an inclined horizontal beds.
+this image represents a section with a structural discontinuity with a ductile deformation with a tilted horizontal beds.
+we observe here a 2D section with a tectonic deformation of an antiform with a tilt.
+this image demonstrates a 2D section with a fault with a structural compression with a subsurface layer rotation.
+this model depicts a seismic image with a structural discontinuity of an anticline of a subsurface layer rotation of medium frequency and high noise.

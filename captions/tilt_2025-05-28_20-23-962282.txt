@@ -1,0 +1,6 @@
+we observe here a 2D subsurface model with a tilt.
+this image demonstrates a sesimic section of a subsurface layer rotation.
+we observe here a 2D subsurface model with medium frequency and medium noise.
+we see here a subsurface representation with a subsurface layer rotation.
+this image represents a 2D section with a tilted horizontal beds.
+this image represents a section of medium frequency and medium noise.

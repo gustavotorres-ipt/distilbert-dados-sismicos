@@ -1,0 +1,3 @@
+this image demonstrates a 2D subsurface model with medium frequency and high noise.
+this image demonstrates a model of a geologic rigid deformation of a tectonic tilting.
+we see here a model with a structural deformation with an inclined horizontal beds.

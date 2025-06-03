@@ -1,0 +1,2 @@
+this image demonstrates a seismic image with a dip-slip fault of a tilted horizontal beds.
+this image represents a sesimic section of medium frequency and medium noise.

@@ -1,0 +1,5 @@
+we observe here a seismic image of a tectonic tilting with high frequency and medium noise.
+this model depicts a 2D section of a tilt.
+this image represents a sesimic section of high frequency and medium noise.
+we observe here a subsurface model with an inclined horizontal beds.
+we see here a subsurface model with a subsurface layer rotation of high frequency and medium noise.

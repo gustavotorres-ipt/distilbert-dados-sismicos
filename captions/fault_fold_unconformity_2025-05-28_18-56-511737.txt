@@ -1,0 +1,7 @@
+this model depicts a 2D section of medium frequency and medium noise.
+this image represents a subsurface model of a geologic rigid deformation of a structural compression of a nonconformity.
+this image represents a 2D section of a horizons displacement along fault of an antiform with a nonconformity.
+this model depicts a model with a fault with a folded deformation of an erosional unconformity.
+this image represents a section of medium frequency and medium noise.
+this model depicts a seismic image of a rigid deformation known or fault with a ductile deformation of a nonconformity.
+this model depicts a 2D subsurface model with medium frequency and medium noise.

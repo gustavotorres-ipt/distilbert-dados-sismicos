@@ -1,0 +1,2 @@
+this model depicts a 2D section of a structural deformation with a folded deformation of an erosional unconformity.
+this model depicts a subsurface representation with a dip-slip fault of a folded deformation of a disconformity.

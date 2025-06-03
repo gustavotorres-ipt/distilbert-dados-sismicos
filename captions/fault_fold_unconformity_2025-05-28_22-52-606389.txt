@@ -1,0 +1,7 @@
+this image represents a 2D subsurface model with a structural discontinuity of an anticline with a nonconformity.
+this image demonstrates a 2D subsurface model with a tectonic deformation with a fold with an erosional unconformity.
+this image represents a seismic image with a rigid deformation known or fault of a tectonic compression with a disconformity.
+this image represents a 2D subsurface model with a tectonic deformation with a fold with an unconformity.
+this image demonstrates a 2D section with medium frequency and high noise.
+we observe here a 2D section of a fault with a fold of an angular unconformity.
+we see here a model of a geologic rigid deformation with a tectonic compression of an angular unconformity.

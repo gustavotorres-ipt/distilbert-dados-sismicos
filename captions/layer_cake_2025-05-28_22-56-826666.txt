@@ -1,0 +1,4 @@
+this model depicts a 2D section with a layer-cake model.
+this image demonstrates a seismic image of a section with flat horizons with medium frequency and high noise.
+this model depicts a subsurface representation of a layer-cake structural model.
+this model depicts a subsurface representation of medium frequency and high noise.

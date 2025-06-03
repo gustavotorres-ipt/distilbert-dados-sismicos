@@ -1,0 +1,4 @@
+we see here a 2D subsurface model of a geologic rigid deformation with a tectonic compression with an erosional unconformity.
+this image demonstrates a 2D subsurface model with a fault with a tectonic compression of an angular unconformity with high frequency and medium noise.
+we observe here a sesimic section of a rigid deformation known or fault of a structural compression of an erosional unconformity.
+this image represents a seismic image with a fault with a fold with a disconformity of high frequency and medium noise.

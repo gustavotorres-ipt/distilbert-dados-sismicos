@@ -1,0 +1,5 @@
+this image demonstrates a section of a subsurface layer rotation of a nonconformity.
+this model depicts a subsurface model with a subsurface layer rotation with an unconformity of medium frequency and medium noise.
+we observe here a 2D subsurface model with a subsurface layer rotation of an angular unconformity with medium frequency and medium noise.
+we observe here a sesimic section of an inclined horizontal beds of a nonconformity.
+we see here a sesimic section with a tilted horizontal beds with an unconformity with medium frequency and medium noise.

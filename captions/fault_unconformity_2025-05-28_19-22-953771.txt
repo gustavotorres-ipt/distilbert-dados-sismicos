@@ -1,0 +1,5 @@
+we see here a subsurface model with a tectonic fault with an unconformity with low frequency and medium noise.
+this model depicts a sesimic section with a geologic rigid deformation with a disconformity.
+we observe here a subsurface representation of a tectonic deformation with an angular unconformity of low frequency and medium noise.
+this model depicts a 2D subsurface model of a structural discontinuity with a disconformity.
+we see here a 2D section of a geologic rigid deformation of an angular unconformity.

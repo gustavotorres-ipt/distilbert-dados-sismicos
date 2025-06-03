@@ -1,0 +1,6 @@
+this image demonstrates a subsurface representation with a fault of a tectonic compression of an erosional unconformity.
+we observe here a 2D section with low frequency and medium noise.
+we observe here a 2D subsurface model of low frequency and medium noise.
+we observe here a 2D subsurface model with a fault of a folded deformation of an angular unconformity.
+we see here a subsurface model of low frequency and medium noise.
+we observe here a section with low frequency and medium noise.

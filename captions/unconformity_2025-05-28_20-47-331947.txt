@@ -1,0 +1,4 @@
+this image demonstrates a subsurface representation with a nonconformity.
+this model depicts a seismic image of an unconformity.
+we see here a 2D subsurface model of a nonconformity with medium frequency and medium noise.
+this image demonstrates a model with a disconformity.

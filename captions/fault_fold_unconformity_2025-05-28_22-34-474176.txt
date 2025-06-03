@@ -1,0 +1,5 @@
+we observe here a section of a tectonic deformation with an anticline with a disconformity.
+we observe here a subsurface representation of a tectonic fault with an anticline of a nonconformity.
+we see here a section of a geologic rigid deformation of an anticline with an unconformity with low frequency and medium noise.
+we see here a section of a dip-slip fault with an antiform of a nonconformity with low frequency and medium noise.
+we see here a subsurface representation of a fault with a folded deformation with an erosional unconformity with low frequency and medium noise.

@@ -1,0 +1,3 @@
+this model depicts a 2D section of a structural compression with a tilted horizontal beds of an erosional unconformity.
+this image demonstrates a 2D subsurface model of an antiform of a tectonic tilting with an angular unconformity.
+we observe here a seismic image of high frequency and medium noise.

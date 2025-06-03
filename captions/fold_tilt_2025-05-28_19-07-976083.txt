@@ -1,0 +1,7 @@
+this image demonstrates a 2D section of low frequency and medium noise.
+this image represents a 2D section with a folded deformation with a subsurface layer rotation.
+this image represents a section with a structural compression with a tectonic tilting.
+this image demonstrates a sesimic section of an anticline with a subsurface layer rotation.
+we see here a seismic image of low frequency and medium noise.
+this image represents a section with a folded deformation with a subsurface layer rotation.
+we observe here a seismic image with low frequency and medium noise.

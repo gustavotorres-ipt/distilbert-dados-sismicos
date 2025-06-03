@@ -1,0 +1,5 @@
+this image represents a model of a structural compression.
+we see here a seismic image with a tectonic compression with low frequency and medium noise.
+this image demonstrates a sesimic section of low frequency and medium noise.
+this image represents a 2D section with a tectonic compression with low frequency and medium noise.
+we see here a subsurface model of low frequency and medium noise.

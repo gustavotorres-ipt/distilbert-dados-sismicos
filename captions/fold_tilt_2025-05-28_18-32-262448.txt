@@ -1,0 +1,4 @@
+this image represents a 2D section of an anticline of an inclined horizontal beds.
+this image represents a sesimic section of low frequency and medium noise.
+we see here a subsurface model with a structural compression of an inclined horizontal beds with low frequency and medium noise.
+this image demonstrates a model with a ductile deformation with a tilt of low frequency and medium noise.

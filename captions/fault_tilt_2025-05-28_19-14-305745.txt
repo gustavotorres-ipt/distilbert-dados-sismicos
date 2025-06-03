@@ -1,0 +1,3 @@
+this model depicts a subsurface representation with low frequency and medium noise.
+this image represents a 2D subsurface model with a fault with a subsurface layer rotation with low frequency and medium noise.
+we observe here a 2D section with low frequency and medium noise.

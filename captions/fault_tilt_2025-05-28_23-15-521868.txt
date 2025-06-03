@@ -1,0 +1,7 @@
+this model depicts a section with a tectonic fault of a tectonic tilting of medium frequency and low noise.
+this model depicts a subsurface representation with medium frequency and low noise.
+this model depicts a 2D subsurface model of a geologic rigid deformation with a tilt of medium frequency and low noise.
+this image demonstrates a sesimic section with a rigid deformation known or fault with a subsurface layer rotation.
+this image demonstrates a 2D section with a structural discontinuity with a subsurface layer rotation.
+we observe here a seismic image with a geologic rigid deformation of a tectonic tilting of medium frequency and low noise.
+we observe here a subsurface model with a geologic rigid deformation of a tilt with medium frequency and low noise.

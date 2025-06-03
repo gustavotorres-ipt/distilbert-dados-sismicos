@@ -1,0 +1,7 @@
+this image represents a subsurface representation of a structural deformation.
+this model depicts a 2D subsurface model with a fault.
+we observe here a model of a dip-slip fault with medium frequency and medium noise.
+this model depicts a 2D section of medium frequency and medium noise.
+we see here a subsurface representation with a fault.
+this image demonstrates a subsurface model with a tectonic fault.
+this image demonstrates a 2D section with a horizons displacement along fault.

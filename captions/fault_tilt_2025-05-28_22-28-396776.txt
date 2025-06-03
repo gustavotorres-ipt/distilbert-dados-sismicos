@@ -1,0 +1,5 @@
+this image demonstrates a 2D section with a structural deformation of a tilted horizontal beds.
+this image demonstrates a sesimic section with a tectonic deformation with a subsurface layer rotation.
+this image demonstrates a subsurface model with a dip-slip fault of a tilted horizontal beds.
+we observe here a sesimic section with high frequency and medium noise.
+we observe here a seismic image of a tectonic fault of a tilt.

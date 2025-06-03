@@ -1,0 +1,3 @@
+this image represents a section of a fold with a tilt with medium frequency and medium noise.
+we observe here a model with medium frequency and medium noise.
+this model depicts a section of an antiform with a tilt.

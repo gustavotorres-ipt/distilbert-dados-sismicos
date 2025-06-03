@@ -1,0 +1,2 @@
+we see here a seismic image of a ductile deformation with a tilt with high frequency and low noise.
+this image represents a 2D subsurface model with a folded deformation with a tilted horizontal beds.

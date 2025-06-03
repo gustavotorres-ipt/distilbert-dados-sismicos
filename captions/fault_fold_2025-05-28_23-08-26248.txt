@@ -1,0 +1,2 @@
+this image demonstrates a model of high frequency and medium noise.
+this model depicts a section with a structural discontinuity with a folded deformation.

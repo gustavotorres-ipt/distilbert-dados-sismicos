@@ -1,0 +1,2 @@
+this image demonstrates a model with medium frequency and medium noise.
+this image demonstrates a seismic image of a rigid deformation known or fault of an inclined horizontal beds.

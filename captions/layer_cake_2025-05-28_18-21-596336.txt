@@ -1,0 +1,2 @@
+we observe here a subsurface representation of a flat bed stratigraphy section.
+this model depicts a 2D subsurface model of a model with no tectonic deformation with medium frequency and medium noise.

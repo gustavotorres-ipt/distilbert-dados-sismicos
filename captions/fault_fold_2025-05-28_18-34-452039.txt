@@ -1,0 +1,7 @@
+this image demonstrates a seismic image of a structural deformation with an antiform with high frequency and medium noise.
+we see here a subsurface model with a geologic rigid deformation of a tectonic compression of high frequency and medium noise.
+this image demonstrates a seismic image with high frequency and medium noise.
+this image represents a section of a structural discontinuity of a structural compression.
+we see here a model with high frequency and medium noise.
+we see here a 2D subsurface model of a horizons displacement along fault with a folded deformation.
+this image represents a 2D section of a horizons displacement along fault with a fold.

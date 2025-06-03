@@ -1,0 +1,6 @@
+this image demonstrates a section with low frequency and medium noise.
+this model depicts a section of a structural compression.
+this image demonstrates a sesimic section with a folded deformation.
+this image demonstrates a 2D subsurface model of an antiform with low frequency and medium noise.
+we observe here a seismic image with a ductile deformation.
+we see here a seismic image of a folded deformation with low frequency and medium noise.

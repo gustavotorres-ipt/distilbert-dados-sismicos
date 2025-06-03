@@ -1,0 +1,6 @@
+this model depicts a sesimic section of a structural deformation.
+we observe here a subsurface representation of a dip-slip fault.
+this image represents a section with a structural discontinuity.
+we see here a 2D subsurface model of medium frequency and medium noise.
+we see here a model of medium frequency and medium noise.
+this image demonstrates a 2D subsurface model with a geologic rigid deformation.

@@ -1,0 +1,3 @@
+this image represents a section with low frequency and medium noise.
+we observe here a subsurface representation of an erosional unconformity of low frequency and medium noise.
+this image demonstrates a 2D section with an unconformity.

@@ -1,0 +1,7 @@
+this image demonstrates a 2D subsurface model with a dip-slip fault of a tectonic compression with a tectonic tilting with an angular unconformity.
+we observe here a subsurface model with a tectonic fault of a tectonic compression with a tectonic tilting of a nonconformity.
+this image represents a model with a fault with an anticline with a tilted horizontal beds with a nonconformity.
+we see here a subsurface representation with a horizons displacement along fault with an antiform of a tilt with an unconformity of high frequency and medium noise.
+this image demonstrates a seismic image of a dip-slip fault of an anticline of a tectonic tilting with a nonconformity.
+this image demonstrates a subsurface model with a tectonic fault of a fold with a tectonic tilting with a disconformity.
+this image demonstrates a section of a fault of a ductile deformation with a subsurface layer rotation of a disconformity.
