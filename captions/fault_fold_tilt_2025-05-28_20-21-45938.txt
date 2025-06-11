@@ -1,7 +1,0 @@
-we observe here a 2D section with a geologic rigid deformation of a structural compression with a tilt.
-we observe here a sesimic section with a tectonic fault with an anticline with a subsurface layer rotation.
-this model depicts a subsurface representation with a rigid deformation known or fault with a ductile deformation with a tectonic tilting.
-we see here a 2D section with a tectonic deformation with a tectonic compression with a tectonic tilting.
-we see here a 2D subsurface model of a fault with a ductile deformation with a tectonic tilting.
-we see here a 2D section with a horizons displacement along fault with a structural compression with a subsurface layer rotation of high frequency and low noise.
-this image represents a subsurface model with a dip-slip fault with an antiform of a tectonic tilting with high frequency and low noise.

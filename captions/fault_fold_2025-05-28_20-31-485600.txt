@@ -1,7 +1,0 @@
-we see here a 2D section with medium frequency and medium noise.
-this image represents a subsurface representation of a geologic rigid deformation of an antiform.
-this model depicts a subsurface model with a dip-slip fault of a ductile deformation.
-we observe here a 2D subsurface model of a horizons displacement along fault with a tectonic compression of medium frequency and medium noise.
-this image demonstrates a seismic image of a fault of a structural compression.
-this image represents a 2D subsurface model of a fault of a ductile deformation.
-this image demonstrates a subsurface model with a fault of a fold of medium frequency and medium noise.

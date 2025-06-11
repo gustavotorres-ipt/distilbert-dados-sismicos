@@ -1,2 +1,0 @@
-this image represents a seismic image with a dip-slip fault of a ductile deformation.
-we see here a section of a horizons displacement along fault with an antiform of high frequency and high noise.

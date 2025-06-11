@@ -1,2 +1,0 @@
-this image demonstrates a 2D section of a section with flat horizons of high frequency and low noise.
-this image represents a subsurface model of a layer-cake stratigraphy section.

@@ -1,2 +1,0 @@
-this model depicts a subsurface model with low frequency and medium noise.
-this image demonstrates a subsurface representation with a subsurface layer rotation with a disconformity with low frequency and medium noise.

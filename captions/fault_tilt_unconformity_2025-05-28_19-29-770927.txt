@@ -1,2 +1,0 @@
-this image demonstrates a 2D subsurface model with a tectonic deformation with a tilt of an unconformity.
-we see here a subsurface model of a horizons displacement along fault with a tilt with an angular unconformity with high frequency and medium noise.

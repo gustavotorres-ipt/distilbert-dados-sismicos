@@ -1,4 +1,0 @@
-this image represents a 2D subsurface model with low frequency and high noise.
-we observe here a subsurface model of a fault with an anticline of low frequency and high noise.
-this model depicts a sesimic section of a tectonic fault of a tectonic compression of low frequency and high noise.
-this image represents a sesimic section with a geologic rigid deformation of a structural compression.

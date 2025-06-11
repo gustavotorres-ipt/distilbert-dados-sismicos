@@ -1,5 +1,0 @@
-we see here a 2D subsurface model with a ductile deformation of a tilt.
-we see here a 2D section with high frequency and low noise.
-we observe here a subsurface representation of a fold with a tectonic tilting of high frequency and low noise.
-we see here a subsurface representation with a fold of a subsurface layer rotation with high frequency and low noise.
-we observe here a seismic image of an anticline with a tilt.

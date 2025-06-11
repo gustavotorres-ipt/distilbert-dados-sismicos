@@ -1,7 +1,0 @@
-this image represents a 2D subsurface model of a tectonic deformation with a fold.
-we observe here a 2D subsurface model with medium frequency and medium noise.
-we observe here a 2D section of medium frequency and medium noise.
-this model depicts a 2D section with a tectonic fault with a folded deformation of medium frequency and medium noise.
-we observe here a subsurface model of medium frequency and medium noise.
-this image demonstrates a 2D section with medium frequency and medium noise.
-this image demonstrates a 2D subsurface model of a structural deformation of an anticline of medium frequency and medium noise.

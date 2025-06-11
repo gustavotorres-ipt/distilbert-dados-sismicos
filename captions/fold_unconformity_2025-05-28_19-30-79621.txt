@@ -1,2 +1,0 @@
-this model depicts a 2D subsurface model with high frequency and high noise.
-this image represents a sesimic section of an anticline of a nonconformity.

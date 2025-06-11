@@ -1,4 +1,0 @@
-this image demonstrates a sesimic section with an inclined horizontal beds.
-this image represents a sesimic section with a subsurface layer rotation with medium frequency and high noise.
-this image demonstrates a subsurface representation with a tectonic tilting with medium frequency and high noise.
-this image represents a 2D section of an inclined horizontal beds.

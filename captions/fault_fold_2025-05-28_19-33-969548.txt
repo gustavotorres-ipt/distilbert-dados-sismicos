@@ -1,3 +1,0 @@
-this image demonstrates a 2D subsurface model of a structural deformation of a fold.
-this image represents a subsurface representation with a structural deformation of a tectonic compression with medium frequency and medium noise.
-this image demonstrates a seismic image with a structural discontinuity of a structural compression of medium frequency and medium noise.

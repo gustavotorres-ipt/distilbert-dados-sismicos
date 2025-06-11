@@ -1,3 +1,0 @@
-we see here a subsurface model of low frequency and high noise.
-this image represents a 2D section of low frequency and high noise.
-we see here a subsurface representation with a structural discontinuity of a nonconformity.

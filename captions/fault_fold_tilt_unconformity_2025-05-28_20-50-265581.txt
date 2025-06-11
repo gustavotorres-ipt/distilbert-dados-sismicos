@@ -1,3 +1,0 @@
-this image represents a model with medium frequency and medium noise.
-we see here a 2D subsurface model with a dip-slip fault of an antiform with a tilt with an unconformity.
-this model depicts a section with a structural deformation with a structural compression of a subsurface layer rotation with an unconformity.

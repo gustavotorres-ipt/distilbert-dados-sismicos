@@ -1,5 +1,0 @@
-this image demonstrates a subsurface model of a tilt of high frequency and medium noise.
-we observe here a model with a tectonic tilting.
-this image represents a seismic image with a subsurface layer rotation.
-this image demonstrates a seismic image of high frequency and medium noise.
-we see here a 2D subsurface model of a tilted horizontal beds.

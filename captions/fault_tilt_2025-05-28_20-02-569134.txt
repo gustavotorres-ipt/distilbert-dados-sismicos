@@ -1,3 +1,0 @@
-this model depicts a 2D subsurface model of a dip-slip fault with a tilted horizontal beds with low frequency and medium noise.
-this model depicts a subsurface model with a structural discontinuity of an inclined horizontal beds.
-this image demonstrates a model of a fault of a tilt with low frequency and medium noise.

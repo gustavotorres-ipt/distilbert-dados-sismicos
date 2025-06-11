@@ -1,7 +1,0 @@
-we observe here a seismic image of a layer-cake stratigraphy section with medium frequency and medium noise.
-this image represents a subsurface model of a layer-cake stratigraphy section with medium frequency and medium noise.
-we see here a 2D subsurface model with a layer-cake stratigraphy section.
-we observe here a subsurface model of an undeformed section.
-this model depicts a subsurface model with a section with flat horizons of medium frequency and medium noise.
-this image represents a subsurface representation of a section with flat horizons.
-this image demonstrates a subsurface model of medium frequency and medium noise.

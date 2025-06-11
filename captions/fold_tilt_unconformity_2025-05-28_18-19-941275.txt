@@ -1,5 +1,0 @@
-this image represents a 2D subsurface model with high frequency and medium noise.
-we observe here a section of a folded deformation of a tectonic tilting of a disconformity.
-this image demonstrates a 2D subsurface model of an anticline with a tilt of a disconformity with high frequency and medium noise.
-this image represents a subsurface model of high frequency and medium noise.
-we observe here a section with a ductile deformation of a tilted horizontal beds with an erosional unconformity.

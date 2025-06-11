@@ -1,3 +1,0 @@
-we see here a seismic image with a geologic rigid deformation with a tectonic compression.
-we see here a 2D subsurface model of a structural deformation with an antiform.
-this image demonstrates a sesimic section of a tectonic deformation with an anticline with medium frequency and high noise.

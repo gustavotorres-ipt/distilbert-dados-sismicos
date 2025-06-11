@@ -1,6 +1,0 @@
-this image demonstrates a 2D subsurface model with high frequency and medium noise.
-we observe here a model with a horizons displacement along fault with a nonconformity with high frequency and medium noise.
-we see here a sesimic section of high frequency and medium noise.
-this image demonstrates a subsurface model of high frequency and medium noise.
-this image represents a sesimic section with a structural deformation of an unconformity.
-this image demonstrates a model with a tectonic deformation of an unconformity.

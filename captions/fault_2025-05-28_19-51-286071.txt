@@ -1,7 +1,0 @@
-this model depicts a 2D subsurface model of a tectonic deformation.
-this image demonstrates a sesimic section with medium frequency and medium noise.
-we observe here a section of a structural discontinuity.
-we observe here a sesimic section with a horizons displacement along fault.
-we observe here a 2D section with a structural discontinuity with medium frequency and medium noise.
-we observe here a 2D subsurface model of a geologic rigid deformation.
-this image demonstrates a seismic image with a fault.

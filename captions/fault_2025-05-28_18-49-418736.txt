@@ -1,4 +1,0 @@
-this model depicts a seismic image with a structural deformation.
-this image demonstrates a sesimic section of a structural deformation.
-this image demonstrates a section with a tectonic deformation.
-this model depicts a model with a horizons displacement along fault of medium frequency and high noise.

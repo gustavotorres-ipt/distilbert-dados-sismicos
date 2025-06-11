@@ -1,6 +1,0 @@
-this image demonstrates a subsurface model with a structural compression of high frequency and medium noise.
-we see here a model with a tectonic compression with high frequency and medium noise.
-this model depicts a subsurface representation with a structural compression.
-this model depicts a seismic image of a folded deformation with high frequency and medium noise.
-we see here a 2D subsurface model of a tectonic compression.
-we see here a subsurface model of high frequency and medium noise.

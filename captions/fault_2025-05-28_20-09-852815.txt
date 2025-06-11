@@ -1,5 +1,0 @@
-this model depicts a section with a rigid deformation known or fault.
-this image represents a 2D section with low frequency and medium noise.
-we see here a 2D section of a structural discontinuity.
-this image represents a 2D subsurface model of low frequency and medium noise.
-we see here a subsurface model of low frequency and medium noise.

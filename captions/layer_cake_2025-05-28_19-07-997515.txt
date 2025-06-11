@@ -1,4 +1,0 @@
-we observe here a sesimic section of a layer-cake model with medium frequency and medium noise.
-we see here a 2D subsurface model with a model with no structural deformation of medium frequency and medium noise.
-this model depicts a 2D subsurface model with a section with flat horizons.
-we see here a sesimic section of a layer-cake stratigraphy section.

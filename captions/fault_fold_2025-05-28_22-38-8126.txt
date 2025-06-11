@@ -1,6 +1,0 @@
-this image represents a section with a structural deformation with a structural compression with high frequency and high noise.
-this image demonstrates a 2D section of high frequency and high noise.
-we see here a 2D subsurface model with a structural discontinuity with a folded deformation with high frequency and high noise.
-we see here a 2D subsurface model with a rigid deformation known or fault of an anticline.
-this image represents a seismic image of a structural deformation of a tectonic compression with high frequency and high noise.
-we see here a subsurface representation with a tectonic fault with a structural compression.

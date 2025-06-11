@@ -1,6 +1,0 @@
-we see here a 2D section of a layer-cake structural model.
-we see here a 2D section with a flat bed stratigraphy section.
-this model depicts a subsurface representation of high frequency and medium noise.
-this model depicts a 2D subsurface model of a layer-cake model of high frequency and medium noise.
-we see here a subsurface representation with a layer-cake model.
-we see here a subsurface representation with a layer-cake structural model with high frequency and medium noise.

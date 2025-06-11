@@ -1,6 +1,0 @@
-this model depicts a subsurface model of a fold with a tilted horizontal beds.
-we observe here a 2D subsurface model of an antiform with a subsurface layer rotation with medium frequency and medium noise.
-we see here a seismic image of a folded deformation of an inclined horizontal beds with medium frequency and medium noise.
-we observe here a seismic image with a fold of an inclined horizontal beds of medium frequency and medium noise.
-this image represents a section with a ductile deformation with a tectonic tilting of medium frequency and medium noise.
-this image demonstrates a section with a folded deformation with a tilt.

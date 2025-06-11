@@ -1,6 +1,0 @@
-this model depicts a 2D subsurface model with a horizons displacement along fault with an inclined horizontal beds with an unconformity.
-this image demonstrates a 2D section of high frequency and medium noise.
-we see here a 2D subsurface model of a tectonic fault with a tilted horizontal beds with an erosional unconformity of high frequency and medium noise.
-we see here a sesimic section with a geologic rigid deformation of a tectonic tilting of an angular unconformity of high frequency and medium noise.
-we see here a sesimic section of a structural discontinuity with a tilt of an unconformity with high frequency and medium noise.
-this image demonstrates a seismic image with a fault of a tilt with an unconformity.

@@ -1,4 +1,0 @@
-this model depicts a 2D subsurface model with medium frequency and medium noise.
-this model depicts a sesimic section of a structural deformation with an inclined horizontal beds with a nonconformity.
-this model depicts a 2D subsurface model with a horizons displacement along fault with an inclined horizontal beds with an unconformity.
-we observe here a subsurface representation with a dip-slip fault of a subsurface layer rotation of a disconformity of medium frequency and medium noise.

@@ -1,3 +1,0 @@
-this image demonstrates a 2D section with a structural discontinuity with a tilted horizontal beds with medium frequency and medium noise.
-we observe here a subsurface model of medium frequency and medium noise.
-we see here a seismic image with a horizons displacement along fault of a subsurface layer rotation.

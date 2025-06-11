@@ -1,5 +1,0 @@
-this image represents a 2D section of a section with flat horizons.
-this image represents a 2D section of high frequency and medium noise.
-this image demonstrates a 2D section of a model with no structural deformation.
-this image represents a sesimic section with high frequency and medium noise.
-this model depicts a seismic image with high frequency and medium noise.

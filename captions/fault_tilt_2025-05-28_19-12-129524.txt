@@ -1,6 +1,0 @@
-this image demonstrates a model of medium frequency and low noise.
-this model depicts a subsurface representation with a horizons displacement along fault of a tilt.
-we observe here a 2D section of medium frequency and low noise.
-we observe here a subsurface model with a tectonic fault of a tilted horizontal beds with medium frequency and low noise.
-this image demonstrates a section of a tectonic fault with a tilted horizontal beds.
-we see here a seismic image of a tectonic fault of a tectonic tilting.

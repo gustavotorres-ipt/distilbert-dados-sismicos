@@ -1,4 +1,0 @@
-this image represents a section of an erosional unconformity with medium frequency and medium noise.
-we see here a model with medium frequency and medium noise.
-this image represents a sesimic section of an angular unconformity.
-we observe here a 2D subsurface model with an unconformity of medium frequency and medium noise.

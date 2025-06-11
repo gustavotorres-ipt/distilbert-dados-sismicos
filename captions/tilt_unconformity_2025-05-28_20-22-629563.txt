@@ -1,2 +1,0 @@
-this model depicts a 2D subsurface model with a subsurface layer rotation with a disconformity.
-this image demonstrates a subsurface model with a tilt with an angular unconformity.

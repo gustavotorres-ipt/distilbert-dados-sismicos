@@ -1,3 +1,0 @@
-this image represents a seismic image of a structural deformation.
-we see here a seismic image with high frequency and medium noise.
-this model depicts a seismic image with high frequency and medium noise.

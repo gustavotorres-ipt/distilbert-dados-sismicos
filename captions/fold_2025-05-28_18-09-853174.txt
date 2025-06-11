@@ -1,5 +1,0 @@
-we observe here a 2D section with an antiform.
-this image represents a subsurface representation with a ductile deformation with low frequency and medium noise.
-this model depicts a 2D section with low frequency and medium noise.
-this image represents a 2D subsurface model of a ductile deformation.
-this model depicts a sesimic section with a structural compression of low frequency and medium noise.

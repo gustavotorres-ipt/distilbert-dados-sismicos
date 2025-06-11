@@ -1,3 +1,0 @@
-this model depicts a subsurface representation of medium frequency and high noise.
-we observe here a 2D section with a tectonic deformation with a tectonic compression.
-we see here a sesimic section with a tectonic deformation with a folded deformation.

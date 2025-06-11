@@ -1,4 +1,0 @@
-this image demonstrates a 2D section of a structural compression of high frequency and medium noise.
-this image represents a seismic image with high frequency and medium noise.
-this model depicts a subsurface model with a folded deformation.
-we see here a 2D subsurface model of an anticline of high frequency and medium noise.

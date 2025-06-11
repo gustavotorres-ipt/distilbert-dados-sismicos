@@ -1,6 +1,0 @@
-this image represents a seismic image of high frequency and high noise.
-we observe here a subsurface model with a subsurface layer rotation with a nonconformity of high frequency and high noise.
-we see here a model with a tilted horizontal beds with a nonconformity with high frequency and high noise.
-this model depicts a sesimic section of high frequency and high noise.
-we see here a seismic image of a tilted horizontal beds with a nonconformity.
-we see here a section with a tilted horizontal beds with a disconformity with high frequency and high noise.

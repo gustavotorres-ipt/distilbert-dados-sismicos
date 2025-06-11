@@ -1,2 +1,0 @@
-we see here a sesimic section with high frequency and medium noise.
-this image represents a 2D subsurface model with a geologic rigid deformation with an erosional unconformity of high frequency and medium noise.

@@ -1,5 +1,0 @@
-this image represents a 2D subsurface model with a ductile deformation of low frequency and medium noise.
-we see here a 2D section with a ductile deformation with low frequency and medium noise.
-this image demonstrates a subsurface model of a ductile deformation.
-we observe here a subsurface representation of a structural compression.
-this image represents a 2D subsurface model with low frequency and medium noise.

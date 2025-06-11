@@ -1,2 +1,0 @@
-this model depicts a seismic image with high frequency and medium noise.
-this model depicts a section of a ductile deformation with a subsurface layer rotation.

@@ -1,7 +1,0 @@
-this image represents a 2D section of a fault of an antiform with an erosional unconformity.
-this image represents a 2D subsurface model with a horizons displacement along fault with a tectonic compression with a disconformity of high frequency and medium noise.
-we see here a model with a structural discontinuity with a folded deformation of an unconformity.
-this model depicts a 2D subsurface model of high frequency and medium noise.
-this image represents a 2D subsurface model with a tectonic fault with an anticline of a nonconformity of high frequency and medium noise.
-this image demonstrates a model of a fault of an antiform with an erosional unconformity.
-we observe here a 2D subsurface model of a structural deformation with an anticline of an erosional unconformity with high frequency and medium noise.

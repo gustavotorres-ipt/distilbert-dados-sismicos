@@ -1,3 +1,0 @@
-this model depicts a section of medium frequency and low noise.
-this image demonstrates a subsurface model with medium frequency and low noise.
-this image demonstrates a 2D subsurface model of a tectonic tilting with a nonconformity with medium frequency and low noise.

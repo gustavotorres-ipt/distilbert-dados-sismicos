@@ -1,6 +1,0 @@
-we see here a seismic image of medium frequency and low noise.
-this image represents a 2D subsurface model with medium frequency and low noise.
-we observe here a sesimic section with a structural deformation of an inclined horizontal beds with an erosional unconformity.
-this image represents a section of a fault with a subsurface layer rotation of a disconformity.
-we see here a model with a geologic rigid deformation with a tilt of a nonconformity.
-this image represents a 2D section of a dip-slip fault of a subsurface layer rotation with an angular unconformity.

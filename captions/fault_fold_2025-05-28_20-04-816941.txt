@@ -1,7 +1,0 @@
-this image represents a 2D subsurface model of a structural discontinuity of a tectonic compression.
-this model depicts a subsurface model with a geologic rigid deformation of a structural compression.
-this image demonstrates a section with medium frequency and low noise.
-this model depicts a 2D subsurface model with medium frequency and low noise.
-this image represents a 2D subsurface model of a dip-slip fault with an anticline.
-this image demonstrates a seismic image of a geologic rigid deformation of a tectonic compression.
-this image demonstrates a 2D subsurface model of medium frequency and low noise.

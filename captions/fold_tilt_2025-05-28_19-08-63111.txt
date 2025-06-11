@@ -1,7 +1,0 @@
-this image demonstrates a subsurface representation of medium frequency and high noise.
-we see here a 2D subsurface model with medium frequency and high noise.
-this model depicts a model of a structural compression with a tilted horizontal beds.
-this image demonstrates a 2D section of an antiform with a tilt.
-this model depicts a seismic image of a folded deformation with a tectonic tilting of medium frequency and high noise.
-we see here a sesimic section with a ductile deformation of a tilt of medium frequency and high noise.
-this image represents a 2D subsurface model with medium frequency and high noise.

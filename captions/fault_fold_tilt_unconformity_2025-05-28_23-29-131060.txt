@@ -1,4 +1,0 @@
-this model depicts a 2D subsurface model of high frequency and low noise.
-we see here a model of a tectonic fault with an antiform with a tilted horizontal beds with an angular unconformity.
-we see here a sesimic section with a fault with an antiform with a tilt of an erosional unconformity.
-we see here a seismic image of a structural discontinuity of a fold with a tectonic tilting of a disconformity.

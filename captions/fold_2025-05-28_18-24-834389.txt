@@ -1,4 +1,0 @@
-we see here a subsurface representation of a ductile deformation.
-we observe here a model of medium frequency and high noise.
-this model depicts a subsurface model with medium frequency and high noise.
-this model depicts a 2D section with medium frequency and high noise.

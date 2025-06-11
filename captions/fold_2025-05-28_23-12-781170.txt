@@ -1,5 +1,0 @@
-this image demonstrates a section with a ductile deformation of high frequency and medium noise.
-this image represents a 2D subsurface model with a folded deformation.
-we observe here a section with a fold of high frequency and medium noise.
-this image represents a model with an antiform.
-we see here a model of a ductile deformation.

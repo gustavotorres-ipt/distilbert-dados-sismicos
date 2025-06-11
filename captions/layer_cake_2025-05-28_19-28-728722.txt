@@ -1,3 +1,0 @@
-we see here a model of a layer-cake stratigraphy section.
-this image represents a sesimic section with a model with no structural deformation.
-we see here a 2D subsurface model with a flat bed stratigraphy section of high frequency and medium noise.

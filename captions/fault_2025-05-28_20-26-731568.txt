@@ -1,4 +1,0 @@
-we see here a sesimic section of a structural discontinuity with high frequency and medium noise.
-this image represents a model of a structural discontinuity.
-this model depicts a seismic image of a horizons displacement along fault.
-this image represents a 2D subsurface model of a fault with high frequency and medium noise.

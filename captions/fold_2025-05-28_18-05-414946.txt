@@ -1,4 +1,0 @@
-this model depicts a model with an anticline.
-we see here a seismic image with medium frequency and medium noise.
-we observe here a 2D section of medium frequency and medium noise.
-this model depicts a model with a ductile deformation of medium frequency and medium noise.

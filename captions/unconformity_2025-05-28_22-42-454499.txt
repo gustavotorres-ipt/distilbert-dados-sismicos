@@ -1,6 +1,0 @@
-this image demonstrates a seismic image of medium frequency and medium noise.
-this image represents a subsurface representation with a disconformity of medium frequency and medium noise.
-this image demonstrates a subsurface representation of an unconformity.
-this image represents a 2D section of an angular unconformity.
-this model depicts a section of an erosional unconformity.
-this image demonstrates a section with an angular unconformity.

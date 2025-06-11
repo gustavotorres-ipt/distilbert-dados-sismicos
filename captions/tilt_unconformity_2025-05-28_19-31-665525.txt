@@ -1,2 +1,0 @@
-this model depicts a subsurface model with high frequency and medium noise.
-we see here a sesimic section of a tectonic tilting of an unconformity.

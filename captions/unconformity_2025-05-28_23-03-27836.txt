@@ -1,2 +1,0 @@
-we see here a subsurface model with a nonconformity.
-this image represents a seismic image with a disconformity of medium frequency and high noise.

@@ -1,7 +1,0 @@
-this image demonstrates a subsurface representation with a disconformity.
-we observe here a sesimic section of an erosional unconformity.
-this model depicts a 2D subsurface model with an angular unconformity.
-this image demonstrates a subsurface model with high frequency and medium noise.
-we observe here a seismic image with an angular unconformity with high frequency and medium noise.
-this model depicts a sesimic section with a nonconformity with high frequency and medium noise.
-this model depicts a 2D section with high frequency and medium noise.

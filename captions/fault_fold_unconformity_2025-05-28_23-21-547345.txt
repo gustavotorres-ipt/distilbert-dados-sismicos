@@ -1,4 +1,0 @@
-this model depicts a subsurface model with high frequency and high noise.
-we observe here a 2D section with a rigid deformation known or fault of a fold of an angular unconformity of high frequency and high noise.
-we observe here a 2D section with a structural discontinuity with a fold of a disconformity of high frequency and high noise.
-we observe here a seismic image with a structural deformation with a fold of a disconformity.

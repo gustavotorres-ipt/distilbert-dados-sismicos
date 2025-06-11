@@ -1,5 +1,0 @@
-this model depicts a model of a fault of a fold of low frequency and medium noise.
-this image represents a section of low frequency and medium noise.
-we see here a 2D subsurface model with a dip-slip fault with a ductile deformation.
-we observe here a seismic image of a horizons displacement along fault of a tectonic compression with low frequency and medium noise.
-this image represents a sesimic section with a tectonic deformation of a ductile deformation.

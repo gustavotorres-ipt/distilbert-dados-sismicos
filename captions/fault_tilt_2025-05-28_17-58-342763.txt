@@ -1,4 +1,0 @@
-we see here a 2D section with a geologic rigid deformation with a tilted horizontal beds.
-we observe here a 2D section with a geologic rigid deformation with a subsurface layer rotation.
-this image represents a 2D subsurface model of a geologic rigid deformation of a tilt with medium frequency and medium noise.
-we see here a sesimic section of medium frequency and medium noise.

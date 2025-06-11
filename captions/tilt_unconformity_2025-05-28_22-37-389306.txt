@@ -1,6 +1,0 @@
-this image demonstrates a subsurface model of a subsurface layer rotation with a disconformity.
-this image represents a 2D subsurface model of a tectonic tilting of an angular unconformity.
-this image demonstrates a model of high frequency and low noise.
-this image demonstrates a 2D section of high frequency and low noise.
-we see here a model of a tilt with a disconformity.
-we see here a subsurface model with high frequency and low noise.

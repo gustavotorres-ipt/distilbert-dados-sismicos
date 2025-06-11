@@ -1,4 +1,0 @@
-this image represents a model with high frequency and medium noise.
-we see here a sesimic section of high frequency and medium noise.
-we see here a 2D section of a horizons displacement along fault with high frequency and medium noise.
-we see here a sesimic section of a structural discontinuity with high frequency and medium noise.

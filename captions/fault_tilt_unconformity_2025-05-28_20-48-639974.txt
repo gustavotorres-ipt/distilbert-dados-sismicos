@@ -1,2 +1,0 @@
-this model depicts a subsurface model with a structural deformation with a subsurface layer rotation with a nonconformity with medium frequency and medium noise.
-this image represents a section of medium frequency and medium noise.

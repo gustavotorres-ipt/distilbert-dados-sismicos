@@ -1,5 +1,0 @@
-this image represents a subsurface model with high frequency and high noise.
-we see here a subsurface representation of a structural deformation with a tilt with an angular unconformity with high frequency and high noise.
-we observe here a subsurface model with a fault of a tectonic tilting with an angular unconformity.
-we see here a 2D subsurface model of high frequency and high noise.
-we see here a model with a geologic rigid deformation with a tilted horizontal beds with a nonconformity.

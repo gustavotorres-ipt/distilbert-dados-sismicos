@@ -1,6 +1,0 @@
-this model depicts a 2D subsurface model of medium frequency and medium noise.
-this image demonstrates a model with a folded deformation with medium frequency and medium noise.
-this model depicts a model with a fold.
-we observe here a 2D subsurface model with an antiform.
-this image represents a sesimic section of an antiform of medium frequency and medium noise.
-this model depicts a model with medium frequency and medium noise.

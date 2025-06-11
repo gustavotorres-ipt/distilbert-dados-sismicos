@@ -1,5 +1,0 @@
-we see here a sesimic section with a fault with a tilt.
-this model depicts a model with a horizons displacement along fault of an inclined horizontal beds.
-this model depicts a sesimic section of a fault of a tectonic tilting.
-this image represents a 2D subsurface model with a geologic rigid deformation of a tectonic tilting.
-we observe here a sesimic section of low frequency and high noise.

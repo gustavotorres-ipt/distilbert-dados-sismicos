@@ -1,6 +1,0 @@
-this model depicts a 2D subsurface model of a tectonic fault with a ductile deformation with an angular unconformity.
-we see here a subsurface representation with low frequency and low noise.
-we observe here a subsurface model of a structural discontinuity of a fold with a nonconformity.
-this model depicts a subsurface representation of low frequency and low noise.
-this image represents a 2D section of a fault with an antiform of a disconformity.
-this model depicts a sesimic section with low frequency and low noise.

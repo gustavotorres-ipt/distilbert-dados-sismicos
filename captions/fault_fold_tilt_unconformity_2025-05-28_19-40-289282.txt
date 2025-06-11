@@ -1,2 +1,0 @@
-this model depicts a 2D subsurface model of a structural discontinuity of a tectonic compression with a tilted horizontal beds with a nonconformity of medium frequency and medium noise.
-this model depicts a 2D section with a tectonic fault of a ductile deformation with a tilt of a disconformity.

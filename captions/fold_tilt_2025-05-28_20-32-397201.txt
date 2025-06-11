@@ -1,3 +1,0 @@
-this model depicts a subsurface model of a structural compression with a tilt with medium frequency and high noise.
-we see here a seismic image with medium frequency and high noise.
-we see here a 2D subsurface model of medium frequency and high noise.

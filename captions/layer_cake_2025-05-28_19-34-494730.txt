@@ -1,3 +1,0 @@
-this model depicts a subsurface representation of a section with flat horizons.
-we see here a section of medium frequency and medium noise.
-this image represents a sesimic section of a model with no structural deformation with medium frequency and medium noise.

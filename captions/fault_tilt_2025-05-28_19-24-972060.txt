@@ -1,7 +1,0 @@
-this model depicts a subsurface representation with a geologic rigid deformation of a tilted horizontal beds.
-this model depicts a subsurface model of a structural discontinuity with an inclined horizontal beds.
-this image demonstrates a subsurface representation of high frequency and high noise.
-we observe here a seismic image of a dip-slip fault of an inclined horizontal beds.
-this model depicts a sesimic section with a structural discontinuity of a subsurface layer rotation.
-we see here a subsurface model with a tectonic deformation with a tilt of high frequency and high noise.
-we see here a 2D subsurface model with a fault of a tectonic tilting.

@@ -1,6 +1,0 @@
-we see here a section with a tectonic fault with a structural compression.
-this image demonstrates a seismic image of low frequency and medium noise.
-we see here a model with a structural deformation with a ductile deformation.
-this image demonstrates a 2D subsurface model with a tectonic deformation of an anticline of low frequency and medium noise.
-we observe here a subsurface model of a tectonic deformation of a structural compression with low frequency and medium noise.
-this image demonstrates a 2D section with a tectonic deformation of an antiform.

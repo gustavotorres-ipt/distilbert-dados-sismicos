@@ -1,2 +1,0 @@
-this model depicts a seismic image with a tilted horizontal beds of high frequency and medium noise.
-we observe here a 2D subsurface model with a tectonic tilting.

@@ -1,5 +1,0 @@
-this image represents a 2D section of medium frequency and medium noise.
-we observe here a model of medium frequency and medium noise.
-we observe here a seismic image of medium frequency and medium noise.
-we see here a 2D subsurface model with a tectonic fault with a structural compression with medium frequency and medium noise.
-this image represents a seismic image of a structural deformation with a structural compression.

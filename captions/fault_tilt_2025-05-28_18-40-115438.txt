@@ -1,6 +1,0 @@
-this image demonstrates a subsurface representation of a fault of an inclined horizontal beds with low frequency and medium noise.
-we observe here a 2D section with a structural deformation with a tectonic tilting.
-this model depicts a subsurface model with a geologic rigid deformation with a tilt with low frequency and medium noise.
-this image represents a 2D subsurface model with a tectonic fault with a subsurface layer rotation with low frequency and medium noise.
-we see here a subsurface representation with low frequency and medium noise.
-this image demonstrates a 2D section with a rigid deformation known or fault of a tilt.

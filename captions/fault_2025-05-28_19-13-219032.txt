@@ -1,4 +1,0 @@
-we observe here a subsurface model of a geologic rigid deformation.
-we see here a 2D section with a fault with medium frequency and medium noise.
-we observe here a 2D subsurface model of a structural deformation.
-we observe here a 2D section with a rigid deformation known or fault.

@@ -1,7 +1,0 @@
-this image represents a 2D section of a geologic rigid deformation with a ductile deformation of an inclined horizontal beds.
-this image represents a seismic image with a geologic rigid deformation with a ductile deformation of an inclined horizontal beds with medium frequency and low noise.
-this image demonstrates a subsurface representation of a rigid deformation known or fault with a fold of a subsurface layer rotation.
-we see here a subsurface representation of a fault of an anticline with a tectonic tilting.
-this image demonstrates a seismic image with a structural deformation with a tectonic compression of a tilt.
-we see here a section of a horizons displacement along fault of a tectonic compression of a tectonic tilting.
-this image demonstrates a subsurface representation of a dip-slip fault of a folded deformation with an inclined horizontal beds.

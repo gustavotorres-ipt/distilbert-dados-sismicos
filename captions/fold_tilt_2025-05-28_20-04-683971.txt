@@ -1,6 +1,0 @@
-this image represents a model with a fold of a subsurface layer rotation.
-this model depicts a subsurface representation with high frequency and medium noise.
-this model depicts a 2D subsurface model with a ductile deformation with a tectonic tilting.
-this image demonstrates a sesimic section with an antiform with a tilt.
-we observe here a 2D section with high frequency and medium noise.
-we observe here a section with a folded deformation of a tilt with high frequency and medium noise.

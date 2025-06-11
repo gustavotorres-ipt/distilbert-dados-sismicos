@@ -1,7 +1,0 @@
-this model depicts a subsurface model of a model with no structural deformation of medium frequency and medium noise.
-this image represents a 2D section of a layer-cake model with medium frequency and medium noise.
-this model depicts a subsurface model with an undeformed section with medium frequency and medium noise.
-this image demonstrates a subsurface model with medium frequency and medium noise.
-this image demonstrates a subsurface model of an undeformed section of medium frequency and medium noise.
-this model depicts a subsurface representation with medium frequency and medium noise.
-this image demonstrates a sesimic section of a section with flat horizons with medium frequency and medium noise.

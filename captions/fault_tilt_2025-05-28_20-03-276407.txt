@@ -1,5 +1,0 @@
-we see here a seismic image of a geologic rigid deformation with a tectonic tilting.
-we observe here a 2D subsurface model of a tectonic deformation with a subsurface layer rotation with medium frequency and low noise.
-this image represents a model of medium frequency and low noise.
-we see here a sesimic section of a tectonic fault of a tectonic tilting.
-we observe here a 2D subsurface model with a geologic rigid deformation of a tilt.

@@ -1,4 +1,0 @@
-this image represents a 2D section with an inclined horizontal beds with low frequency and high noise.
-this image represents a seismic image with low frequency and high noise.
-we see here a 2D subsurface model of low frequency and high noise.
-this image demonstrates a model of a tectonic tilting of low frequency and high noise.

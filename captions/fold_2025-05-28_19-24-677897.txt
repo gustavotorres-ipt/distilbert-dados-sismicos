@@ -1,5 +1,0 @@
-this image represents a model of a fold.
-we see here a sesimic section of a fold.
-this image represents a 2D subsurface model of a folded deformation of high frequency and medium noise.
-we see here a subsurface model with an antiform.
-we see here a section of a ductile deformation.

@@ -1,6 +1,0 @@
-this image demonstrates a 2D section with a subsurface layer rotation of a disconformity.
-we observe here a subsurface model with a tilt with an unconformity of medium frequency and low noise.
-we observe here a 2D subsurface model with medium frequency and low noise.
-this model depicts a subsurface model with a tilted horizontal beds with an unconformity with medium frequency and low noise.
-we observe here a seismic image of a subsurface layer rotation of a nonconformity of medium frequency and low noise.
-we observe here a subsurface representation of a tilted horizontal beds with an unconformity.

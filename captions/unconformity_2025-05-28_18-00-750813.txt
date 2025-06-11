@@ -1,7 +1,0 @@
-this image demonstrates a subsurface representation of a disconformity with high frequency and medium noise.
-this model depicts a subsurface representation with a disconformity of high frequency and medium noise.
-we see here a 2D subsurface model with an angular unconformity.
-this image demonstrates a model with a nonconformity.
-this model depicts a 2D section of an angular unconformity.
-this image represents a 2D section with an unconformity.
-this image represents a subsurface model with high frequency and medium noise.

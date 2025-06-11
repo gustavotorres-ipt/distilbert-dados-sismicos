@@ -1,3 +1,0 @@
-this model depicts a 2D section with a subsurface layer rotation of a nonconformity.
-this image demonstrates a 2D subsurface model with an inclined horizontal beds with a disconformity.
-we observe here a sesimic section with high frequency and high noise.

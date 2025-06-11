@@ -1,5 +1,0 @@
-this model depicts a 2D subsurface model with a fault with a folded deformation.
-we see here a sesimic section of medium frequency and medium noise.
-this model depicts a subsurface model with a tectonic deformation of an antiform.
-this image represents a subsurface model of a geologic rigid deformation with an anticline.
-this model depicts a 2D subsurface model of a tectonic fault with a fold.

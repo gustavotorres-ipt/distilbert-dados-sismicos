@@ -1,2 +1,0 @@
-this image demonstrates a section with high frequency and low noise.
-we observe here a 2D subsurface model with a tilted horizontal beds.

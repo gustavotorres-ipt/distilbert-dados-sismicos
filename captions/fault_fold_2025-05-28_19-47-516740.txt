@@ -1,6 +1,0 @@
-this image represents a 2D section of a tectonic fault with a ductile deformation with medium frequency and medium noise.
-this image represents a model of a tectonic deformation with an anticline.
-this image demonstrates a subsurface representation with a structural discontinuity of a tectonic compression of medium frequency and medium noise.
-this image represents a 2D subsurface model of medium frequency and medium noise.
-this image demonstrates a seismic image with medium frequency and medium noise.
-this image represents a subsurface model of a fault of an anticline.

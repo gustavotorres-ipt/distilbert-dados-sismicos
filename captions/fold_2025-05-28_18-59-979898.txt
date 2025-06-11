@@ -1,7 +1,0 @@
-this image represents a 2D section of a folded deformation.
-this model depicts a section of medium frequency and medium noise.
-this model depicts a section with a ductile deformation.
-we see here a sesimic section of medium frequency and medium noise.
-this image represents a subsurface model of a ductile deformation.
-we observe here a model of an antiform.
-we see here a subsurface representation of medium frequency and medium noise.

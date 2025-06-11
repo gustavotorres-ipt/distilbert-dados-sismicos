@@ -1,5 +1,0 @@
-this image demonstrates a subsurface representation with a folded deformation with a tectonic tilting.
-this image demonstrates a section with high frequency and medium noise.
-this image demonstrates a 2D subsurface model of high frequency and medium noise.
-we see here a 2D subsurface model of a ductile deformation of a subsurface layer rotation with high frequency and medium noise.
-this model depicts a subsurface representation of an antiform of a subsurface layer rotation.

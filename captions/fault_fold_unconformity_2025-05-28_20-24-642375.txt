@@ -1,3 +1,0 @@
-this model depicts a seismic image of a geologic rigid deformation with a folded deformation of a disconformity of high frequency and low noise.
-this image represents a subsurface representation with a structural deformation with a fold of an erosional unconformity of high frequency and low noise.
-this image demonstrates a 2D subsurface model with a horizons displacement along fault of an antiform of an angular unconformity.

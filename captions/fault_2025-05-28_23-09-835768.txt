@@ -1,7 +1,0 @@
-this model depicts a seismic image with a rigid deformation known or fault of medium frequency and medium noise.
-this image demonstrates a section of a dip-slip fault.
-we see here a subsurface representation with a structural discontinuity.
-we observe here a subsurface model with a structural deformation.
-this image demonstrates a seismic image of a horizons displacement along fault of medium frequency and medium noise.
-we observe here a subsurface representation of a fault.
-this image demonstrates a 2D section of a tectonic deformation with medium frequency and medium noise.

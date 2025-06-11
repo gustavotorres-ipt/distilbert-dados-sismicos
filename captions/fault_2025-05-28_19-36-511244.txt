@@ -1,3 +1,0 @@
-this model depicts a 2D subsurface model with a rigid deformation known or fault.
-this image represents a 2D section with a horizons displacement along fault.
-we see here a model with a rigid deformation known or fault.

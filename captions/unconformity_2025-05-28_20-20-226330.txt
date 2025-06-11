@@ -1,2 +1,0 @@
-this model depicts a 2D subsurface model with an erosional unconformity.
-this image represents a model with an unconformity.

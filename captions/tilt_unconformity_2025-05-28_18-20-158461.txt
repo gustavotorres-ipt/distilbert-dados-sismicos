@@ -1,4 +1,0 @@
-this image represents a 2D subsurface model with a subsurface layer rotation of an erosional unconformity of high frequency and high noise.
-we observe here a model with a tilted horizontal beds with a disconformity.
-this image represents a section with high frequency and high noise.
-we observe here a 2D subsurface model with a tilt with a disconformity.

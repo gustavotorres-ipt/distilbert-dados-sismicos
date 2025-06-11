@@ -1,7 +1,0 @@
-this image demonstrates a model with low frequency and high noise.
-we see here a subsurface model of a tilt of low frequency and high noise.
-we see here a section with a subsurface layer rotation.
-this image demonstrates a section of low frequency and high noise.
-this model depicts a model of an inclined horizontal beds.
-this model depicts a sesimic section of a tilt.
-this image represents a section with a tilt with low frequency and high noise.

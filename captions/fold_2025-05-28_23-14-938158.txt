@@ -1,3 +1,0 @@
-this image demonstrates a 2D section with a folded deformation.
-this model depicts a subsurface representation of a folded deformation.
-this image represents a sesimic section of a ductile deformation.

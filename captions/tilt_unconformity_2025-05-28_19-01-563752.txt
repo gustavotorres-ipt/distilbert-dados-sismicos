@@ -1,4 +1,0 @@
-we see here a subsurface model with a tectonic tilting with a nonconformity of medium frequency and medium noise.
-this image represents a 2D subsurface model with a tilted horizontal beds of an unconformity with medium frequency and medium noise.
-this image represents a seismic image with a tectonic tilting with an erosional unconformity.
-we observe here a seismic image with a tilted horizontal beds of an erosional unconformity.

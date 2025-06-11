@@ -1,3 +1,0 @@
-this model depicts a subsurface model with medium frequency and medium noise.
-this model depicts a seismic image of a tectonic fault with a subsurface layer rotation of an erosional unconformity.
-this image represents a section with a tectonic fault of an inclined horizontal beds of a disconformity.

@@ -1,5 +1,0 @@
-this image represents a 2D section with a horizons displacement along fault of a subsurface layer rotation with medium frequency and high noise.
-this model depicts a subsurface model of a structural deformation of a tilted horizontal beds.
-we observe here a section with a dip-slip fault of an inclined horizontal beds.
-this model depicts a 2D section with medium frequency and high noise.
-we observe here a 2D subsurface model of a rigid deformation known or fault with a tilt of medium frequency and high noise.

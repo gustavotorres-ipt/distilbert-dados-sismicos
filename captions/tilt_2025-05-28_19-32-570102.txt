@@ -1,4 +1,0 @@
-this model depicts a sesimic section of a tilted horizontal beds with high frequency and medium noise.
-this image demonstrates a section with a subsurface layer rotation of high frequency and medium noise.
-we see here a subsurface model with an inclined horizontal beds.
-this model depicts a 2D subsurface model with a tilt of high frequency and medium noise.

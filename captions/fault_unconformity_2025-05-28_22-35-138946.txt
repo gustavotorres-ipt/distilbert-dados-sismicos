@@ -1,6 +1,0 @@
-we see here a section with a geologic rigid deformation with an erosional unconformity.
-we observe here a seismic image with a structural discontinuity of an erosional unconformity.
-this image represents a 2D section of a fault of an angular unconformity.
-this image demonstrates a sesimic section with high frequency and medium noise.
-we observe here a seismic image with a geologic rigid deformation with an erosional unconformity with high frequency and medium noise.
-this image demonstrates a subsurface model with a rigid deformation known or fault with a disconformity.

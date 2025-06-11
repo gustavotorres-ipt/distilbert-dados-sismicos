@@ -1,2 +1,0 @@
-this model depicts a 2D subsurface model of a folded deformation with an inclined horizontal beds.
-we observe here a subsurface representation of an antiform of an inclined horizontal beds.

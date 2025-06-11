@@ -1,2 +1,0 @@
-this model depicts a subsurface representation of a fault of a subsurface layer rotation.
-we observe here a 2D section of medium frequency and medium noise.

@@ -1,5 +1,0 @@
-this image demonstrates a sesimic section of an undeformed section of high frequency and medium noise.
-this model depicts a 2D section with a model with no tectonic deformation.
-this model depicts a 2D subsurface model with a model with no structural deformation.
-we see here a subsurface representation of a section with flat horizons of high frequency and medium noise.
-we see here a model with high frequency and medium noise.

@@ -1,4 +1,0 @@
-this image demonstrates a 2D subsurface model of an inclined horizontal beds.
-we see here a seismic image with a tilt.
-we see here a seismic image of medium frequency and medium noise.
-this model depicts a subsurface representation with a tilted horizontal beds of medium frequency and medium noise.

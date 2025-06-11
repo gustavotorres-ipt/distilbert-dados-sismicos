@@ -1,4 +1,0 @@
-we see here a 2D section with a tilt with a nonconformity.
-we observe here a seismic image with a tilted horizontal beds of an unconformity.
-this image represents a model with a tilted horizontal beds of an erosional unconformity with high frequency and high noise.
-this image represents a seismic image of a tectonic tilting with a disconformity with high frequency and high noise.

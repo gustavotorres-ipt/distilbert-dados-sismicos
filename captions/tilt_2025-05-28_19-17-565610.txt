@@ -1,7 +1,0 @@
-this image represents a section of a subsurface layer rotation.
-this model depicts a subsurface representation of low frequency and low noise.
-we see here a subsurface representation with a tilted horizontal beds with low frequency and low noise.
-we see here a subsurface model of an inclined horizontal beds.
-this image demonstrates a 2D subsurface model with a tectonic tilting.
-this image demonstrates a 2D subsurface model of a tilt of low frequency and low noise.
-this image demonstrates a model of a tilt.

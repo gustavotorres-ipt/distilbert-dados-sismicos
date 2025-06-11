@@ -1,2 +1,0 @@
-we see here a 2D section of a horizons displacement along fault with medium frequency and high noise.
-we see here a 2D section with a dip-slip fault of medium frequency and high noise.

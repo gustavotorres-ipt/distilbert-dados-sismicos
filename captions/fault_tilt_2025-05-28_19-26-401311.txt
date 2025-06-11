@@ -1,4 +1,0 @@
-this model depicts a 2D section with high frequency and high noise.
-this image demonstrates a 2D subsurface model of high frequency and high noise.
-we see here a 2D section with a structural discontinuity of a subsurface layer rotation with high frequency and high noise.
-we see here a subsurface model of high frequency and high noise.

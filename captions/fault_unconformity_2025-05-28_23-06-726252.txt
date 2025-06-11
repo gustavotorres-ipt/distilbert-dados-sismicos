@@ -1,3 +1,0 @@
-this image demonstrates a subsurface model of a horizons displacement along fault with an unconformity with medium frequency and medium noise.
-this image represents a seismic image of a horizons displacement along fault with an erosional unconformity of medium frequency and medium noise.
-this image represents a 2D section with a fault of an angular unconformity.

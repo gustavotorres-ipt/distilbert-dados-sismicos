@@ -1,7 +1,0 @@
-this image represents a 2D section with a structural deformation with an erosional unconformity.
-we observe here a model with low frequency and high noise.
-this image represents a 2D section of a rigid deformation known or fault with a disconformity.
-this model depicts a 2D section with a tectonic deformation with an erosional unconformity.
-we see here a subsurface representation with a horizons displacement along fault of a nonconformity of low frequency and high noise.
-this model depicts a model of a rigid deformation known or fault with a nonconformity.
-this image demonstrates a model with low frequency and high noise.

@@ -1,6 +1,0 @@
-this image demonstrates a seismic image with a structural deformation of a tilted horizontal beds.
-we see here a 2D section with high frequency and medium noise.
-this image represents a section of a fault with an inclined horizontal beds of high frequency and medium noise.
-we observe here a section with high frequency and medium noise.
-we observe here a sesimic section with a rigid deformation known or fault with a tilted horizontal beds.
-this image demonstrates a 2D subsurface model of a geologic rigid deformation of a tilt of high frequency and medium noise.

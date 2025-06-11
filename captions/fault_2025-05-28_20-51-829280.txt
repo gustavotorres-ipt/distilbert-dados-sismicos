@@ -1,3 +1,0 @@
-we see here a subsurface model with a geologic rigid deformation.
-this image demonstrates a 2D subsurface model with high frequency and medium noise.
-we observe here a model with high frequency and medium noise.

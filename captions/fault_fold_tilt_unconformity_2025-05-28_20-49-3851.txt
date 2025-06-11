@@ -1,2 +1,0 @@
-this model depicts a 2D subsurface model of a geologic rigid deformation with an anticline with a tilt of an unconformity.
-we see here a subsurface model with a geologic rigid deformation with an antiform of a subsurface layer rotation of an unconformity.

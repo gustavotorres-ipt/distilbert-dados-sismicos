@@ -1,2 +1,0 @@
-this model depicts a subsurface model with an inclined horizontal beds.
-this image demonstrates a 2D subsurface model of a tilted horizontal beds with low frequency and high noise.

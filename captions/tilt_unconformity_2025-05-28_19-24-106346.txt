@@ -1,5 +1,0 @@
-this image demonstrates a model of a tilt of a disconformity.
-we observe here a section of low frequency and high noise.
-we observe here a subsurface representation with low frequency and high noise.
-this model depicts a model with a tilt of a disconformity with low frequency and high noise.
-this image demonstrates a 2D subsurface model of a subsurface layer rotation of a disconformity.

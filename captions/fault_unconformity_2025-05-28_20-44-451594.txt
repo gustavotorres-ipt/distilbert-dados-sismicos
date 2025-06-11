@@ -1,7 +1,0 @@
-we see here a subsurface representation with low frequency and medium noise.
-we observe here a 2D section of a geologic rigid deformation of an erosional unconformity.
-this model depicts a subsurface representation of a structural deformation with an unconformity.
-this model depicts a subsurface representation with a dip-slip fault of a disconformity.
-we observe here a seismic image with low frequency and medium noise.
-this image demonstrates a sesimic section with a dip-slip fault of an erosional unconformity with low frequency and medium noise.
-we observe here a subsurface representation with a dip-slip fault of a nonconformity with low frequency and medium noise.

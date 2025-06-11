@@ -1,4 +1,0 @@
-this image demonstrates a 2D subsurface model of high frequency and medium noise.
-we see here a model of a flat bed stratigraphy section.
-this image demonstrates a seismic image of an undeformed section.
-this image demonstrates a 2D section with an undeformed section with high frequency and medium noise.

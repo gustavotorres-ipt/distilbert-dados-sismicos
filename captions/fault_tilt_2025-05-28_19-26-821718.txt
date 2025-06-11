@@ -1,2 +1,0 @@
-this image demonstrates a 2D section of a tectonic fault of a tilt.
-we see here a section of low frequency and high noise.

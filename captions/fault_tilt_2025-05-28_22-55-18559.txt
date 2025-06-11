@@ -1,7 +1,0 @@
-this model depicts a subsurface representation with a fault of a tilted horizontal beds.
-we see here a seismic image with a rigid deformation known or fault of a tectonic tilting.
-this model depicts a 2D section with high frequency and medium noise.
-this image represents a 2D subsurface model with high frequency and medium noise.
-this image demonstrates a section with a fault with a tilt.
-we see here a 2D subsurface model of a horizons displacement along fault of a tectonic tilting.
-this image represents a 2D section with a fault with a subsurface layer rotation with high frequency and medium noise.

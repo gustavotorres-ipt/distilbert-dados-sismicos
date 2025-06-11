@@ -1,4 +1,0 @@
-this model depicts a 2D subsurface model of a tectonic fault of a folded deformation of medium frequency and high noise.
-this image represents a 2D section with a structural deformation with a tectonic compression.
-this image demonstrates a model of medium frequency and high noise.
-this image demonstrates a model with a geologic rigid deformation with an anticline.

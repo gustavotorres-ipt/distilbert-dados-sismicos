@@ -1,2 +1,0 @@
-this image demonstrates a subsurface model with an undeformed section with medium frequency and low noise.
-we observe here a 2D section of a layer-cake model with medium frequency and low noise.

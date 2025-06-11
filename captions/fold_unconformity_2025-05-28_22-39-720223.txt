@@ -1,5 +1,0 @@
-this image represents a 2D subsurface model of medium frequency and medium noise.
-this image demonstrates a sesimic section of a tectonic compression of a disconformity.
-this image represents a sesimic section of a structural compression with an angular unconformity.
-this image represents a subsurface model with a tectonic compression with an angular unconformity.
-this model depicts a 2D section of an anticline with an unconformity.

@@ -1,3 +1,0 @@
-this image represents a 2D subsurface model with a structural discontinuity.
-this image demonstrates a subsurface representation with a dip-slip fault of medium frequency and low noise.
-this image represents a 2D section with a fault of medium frequency and low noise.

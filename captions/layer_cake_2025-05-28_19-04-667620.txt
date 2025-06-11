@@ -1,6 +1,0 @@
-we see here a subsurface model of a model with no tectonic deformation.
-this image represents a seismic image of an undeformed section.
-this image represents a sesimic section of medium frequency and medium noise.
-we observe here a seismic image of medium frequency and medium noise.
-we see here a 2D subsurface model of a model with no structural deformation of medium frequency and medium noise.
-we see here a subsurface representation with a flat bed stratigraphy section.

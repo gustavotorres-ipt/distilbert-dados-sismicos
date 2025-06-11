@@ -1,2 +1,0 @@
-this image demonstrates a subsurface model with a ductile deformation.
-this image represents a subsurface model of low frequency and low noise.

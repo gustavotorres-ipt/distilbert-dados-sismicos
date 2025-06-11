@@ -1,2 +1,0 @@
-we observe here a 2D section of medium frequency and medium noise.
-this model depicts a seismic image with a subsurface layer rotation with a nonconformity.

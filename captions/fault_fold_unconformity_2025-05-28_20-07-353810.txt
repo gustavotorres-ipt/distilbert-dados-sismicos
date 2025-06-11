@@ -1,2 +1,0 @@
-this model depicts a 2D section with a fault with a structural compression of a nonconformity.
-this image demonstrates a subsurface model with a rigid deformation known or fault with an antiform with a nonconformity.

@@ -1,4 +1,0 @@
-this model depicts a seismic image with medium frequency and medium noise.
-we observe here a 2D section with a fault with a folded deformation with medium frequency and medium noise.
-we observe here a section with a structural discontinuity with an anticline.
-we see here a section with a tectonic fault with a tectonic compression with medium frequency and medium noise.

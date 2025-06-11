@@ -1,2 +1,0 @@
-we see here a 2D subsurface model with a section with flat horizons.
-we observe here a subsurface model of medium frequency and medium noise.

@@ -1,4 +1,0 @@
-this image represents a 2D subsurface model with low frequency and medium noise.
-this image represents a seismic image of a fault of a disconformity.
-we observe here a sesimic section of a structural discontinuity of a nonconformity of low frequency and medium noise.
-this image demonstrates a sesimic section of a structural deformation with an angular unconformity with low frequency and medium noise.

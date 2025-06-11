@@ -1,4 +1,0 @@
-this image demonstrates a subsurface representation with a disconformity.
-this model depicts a section of a disconformity.
-we observe here a seismic image with medium frequency and medium noise.
-we observe here a subsurface model with medium frequency and medium noise.

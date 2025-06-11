@@ -1,2 +1,0 @@
-this model depicts a section of medium frequency and low noise.
-this image demonstrates a subsurface model of a subsurface layer rotation with medium frequency and low noise.

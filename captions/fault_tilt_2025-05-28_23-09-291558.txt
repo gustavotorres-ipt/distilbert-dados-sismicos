@@ -1,5 +1,0 @@
-this model depicts a section with a dip-slip fault of a tilted horizontal beds.
-this model depicts a seismic image with a dip-slip fault with an inclined horizontal beds with medium frequency and medium noise.
-we observe here a subsurface model with a tectonic fault of an inclined horizontal beds with medium frequency and medium noise.
-we see here a seismic image with a dip-slip fault of a tilt.
-we see here a 2D section with a tectonic fault of a subsurface layer rotation of medium frequency and medium noise.

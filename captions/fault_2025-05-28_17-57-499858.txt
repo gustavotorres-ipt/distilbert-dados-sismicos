@@ -1,3 +1,0 @@
-this image represents a 2D section with a structural deformation.
-this model depicts a model of a rigid deformation known or fault.
-we observe here a model with low frequency and medium noise.

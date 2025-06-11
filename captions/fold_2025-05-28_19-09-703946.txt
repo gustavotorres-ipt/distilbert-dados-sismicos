@@ -1,6 +1,0 @@
-this image represents a seismic image of medium frequency and medium noise.
-this model depicts a 2D section with an antiform.
-we see here a model with a folded deformation.
-this model depicts a seismic image with an antiform of medium frequency and medium noise.
-we observe here a sesimic section of a tectonic compression.
-we see here a 2D subsurface model with an antiform of medium frequency and medium noise.

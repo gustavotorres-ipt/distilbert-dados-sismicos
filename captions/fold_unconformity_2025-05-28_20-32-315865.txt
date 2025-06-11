@@ -1,6 +1,0 @@
-this model depicts a subsurface representation with low frequency and medium noise.
-this image demonstrates a sesimic section of an antiform with a disconformity.
-we observe here a 2D subsurface model with a tectonic compression of a disconformity.
-this image demonstrates a model of an antiform with a nonconformity with low frequency and medium noise.
-we see here a sesimic section of a folded deformation of a nonconformity with low frequency and medium noise.
-we observe here a sesimic section with an antiform of an unconformity.

@@ -1,3 +1,0 @@
-this image demonstrates a model with a structural discontinuity.
-we observe here a model of a rigid deformation known or fault with medium frequency and medium noise.
-we see here a subsurface model with medium frequency and medium noise.

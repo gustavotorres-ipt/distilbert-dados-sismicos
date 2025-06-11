@@ -1,7 +1,0 @@
-we see here a 2D subsurface model with a fold with a disconformity with low frequency and medium noise.
-we observe here a 2D subsurface model of a folded deformation of an erosional unconformity.
-this image demonstrates a 2D section with an anticline with an unconformity.
-this model depicts a 2D section with an anticline with a disconformity.
-we see here a 2D section of low frequency and medium noise.
-we observe here a sesimic section with a folded deformation with an erosional unconformity.
-we see here a subsurface model of an antiform of an erosional unconformity.

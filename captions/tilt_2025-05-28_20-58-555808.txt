@@ -1,4 +1,0 @@
-this image demonstrates a subsurface model with medium frequency and high noise.
-this image demonstrates a 2D subsurface model of a tilt.
-we observe here a model of medium frequency and high noise.
-we see here a subsurface model of a tilt.

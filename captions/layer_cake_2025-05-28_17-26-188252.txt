@@ -1,7 +1,0 @@
-this model depicts a sesimic section of a layer-cake model.
-this image represents a seismic image with a model with no structural deformation.
-we see here a subsurface model of low frequency and low noise.
-this image demonstrates a sesimic section of low frequency and low noise.
-we see here a subsurface model of an undeformed section with low frequency and low noise.
-we observe here a subsurface model of a layer-cake model.
-we see here a subsurface representation with a flat bed stratigraphy section of low frequency and low noise.

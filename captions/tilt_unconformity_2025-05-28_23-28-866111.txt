@@ -1,2 +1,0 @@
-this model depicts a 2D section with a tilt of an unconformity.
-this model depicts a seismic image of a tectonic tilting with an unconformity.

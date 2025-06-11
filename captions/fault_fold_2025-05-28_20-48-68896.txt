@@ -1,2 +1,0 @@
-this model depicts a 2D subsurface model with medium frequency and medium noise.
-this image represents a 2D section with a rigid deformation known or fault of an anticline.

@@ -1,4 +1,0 @@
-this image represents a 2D subsurface model with a layer-cake model.
-we observe here a model of a layer-cake structural model.
-we observe here a 2D section of a flat bed stratigraphy section.
-we see here a 2D subsurface model of a layer-cake structural model of medium frequency and medium noise.

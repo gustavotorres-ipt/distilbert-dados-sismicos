@@ -1,4 +1,0 @@
-this model depicts a model of a subsurface layer rotation with a nonconformity.
-this image demonstrates a section of a tilted horizontal beds of an unconformity.
-we see here a subsurface representation with medium frequency and high noise.
-we observe here a subsurface model of medium frequency and high noise.

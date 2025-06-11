@@ -1,6 +1,0 @@
-this model depicts a seismic image with a disconformity of low frequency and medium noise.
-this model depicts a subsurface model of low frequency and medium noise.
-we see here a 2D section of a nonconformity.
-we see here a model with an unconformity with low frequency and medium noise.
-this image represents a 2D section with a nonconformity.
-this image demonstrates a subsurface representation with an erosional unconformity.

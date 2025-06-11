@@ -1,2 +1,0 @@
-this model depicts a seismic image with medium frequency and medium noise.
-we observe here a model with medium frequency and medium noise.

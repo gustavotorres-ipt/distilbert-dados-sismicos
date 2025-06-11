@@ -1,4 +1,0 @@
-we see here a model of a structural discontinuity with medium frequency and medium noise.
-this image represents a subsurface model with medium frequency and medium noise.
-we see here a model of a dip-slip fault.
-we observe here a model with a horizons displacement along fault.

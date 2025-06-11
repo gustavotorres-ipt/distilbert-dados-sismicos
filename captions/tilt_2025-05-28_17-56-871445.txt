@@ -1,2 +1,0 @@
-this image demonstrates a seismic image of a tilt.
-this model depicts a seismic image with a tilt with medium frequency and medium noise.

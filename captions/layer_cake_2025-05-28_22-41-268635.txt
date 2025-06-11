@@ -1,2 +1,0 @@
-this image demonstrates a 2D section of low frequency and high noise.
-this image represents a seismic image with an undeformed section with low frequency and high noise.

@@ -1,2 +1,0 @@
-this model depicts a seismic image of a section with flat horizons with high frequency and low noise.
-this image demonstrates a sesimic section of a layer-cake stratigraphy section with high frequency and low noise.

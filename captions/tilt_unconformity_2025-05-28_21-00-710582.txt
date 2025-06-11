@@ -1,3 +1,0 @@
-this image demonstrates a sesimic section with high frequency and medium noise.
-we see here a model with a tilt of a disconformity.
-this model depicts a 2D subsurface model with a tectonic tilting with an angular unconformity with high frequency and medium noise.

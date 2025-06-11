@@ -1,2 +1,0 @@
-this image demonstrates a subsurface model with a structural discontinuity with a tilt.
-we see here a 2D section of a dip-slip fault of a subsurface layer rotation.

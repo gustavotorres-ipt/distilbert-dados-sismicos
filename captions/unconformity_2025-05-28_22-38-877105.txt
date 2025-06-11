@@ -1,2 +1,0 @@
-this image demonstrates a model with medium frequency and medium noise.
-we see here a model of medium frequency and medium noise.

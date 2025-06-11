@@ -1,4 +1,0 @@
-this image represents a 2D subsurface model with medium frequency and medium noise.
-this model depicts a section of a structural deformation with a folded deformation.
-we see here a section of a horizons displacement along fault of a fold with medium frequency and medium noise.
-we see here a seismic image with medium frequency and medium noise.

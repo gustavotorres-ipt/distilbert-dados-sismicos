@@ -1,3 +1,0 @@
-this model depicts a subsurface representation with a horizons displacement along fault with a tilted horizontal beds of an unconformity.
-this image demonstrates a 2D section with a rigid deformation known or fault of a tilted horizontal beds of an unconformity of low frequency and medium noise.
-this model depicts a seismic image of a horizons displacement along fault of a tectonic tilting with a nonconformity.

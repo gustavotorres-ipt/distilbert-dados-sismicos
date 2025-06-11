@@ -1,2 +1,0 @@
-this model depicts a subsurface model with a subsurface layer rotation with a disconformity with medium frequency and medium noise.
-this model depicts a section of a tectonic tilting with an erosional unconformity of medium frequency and medium noise.

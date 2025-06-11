@@ -1,7 +1,0 @@
-we observe here a sesimic section with a horizons displacement along fault.
-this image demonstrates a 2D section with a tectonic fault of medium frequency and medium noise.
-we observe here a seismic image with a fault of medium frequency and medium noise.
-this model depicts a subsurface model with a structural deformation with medium frequency and medium noise.
-this image demonstrates a model of a geologic rigid deformation with medium frequency and medium noise.
-this model depicts a 2D section with medium frequency and medium noise.
-this model depicts a section of a horizons displacement along fault.

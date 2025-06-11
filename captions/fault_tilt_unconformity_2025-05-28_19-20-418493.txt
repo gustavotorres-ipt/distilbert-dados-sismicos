@@ -1,3 +1,0 @@
-this image represents a 2D section of medium frequency and high noise.
-this image demonstrates a model of medium frequency and high noise.
-this image represents a subsurface representation with a fault with a subsurface layer rotation of a disconformity.

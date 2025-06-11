@@ -1,2 +1,0 @@
-we see here a model of medium frequency and medium noise.
-this image demonstrates a model with a subsurface layer rotation with a disconformity of medium frequency and medium noise.

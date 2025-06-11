@@ -1,7 +1,0 @@
-we observe here a seismic image with a disconformity.
-we observe here a section with a disconformity of medium frequency and medium noise.
-we see here a subsurface representation of an erosional unconformity of medium frequency and medium noise.
-this image represents a sesimic section of an unconformity.
-this model depicts a section of medium frequency and medium noise.
-this image represents a subsurface representation of medium frequency and medium noise.
-we observe here a 2D subsurface model with a disconformity.

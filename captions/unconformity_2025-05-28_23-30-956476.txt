@@ -1,2 +1,0 @@
-this image demonstrates a section with a nonconformity.
-we observe here a subsurface representation with low frequency and medium noise.

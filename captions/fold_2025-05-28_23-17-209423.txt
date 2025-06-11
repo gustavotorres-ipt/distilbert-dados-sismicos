@@ -1,6 +1,0 @@
-this image demonstrates a 2D section with a structural compression of medium frequency and medium noise.
-this image demonstrates a sesimic section of a ductile deformation.
-we see here a subsurface representation with a folded deformation of medium frequency and medium noise.
-we observe here a subsurface representation with medium frequency and medium noise.
-this image represents a section with an anticline.
-we see here a model of a ductile deformation.

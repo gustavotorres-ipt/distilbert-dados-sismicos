@@ -1,4 +1,0 @@
-this model depicts a sesimic section with high frequency and medium noise.
-this image demonstrates a subsurface representation with high frequency and medium noise.
-this image demonstrates a 2D subsurface model with a nonconformity.
-we see here a 2D subsurface model of a nonconformity.

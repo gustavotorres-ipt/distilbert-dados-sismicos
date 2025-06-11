@@ -1,4 +1,0 @@
-this image represents a seismic image with medium frequency and medium noise.
-this image demonstrates a subsurface representation of medium frequency and medium noise.
-this image demonstrates a 2D subsurface model of a rigid deformation known or fault of a tectonic tilting.
-we observe here a model of medium frequency and medium noise.

@@ -1,3 +1,0 @@
-this model depicts a 2D subsurface model of a dip-slip fault of medium frequency and medium noise.
-this model depicts a seismic image of a geologic rigid deformation.
-we observe here a subsurface representation of a tectonic deformation.

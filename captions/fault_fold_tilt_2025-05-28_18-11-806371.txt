@@ -1,2 +1,0 @@
-this model depicts a subsurface representation of medium frequency and medium noise.
-we see here a subsurface model with a tectonic deformation of a folded deformation of a tilt.

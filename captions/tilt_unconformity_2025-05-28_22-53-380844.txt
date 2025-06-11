@@ -1,4 +1,0 @@
-this image represents a 2D subsurface model with high frequency and medium noise.
-this image represents a subsurface model with a tectonic tilting of an unconformity.
-this image represents a seismic image with high frequency and medium noise.
-this image represents a model with a subsurface layer rotation of an erosional unconformity.

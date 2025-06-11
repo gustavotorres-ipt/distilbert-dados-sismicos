@@ -1,7 +1,0 @@
-this model depicts a seismic image with high frequency and low noise.
-we observe here a sesimic section with high frequency and low noise.
-this model depicts a sesimic section with a horizons displacement along fault of a structural compression of a subsurface layer rotation.
-we see here a seismic image with high frequency and low noise.
-this image represents a subsurface model of high frequency and low noise.
-this image represents a 2D subsurface model of high frequency and low noise.
-this image represents a 2D section of high frequency and low noise.

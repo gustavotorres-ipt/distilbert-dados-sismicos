@@ -1,2 +1,0 @@
-we observe here a 2D subsurface model with a dip-slip fault of a tilt with medium frequency and low noise.
-we see here a subsurface representation with a geologic rigid deformation of a subsurface layer rotation with medium frequency and low noise.

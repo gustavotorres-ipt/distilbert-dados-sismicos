@@ -1,7 +1,0 @@
-we see here a 2D subsurface model with a dip-slip fault.
-this image represents a model of a rigid deformation known or fault.
-this image demonstrates a 2D subsurface model of medium frequency and low noise.
-we see here a model of a geologic rigid deformation.
-this image represents a 2D subsurface model with medium frequency and low noise.
-we see here a 2D section with a structural deformation.
-this image demonstrates a model with a horizons displacement along fault of medium frequency and low noise.

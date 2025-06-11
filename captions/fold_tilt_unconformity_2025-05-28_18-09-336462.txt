@@ -1,7 +1,0 @@
-this image demonstrates a 2D subsurface model with a structural compression with a tilt of a nonconformity.
-this image represents a sesimic section of high frequency and medium noise.
-this image represents a 2D subsurface model of a ductile deformation of a tilted horizontal beds with a nonconformity with high frequency and medium noise.
-this image demonstrates a subsurface representation with an antiform with a tilt with a nonconformity.
-this image demonstrates a section with a tectonic compression of a tilted horizontal beds with a nonconformity of high frequency and medium noise.
-this image represents a sesimic section of a structural compression with a tectonic tilting of an unconformity with high frequency and medium noise.
-we observe here a 2D subsurface model with a folded deformation with a tilt of an angular unconformity.

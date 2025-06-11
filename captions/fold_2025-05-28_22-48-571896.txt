@@ -1,4 +1,0 @@
-this image demonstrates a 2D section of a structural compression with low frequency and medium noise.
-this image represents a seismic image of a ductile deformation.
-this image demonstrates a 2D section of a ductile deformation.
-we see here a subsurface representation of low frequency and medium noise.

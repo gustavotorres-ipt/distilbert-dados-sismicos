@@ -1,5 +1,0 @@
-we see here a 2D subsurface model with a section with flat horizons with high frequency and high noise.
-this model depicts a sesimic section with a model with no tectonic deformation.
-we see here a subsurface representation of a layer-cake model.
-this model depicts a seismic image with a flat bed stratigraphy section of high frequency and high noise.
-we observe here a 2D section with a section with flat horizons.

@@ -1,2 +1,0 @@
-this model depicts a 2D subsurface model with a structural compression with a tilted horizontal beds of high frequency and medium noise.
-this image represents a subsurface representation of a fold with a subsurface layer rotation.

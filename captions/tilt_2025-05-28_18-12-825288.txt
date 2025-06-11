@@ -1,5 +1,0 @@
-this model depicts a 2D subsurface model of an inclined horizontal beds.
-this image demonstrates a seismic image with low frequency and low noise.
-this model depicts a section of a tilted horizontal beds with low frequency and low noise.
-this image represents a sesimic section of a tilt of low frequency and low noise.
-we see here a section of an inclined horizontal beds of low frequency and low noise.

@@ -10,5 +10,9 @@ training_args = TrainingArguments(
 )
 
 USED_MODEL = 'distilbert-base-uncased'
-CAPTIONS_FILE = "captions.csv"
+TRAINING_CAPTIONS_FILE = "training_captions.csv"
+TEST_CAPTIONS_FILE = "test_captions.csv"
 OUTPUT_FILE ="seismic_distilbert.pt"
+
+TEST_SIZE = 0.1
+VALIDATION_SIZE = 0.2

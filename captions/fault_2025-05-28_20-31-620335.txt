@@ -1,2 +1,0 @@
-this model depicts a seismic image with a geologic rigid deformation of medium frequency and medium noise.
-this model depicts a seismic image with a geologic rigid deformation.

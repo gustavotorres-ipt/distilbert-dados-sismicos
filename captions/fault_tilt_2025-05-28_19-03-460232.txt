@@ -1,3 +1,0 @@
-this image demonstrates a 2D subsurface model with a tectonic fault with a tilted horizontal beds of high frequency and high noise.
-we see here a sesimic section with a horizons displacement along fault of a tectonic tilting.
-this image represents a sesimic section with a structural discontinuity with a tectonic tilting.

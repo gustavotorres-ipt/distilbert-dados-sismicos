@@ -1,3 +1,0 @@
-this model depicts a subsurface model with a disconformity.
-this image represents a subsurface representation of medium frequency and low noise.
-we observe here a 2D subsurface model of an angular unconformity.

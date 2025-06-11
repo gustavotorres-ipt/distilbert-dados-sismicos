@@ -1,5 +1,0 @@
-this model depicts a seismic image of a fault with a folded deformation with a tectonic tilting with a nonconformity with low frequency and medium noise.
-we see here a 2D subsurface model with a structural deformation of an anticline with a tilt with an unconformity of low frequency and medium noise.
-we observe here a 2D section of a fault with a structural compression of an inclined horizontal beds of a disconformity.
-this image demonstrates a seismic image with low frequency and medium noise.
-this image demonstrates a subsurface representation with a tectonic fault of a structural compression with a tectonic tilting of a nonconformity.

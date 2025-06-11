@@ -1,2 +1,0 @@
-this image demonstrates a subsurface representation of high frequency and low noise.
-this image demonstrates a 2D subsurface model of a structural deformation of an inclined horizontal beds.

@@ -1,4 +1,0 @@
-this model depicts a 2D subsurface model of a structural deformation with a tectonic tilting.
-this image represents a section of low frequency and medium noise.
-we see here a 2D subsurface model of low frequency and medium noise.
-we see here a 2D section with a tectonic fault with a subsurface layer rotation with low frequency and medium noise.

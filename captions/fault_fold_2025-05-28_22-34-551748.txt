@@ -1,7 +1,0 @@
-this image represents a section of a structural deformation with a ductile deformation with high frequency and medium noise.
-this image represents a 2D section of a structural deformation of a folded deformation with high frequency and medium noise.
-we observe here a sesimic section with a fault with a structural compression.
-this image demonstrates a 2D subsurface model with a fault of a tectonic compression.
-this image represents a 2D subsurface model of a dip-slip fault with a fold with high frequency and medium noise.
-we see here a sesimic section of a fault with a ductile deformation.
-this image represents a subsurface model with a rigid deformation known or fault with an anticline.

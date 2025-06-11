@@ -1,6 +1,0 @@
-this image represents a seismic image of a structural discontinuity.
-this model depicts a 2D subsurface model with high frequency and high noise.
-this image represents a sesimic section of high frequency and high noise.
-we see here a sesimic section with a structural deformation.
-this image demonstrates a section of high frequency and high noise.
-this image represents a seismic image of a tectonic deformation.

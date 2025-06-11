@@ -1,2 +1,0 @@
-this model depicts a 2D section with a fault of medium frequency and medium noise.
-we observe here a model of a tectonic fault.

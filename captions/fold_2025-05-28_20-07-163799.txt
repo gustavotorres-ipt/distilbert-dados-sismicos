@@ -1,2 +1,0 @@
-this image demonstrates a section with a ductile deformation.
-we see here a 2D subsurface model of a tectonic compression.

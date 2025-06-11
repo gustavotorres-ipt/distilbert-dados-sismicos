@@ -1,7 +1,0 @@
-we observe here a subsurface model with medium frequency and medium noise.
-we see here a seismic image of a fold with an erosional unconformity.
-we see here a sesimic section of medium frequency and medium noise.
-this image represents a section with a folded deformation with a disconformity.
-this model depicts a 2D subsurface model of a ductile deformation of an unconformity.
-this model depicts a subsurface representation with medium frequency and medium noise.
-this model depicts a seismic image of an anticline with a nonconformity.

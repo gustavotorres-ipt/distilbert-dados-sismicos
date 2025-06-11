@@ -1,5 +1,0 @@
-this image represents a subsurface representation with high frequency and high noise.
-this image represents a 2D subsurface model with an erosional unconformity.
-we observe here a subsurface model with high frequency and high noise.
-we see here a subsurface model of an erosional unconformity.
-this model depicts a subsurface representation of high frequency and high noise.

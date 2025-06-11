@@ -1,3 +1,0 @@
-we see here a 2D section with a horizons displacement along fault with an inclined horizontal beds.
-we observe here a 2D subsurface model with medium frequency and medium noise.
-this model depicts a seismic image with medium frequency and medium noise.

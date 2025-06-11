@@ -1,2 +1,0 @@
-this image demonstrates a 2D subsurface model with an inclined horizontal beds of medium frequency and medium noise.
-this image represents a model of a subsurface layer rotation.

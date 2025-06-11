@@ -1,5 +1,0 @@
-this image demonstrates a subsurface representation with medium frequency and medium noise.
-this image represents a 2D subsurface model of a tilted horizontal beds with an unconformity with medium frequency and medium noise.
-this model depicts a 2D section with a subsurface layer rotation with a disconformity of medium frequency and medium noise.
-this model depicts a subsurface representation of a tilt with a disconformity with medium frequency and medium noise.
-we see here a model of medium frequency and medium noise.

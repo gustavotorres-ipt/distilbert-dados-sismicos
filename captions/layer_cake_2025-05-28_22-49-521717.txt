@@ -1,2 +1,0 @@
-this model depicts a 2D section with a layer-cake model of high frequency and low noise.
-we observe here a subsurface model of a model with no tectonic deformation.

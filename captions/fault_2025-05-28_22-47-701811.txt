@@ -1,2 +1,0 @@
-we see here a subsurface model with a fault with low frequency and medium noise.
-this model depicts a 2D subsurface model with low frequency and medium noise.

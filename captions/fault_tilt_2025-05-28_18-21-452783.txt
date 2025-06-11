@@ -1,7 +1,0 @@
-this model depicts a subsurface representation of a dip-slip fault of a subsurface layer rotation.
-this image demonstrates a seismic image with a dip-slip fault with an inclined horizontal beds.
-this image demonstrates a 2D section of a geologic rigid deformation with a tectonic tilting.
-we see here a subsurface representation with a tectonic fault of a tectonic tilting.
-we observe here a subsurface representation with low frequency and low noise.
-we see here a subsurface representation with a horizons displacement along fault with a tectonic tilting with low frequency and low noise.
-this image represents a seismic image of a structural discontinuity of a tilt with low frequency and low noise.

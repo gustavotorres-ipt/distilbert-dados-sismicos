@@ -1,7 +1,0 @@
-this model depicts a 2D subsurface model with a tectonic fault of high frequency and medium noise.
-we observe here a sesimic section of a fault.
-this model depicts a section with a dip-slip fault of high frequency and medium noise.
-this model depicts a subsurface model with high frequency and medium noise.
-this image represents a seismic image of a structural discontinuity of high frequency and medium noise.
-we observe here a seismic image of a geologic rigid deformation with high frequency and medium noise.
-this model depicts a 2D section of high frequency and medium noise.

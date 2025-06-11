@@ -1,6 +1,0 @@
-this model depicts a section with a nonconformity.
-this image demonstrates a sesimic section of a nonconformity.
-this image demonstrates a 2D section with medium frequency and medium noise.
-we see here a section with an angular unconformity.
-this image demonstrates a 2D subsurface model with a disconformity.
-this image demonstrates a seismic image with medium frequency and medium noise.

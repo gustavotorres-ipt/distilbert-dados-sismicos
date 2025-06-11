@@ -1,2 +1,0 @@
-this image demonstrates a subsurface model with a fault with a tectonic tilting.
-this image represents a model with a horizons displacement along fault with a tectonic tilting of medium frequency and low noise.

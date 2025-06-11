@@ -1,7 +1,0 @@
-we see here a model with high frequency and medium noise.
-we see here a section with high frequency and medium noise.
-this image demonstrates a seismic image with a rigid deformation known or fault with an angular unconformity with high frequency and medium noise.
-this image represents a subsurface model with a tectonic fault of an erosional unconformity with high frequency and medium noise.
-this image represents a 2D subsurface model with high frequency and medium noise.
-this model depicts a 2D section of a tectonic deformation with a nonconformity.
-we see here a sesimic section of high frequency and medium noise.

@@ -1,5 +1,0 @@
-this image demonstrates a 2D subsurface model with a layer-cake structural model.
-this model depicts a subsurface representation of high frequency and medium noise.
-this image represents a 2D subsurface model of high frequency and medium noise.
-we see here a 2D subsurface model with a model with no structural deformation.
-we see here a 2D section with high frequency and medium noise.

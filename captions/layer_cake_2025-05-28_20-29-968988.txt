@@ -1,3 +1,0 @@
-this model depicts a subsurface representation of high frequency and medium noise.
-we see here a 2D subsurface model of a layer-cake stratigraphy section.
-we see here a sesimic section of an undeformed section.

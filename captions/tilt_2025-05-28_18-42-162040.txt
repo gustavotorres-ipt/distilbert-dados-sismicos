@@ -1,4 +1,0 @@
-this model depicts a section of medium frequency and medium noise.
-this image demonstrates a 2D section of medium frequency and medium noise.
-we see here a subsurface model with a subsurface layer rotation.
-we see here a subsurface model of an inclined horizontal beds.

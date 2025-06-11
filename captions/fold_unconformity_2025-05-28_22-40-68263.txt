@@ -1,6 +1,0 @@
-this model depicts a model of a folded deformation of a nonconformity.
-this image represents a 2D subsurface model with a structural compression with a disconformity of low frequency and high noise.
-we observe here a sesimic section of low frequency and high noise.
-we observe here a model of a ductile deformation with an angular unconformity with low frequency and high noise.
-we see here a section with a folded deformation with an unconformity with low frequency and high noise.
-we observe here a seismic image with a ductile deformation of a disconformity.

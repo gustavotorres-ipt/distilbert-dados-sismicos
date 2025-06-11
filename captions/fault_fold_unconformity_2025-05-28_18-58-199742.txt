@@ -1,3 +1,0 @@
-this model depicts a subsurface representation of a geologic rigid deformation with a folded deformation with a disconformity of low frequency and medium noise.
-we see here a 2D subsurface model of low frequency and medium noise.
-we observe here a 2D section with a structural deformation of an anticline of an angular unconformity.

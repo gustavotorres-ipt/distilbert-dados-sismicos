@@ -1,5 +1,0 @@
-we observe here a 2D subsurface model with a dip-slip fault with an antiform.
-we see here a section with a structural discontinuity with a ductile deformation.
-we see here a 2D section of low frequency and high noise.
-this model depicts a 2D subsurface model with a tectonic fault with a structural compression of low frequency and high noise.
-this model depicts a sesimic section with a tectonic deformation with a tectonic compression of low frequency and high noise.

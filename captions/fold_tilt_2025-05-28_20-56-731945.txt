@@ -1,7 +1,0 @@
-this image represents a model of low frequency and medium noise.
-this image represents a 2D section with a fold of an inclined horizontal beds.
-this model depicts a 2D subsurface model with a folded deformation with a tilted horizontal beds with low frequency and medium noise.
-we observe here a subsurface representation with a folded deformation of an inclined horizontal beds.
-we see here a subsurface model of a folded deformation with a tectonic tilting.
-this image demonstrates a subsurface model of a fold of an inclined horizontal beds.
-this image demonstrates a 2D subsurface model with a folded deformation of a tilt with low frequency and medium noise.

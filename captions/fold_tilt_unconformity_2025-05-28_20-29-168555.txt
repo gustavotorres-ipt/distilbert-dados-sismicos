@@ -1,2 +1,0 @@
-this image demonstrates a 2D subsurface model with medium frequency and low noise.
-we see here a seismic image with medium frequency and low noise.

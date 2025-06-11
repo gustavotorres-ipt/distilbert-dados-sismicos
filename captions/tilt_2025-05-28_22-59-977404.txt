@@ -1,4 +1,0 @@
-this image represents a 2D subsurface model with medium frequency and high noise.
-this model depicts a sesimic section with a subsurface layer rotation.
-we see here a 2D subsurface model with a tilt of medium frequency and high noise.
-we observe here a subsurface model of a tectonic tilting of medium frequency and high noise.

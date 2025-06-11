@@ -1,5 +1,0 @@
-this image demonstrates a 2D section with low frequency and high noise.
-this image represents a 2D subsurface model of a tectonic deformation of a structural compression.
-we see here a model of a structural deformation of an anticline.
-this image demonstrates a model of a structural discontinuity of a structural compression.
-we see here a 2D section of a rigid deformation known or fault with a ductile deformation.

@@ -1,5 +1,0 @@
-this image demonstrates a subsurface model with a tectonic deformation of a tectonic compression.
-we see here a subsurface representation with high frequency and medium noise.
-this image represents a subsurface representation with a tectonic fault with a fold.
-we see here a 2D section with a rigid deformation known or fault of a tectonic compression with high frequency and medium noise.
-this image represents a section of a rigid deformation known or fault with an antiform.

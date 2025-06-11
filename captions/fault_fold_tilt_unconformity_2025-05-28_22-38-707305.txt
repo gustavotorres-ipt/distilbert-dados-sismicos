@@ -1,2 +1,0 @@
-this model depicts a 2D subsurface model with a tectonic deformation of a folded deformation with an inclined horizontal beds with an erosional unconformity with low frequency and low noise.
-this image demonstrates a 2D section with low frequency and low noise.

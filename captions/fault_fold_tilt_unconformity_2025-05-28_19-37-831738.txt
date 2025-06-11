@@ -1,6 +1,0 @@
-this model depicts a seismic image of medium frequency and high noise.
-this image demonstrates a subsurface representation with a rigid deformation known or fault with a folded deformation of a subsurface layer rotation with an angular unconformity.
-this model depicts a sesimic section with a dip-slip fault with an antiform with an inclined horizontal beds of an erosional unconformity.
-this image represents a 2D section of a structural discontinuity of a structural compression of a tilt with an erosional unconformity.
-this model depicts a 2D section of a tectonic fault of a fold with a tilted horizontal beds of a nonconformity.
-this image demonstrates a subsurface representation with a structural discontinuity of a folded deformation of a tectonic tilting of a disconformity.

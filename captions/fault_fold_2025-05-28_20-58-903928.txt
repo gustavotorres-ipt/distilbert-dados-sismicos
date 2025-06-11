@@ -1,7 +1,0 @@
-this model depicts a model of medium frequency and medium noise.
-this image represents a subsurface model with a geologic rigid deformation with an antiform of medium frequency and medium noise.
-this model depicts a subsurface representation with medium frequency and medium noise.
-we observe here a section with a geologic rigid deformation with a structural compression.
-we observe here a subsurface representation with a dip-slip fault with a fold with medium frequency and medium noise.
-we see here a seismic image with a geologic rigid deformation with a folded deformation.
-we observe here a 2D subsurface model with a geologic rigid deformation with a fold.

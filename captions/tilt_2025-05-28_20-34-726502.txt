@@ -1,3 +1,0 @@
-we see here a section with a tilted horizontal beds.
-we observe here a subsurface model with a tilted horizontal beds.
-we observe here a 2D subsurface model with a tectonic tilting.

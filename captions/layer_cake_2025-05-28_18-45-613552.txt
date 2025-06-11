@@ -1,6 +1,0 @@
-this model depicts a subsurface model of an undeformed section.
-this image demonstrates a seismic image of low frequency and medium noise.
-this image represents a subsurface model with a section with flat horizons with low frequency and medium noise.
-this image demonstrates a model with a layer-cake structural model.
-this image represents a section of a model with no tectonic deformation.
-this image represents a 2D section with a section with flat horizons.

@@ -1,4 +1,0 @@
-this model depicts a subsurface representation with a geologic rigid deformation of a disconformity with high frequency and low noise.
-we see here a 2D subsurface model of a dip-slip fault of a nonconformity of high frequency and low noise.
-we see here a section with high frequency and low noise.
-this image represents a section with a geologic rigid deformation with an unconformity.

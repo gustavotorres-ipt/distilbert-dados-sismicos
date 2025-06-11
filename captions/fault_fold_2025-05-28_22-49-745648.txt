@@ -1,6 +1,0 @@
-this model depicts a 2D subsurface model with high frequency and medium noise.
-this image demonstrates a subsurface representation of a horizons displacement along fault of a folded deformation with high frequency and medium noise.
-this image represents a sesimic section of high frequency and medium noise.
-this image represents a subsurface model of high frequency and medium noise.
-this model depicts a 2D subsurface model of a structural discontinuity with a ductile deformation.
-this model depicts a 2D section with a structural discontinuity with a folded deformation.

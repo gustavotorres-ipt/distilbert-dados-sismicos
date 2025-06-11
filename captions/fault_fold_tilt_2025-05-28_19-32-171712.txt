@@ -1,2 +1,0 @@
-this model depicts a 2D subsurface model with a rigid deformation known or fault with a fold with a tectonic tilting.
-this image represents a section of a dip-slip fault with a fold of a tilted horizontal beds with medium frequency and medium noise.

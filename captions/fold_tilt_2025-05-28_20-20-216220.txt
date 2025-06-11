@@ -1,7 +1,0 @@
-this image demonstrates a 2D subsurface model of a ductile deformation of a subsurface layer rotation.
-this image represents a sesimic section with low frequency and low noise.
-this image demonstrates a 2D subsurface model with low frequency and low noise.
-we observe here a subsurface model of an antiform of a tectonic tilting with low frequency and low noise.
-this image represents a section with an anticline with a tectonic tilting.
-this image represents a 2D section of an anticline with an inclined horizontal beds with low frequency and low noise.
-this model depicts a model with a fold with a tilted horizontal beds.

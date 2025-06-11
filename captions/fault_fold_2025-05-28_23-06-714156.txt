@@ -1,5 +1,0 @@
-this image demonstrates a model with a geologic rigid deformation of a fold.
-we observe here a subsurface model of a geologic rigid deformation with an anticline.
-this image demonstrates a 2D subsurface model of a structural deformation of an anticline.
-this image demonstrates a 2D section of a structural discontinuity of a fold.
-this model depicts a 2D subsurface model with a dip-slip fault with a tectonic compression of low frequency and medium noise.

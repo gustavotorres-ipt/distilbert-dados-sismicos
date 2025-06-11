@@ -1,2 +1,0 @@
-this image represents a 2D subsurface model with a geologic rigid deformation of an anticline of medium frequency and medium noise.
-this image represents a subsurface representation with a structural deformation with a fold with medium frequency and medium noise.

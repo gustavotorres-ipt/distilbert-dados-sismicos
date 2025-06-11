@@ -1,6 +1,0 @@
-we see here a sesimic section of a flat bed stratigraphy section.
-this image demonstrates a 2D subsurface model of an undeformed section.
-this image represents a subsurface model of medium frequency and medium noise.
-we see here a seismic image of a model with no structural deformation with medium frequency and medium noise.
-this image demonstrates a seismic image with a layer-cake stratigraphy section of medium frequency and medium noise.
-we see here a seismic image of a model with no tectonic deformation.

@@ -1,5 +1,0 @@
-this model depicts a 2D section of an anticline of an erosional unconformity.
-we observe here a 2D section with an anticline of a nonconformity.
-we see here a seismic image with low frequency and high noise.
-we see here a seismic image of low frequency and high noise.
-this model depicts a model of a tectonic compression with a nonconformity.

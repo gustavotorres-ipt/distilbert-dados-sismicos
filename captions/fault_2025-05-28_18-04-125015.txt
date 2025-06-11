@@ -1,6 +1,0 @@
-this image represents a seismic image of a fault of medium frequency and medium noise.
-we observe here a model of a tectonic deformation of medium frequency and medium noise.
-this image represents a 2D subsurface model with a structural discontinuity.
-this model depicts a 2D section of a horizons displacement along fault of medium frequency and medium noise.
-this model depicts a 2D subsurface model with a tectonic fault.
-this image represents a subsurface model with medium frequency and medium noise.

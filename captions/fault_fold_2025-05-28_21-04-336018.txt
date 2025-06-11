@@ -1,4 +1,0 @@
-this model depicts a 2D subsurface model of a tectonic deformation with an anticline of high frequency and high noise.
-we see here a 2D subsurface model with high frequency and high noise.
-we see here a section with a tectonic fault with a tectonic compression.
-we see here a subsurface model of a structural deformation with a folded deformation.

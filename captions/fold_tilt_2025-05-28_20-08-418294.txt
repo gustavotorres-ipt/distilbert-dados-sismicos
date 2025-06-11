@@ -1,7 +1,0 @@
-this image demonstrates a 2D section of a ductile deformation with an inclined horizontal beds.
-this image represents a subsurface model with a fold with a tilted horizontal beds with low frequency and medium noise.
-we see here a model of low frequency and medium noise.
-this image represents a seismic image with an anticline of an inclined horizontal beds.
-this image represents a seismic image of a structural compression of an inclined horizontal beds with low frequency and medium noise.
-this model depicts a subsurface model of a folded deformation of an inclined horizontal beds.
-we observe here a subsurface representation with an anticline of a tilt with low frequency and medium noise.

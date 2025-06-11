@@ -1,2 +1,0 @@
-this model depicts a sesimic section with a structural deformation.
-this model depicts a 2D section of high frequency and high noise.

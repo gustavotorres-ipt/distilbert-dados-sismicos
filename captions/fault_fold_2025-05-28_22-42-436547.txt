@@ -1,6 +1,0 @@
-this model depicts a 2D section of a fault of a tectonic compression of high frequency and high noise.
-we see here a seismic image with a horizons displacement along fault with an antiform.
-we see here a subsurface model of high frequency and high noise.
-this image represents a model of a structural discontinuity of a structural compression of high frequency and high noise.
-we observe here a subsurface representation of a tectonic fault with a tectonic compression.
-this image demonstrates a subsurface representation of a fault with a structural compression.

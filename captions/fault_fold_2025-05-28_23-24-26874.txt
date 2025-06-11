@@ -1,3 +1,0 @@
-we see here a subsurface representation of a tectonic deformation with an anticline with low frequency and high noise.
-this image represents a 2D subsurface model of low frequency and high noise.
-we observe here a 2D subsurface model with a fault with an antiform.

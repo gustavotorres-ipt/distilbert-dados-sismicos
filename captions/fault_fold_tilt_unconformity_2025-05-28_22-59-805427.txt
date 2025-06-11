@@ -1,5 +1,0 @@
-we see here a seismic image with a fault of a structural compression with a subsurface layer rotation of a disconformity.
-we see here a 2D subsurface model of a fault with a folded deformation with a subsurface layer rotation with an erosional unconformity.
-this image demonstrates a subsurface representation of a geologic rigid deformation with a structural compression of a tectonic tilting of an angular unconformity.
-this image demonstrates a model with a structural discontinuity with a folded deformation of a tilted horizontal beds with an erosional unconformity.
-we see here a sesimic section with a tectonic fault of an anticline of a subsurface layer rotation of an erosional unconformity with medium frequency and medium noise.

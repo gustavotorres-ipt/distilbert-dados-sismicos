@@ -1,3 +1,0 @@
-this image represents a 2D subsurface model of a rigid deformation known or fault.
-this image represents a 2D subsurface model with a geologic rigid deformation of medium frequency and medium noise.
-we observe here a 2D section with a tectonic deformation.

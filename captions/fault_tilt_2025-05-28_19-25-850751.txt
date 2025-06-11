@@ -1,4 +1,0 @@
-this image demonstrates a section of low frequency and medium noise.
-this image represents a subsurface model with a dip-slip fault with a tectonic tilting.
-this image demonstrates a subsurface model with a tectonic fault of a tilt.
-this image represents a 2D section with low frequency and medium noise.

@@ -1,7 +1,0 @@
-this image represents a subsurface representation with a geologic rigid deformation with a structural compression.
-we see here a subsurface representation of a tectonic deformation with a fold of high frequency and low noise.
-this image represents a 2D subsurface model with a tectonic fault with a structural compression with high frequency and low noise.
-this image demonstrates a section of a structural discontinuity of a folded deformation of high frequency and low noise.
-this image represents a section with a horizons displacement along fault with an antiform.
-this image demonstrates a model with a tectonic deformation with a structural compression.
-we observe here a 2D section with a horizons displacement along fault of a structural compression of high frequency and low noise.

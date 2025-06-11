@@ -1,2 +1,0 @@
-we see here a 2D section with a subsurface layer rotation.
-we see here a 2D section with high frequency and medium noise.

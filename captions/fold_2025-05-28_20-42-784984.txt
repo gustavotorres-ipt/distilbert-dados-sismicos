@@ -1,6 +1,0 @@
-this image demonstrates a sesimic section with a folded deformation.
-this image represents a 2D section with an anticline.
-we observe here a subsurface representation with a fold of medium frequency and medium noise.
-this image demonstrates a subsurface model of medium frequency and medium noise.
-we observe here a model with medium frequency and medium noise.
-we see here a seismic image with a structural compression.

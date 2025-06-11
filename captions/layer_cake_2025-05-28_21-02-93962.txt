@@ -1,2 +1,0 @@
-this model depicts a subsurface representation of a model with no tectonic deformation.
-this model depicts a 2D subsurface model with medium frequency and medium noise.

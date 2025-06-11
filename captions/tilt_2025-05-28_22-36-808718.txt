@@ -1,6 +1,0 @@
-this model depicts a subsurface representation of a tectonic tilting.
-we see here a sesimic section with low frequency and high noise.
-we observe here a 2D section with a tilted horizontal beds of low frequency and high noise.
-this image represents a subsurface model of a subsurface layer rotation.
-this model depicts a subsurface representation of a tilt.
-this model depicts a sesimic section of a tilted horizontal beds with low frequency and high noise.

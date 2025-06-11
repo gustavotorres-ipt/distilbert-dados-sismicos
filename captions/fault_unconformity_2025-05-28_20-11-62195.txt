@@ -1,5 +1,0 @@
-this image demonstrates a 2D section of a horizons displacement along fault of an unconformity with medium frequency and high noise.
-we observe here a sesimic section with a tectonic deformation with an unconformity with medium frequency and high noise.
-we observe here a section of a rigid deformation known or fault with an unconformity.
-we see here a subsurface model of a dip-slip fault of an angular unconformity of medium frequency and high noise.
-this model depicts a 2D section with a rigid deformation known or fault of an angular unconformity of medium frequency and high noise.

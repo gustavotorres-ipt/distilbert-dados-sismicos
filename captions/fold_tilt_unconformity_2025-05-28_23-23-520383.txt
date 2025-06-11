@@ -1,4 +1,0 @@
-this model depicts a 2D section with medium frequency and medium noise.
-this model depicts a section of a fold of an inclined horizontal beds with a nonconformity.
-this image represents a subsurface model with a structural compression with a tilted horizontal beds with an angular unconformity.
-we see here a 2D section of a tectonic compression of an inclined horizontal beds with an angular unconformity.

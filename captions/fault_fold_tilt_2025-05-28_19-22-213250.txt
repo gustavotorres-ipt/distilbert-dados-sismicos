@@ -1,2 +1,0 @@
-this image represents a 2D section of low frequency and medium noise.
-this image represents a 2D section with a fault with a fold of a tectonic tilting.

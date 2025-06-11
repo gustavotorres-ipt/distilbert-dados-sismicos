@@ -1,5 +1,0 @@
-this model depicts a sesimic section with low frequency and medium noise.
-we observe here a 2D subsurface model of a tectonic tilting of an angular unconformity.
-this image represents a seismic image with a tilt with an unconformity of low frequency and medium noise.
-we observe here a seismic image of a tilted horizontal beds with a nonconformity.
-we see here a 2D subsurface model of low frequency and medium noise.

@@ -1,6 +1,0 @@
-this image represents a subsurface representation with a horizons displacement along fault.
-this image represents a subsurface representation with a fault with high frequency and medium noise.
-we see here a seismic image of a tectonic fault with high frequency and medium noise.
-this model depicts a seismic image of a geologic rigid deformation of high frequency and medium noise.
-we observe here a sesimic section of a structural deformation of high frequency and medium noise.
-we observe here a subsurface model of a geologic rigid deformation.

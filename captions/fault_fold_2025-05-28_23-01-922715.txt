@@ -1,6 +1,0 @@
-we see here a 2D section of a horizons displacement along fault with a ductile deformation.
-this image represents a 2D subsurface model with a dip-slip fault of a tectonic compression.
-we see here a seismic image of a structural discontinuity of an anticline.
-this image represents a subsurface representation with a tectonic deformation of an antiform.
-this model depicts a subsurface representation of a tectonic deformation of a tectonic compression of medium frequency and low noise.
-this model depicts a sesimic section with a rigid deformation known or fault of a tectonic compression with medium frequency and low noise.

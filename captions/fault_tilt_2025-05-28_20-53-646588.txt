@@ -1,6 +1,0 @@
-we observe here a seismic image of a tectonic fault with an inclined horizontal beds.
-this image represents a subsurface representation of a geologic rigid deformation with an inclined horizontal beds.
-we see here a section of a structural deformation with an inclined horizontal beds.
-this image represents a seismic image of a tectonic deformation of a tectonic tilting.
-we observe here a 2D subsurface model with low frequency and medium noise.
-this image demonstrates a section with low frequency and medium noise.

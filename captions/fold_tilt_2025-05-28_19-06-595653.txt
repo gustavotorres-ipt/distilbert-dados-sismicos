@@ -1,7 +1,0 @@
-this image demonstrates a 2D subsurface model with an anticline with a tilt.
-we observe here a section with a folded deformation with a tectonic tilting.
-this model depicts a 2D subsurface model with a ductile deformation with a tectonic tilting.
-we see here a model with an anticline with a tectonic tilting.
-this image represents a section with a fold with a subsurface layer rotation.
-this image represents a subsurface representation of an antiform with a subsurface layer rotation.
-this image represents a seismic image with an anticline with a tectonic tilting with high frequency and medium noise.

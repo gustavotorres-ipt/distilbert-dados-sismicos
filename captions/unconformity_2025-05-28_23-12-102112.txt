@@ -1,2 +1,0 @@
-this model depicts a model with an unconformity.
-we see here a 2D subsurface model of low frequency and medium noise.

@@ -1,6 +1,0 @@
-we see here a 2D section with a fold.
-this image represents a model of a tectonic compression with medium frequency and medium noise.
-we observe here a 2D subsurface model of a structural compression.
-we observe here a 2D section with a structural compression of medium frequency and medium noise.
-we see here a 2D section with a structural compression.
-this model depicts a model of a structural compression.

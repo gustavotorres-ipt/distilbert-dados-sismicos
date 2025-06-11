@@ -1,6 +1,0 @@
-this image represents a model of medium frequency and medium noise.
-this image represents a model with a tectonic deformation of medium frequency and medium noise.
-this image demonstrates a subsurface representation of a structural discontinuity.
-we see here a model with a fault.
-we see here a subsurface model of medium frequency and medium noise.
-this image represents a seismic image of a fault.

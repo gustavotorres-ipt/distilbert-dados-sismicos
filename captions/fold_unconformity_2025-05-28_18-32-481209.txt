@@ -1,7 +1,0 @@
-we observe here a subsurface model of a ductile deformation with an erosional unconformity.
-this image demonstrates a 2D section with an antiform of a disconformity.
-this image demonstrates a 2D subsurface model of a ductile deformation with a nonconformity.
-this image demonstrates a seismic image with a structural compression with an erosional unconformity of medium frequency and medium noise.
-this image demonstrates a sesimic section of medium frequency and medium noise.
-this model depicts a seismic image with an antiform of a disconformity with medium frequency and medium noise.
-this image demonstrates a sesimic section with an antiform with an erosional unconformity.
