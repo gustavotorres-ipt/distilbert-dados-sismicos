@@ -2,4 +2,8 @@
 __pycache__
 model.safetensors
 captions/
+legendas_geradas/
 results_mlm_model/
+*.pt/
+legendas_sismofacies/
+*.zip
