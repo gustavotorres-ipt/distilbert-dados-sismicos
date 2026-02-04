@@ -62,7 +62,7 @@ def train(model, dataset, data_collator):
         train_dataset=dataset["train"],
         eval_dataset=dataset["test"],
         data_collator=data_collator,
-        tokenizer=tokenizer,
+        # tokenizer=tokenizer,
     )
 
     trainer.train()
@@ -70,12 +70,14 @@ def train(model, dataset, data_collator):
 
 
 def perform_training(output_model_name: str):
-    dataset = load_dataset("csv", data_files=config.TRAINING_CAPTIONS_FILE, split='train[:]')
+    dataset = load_dataset(
+        "csv", data_files=config.TRAINING_CAPTIONS_FILE, split='train[:]')
     dataset = dataset.train_test_split(test_size=0.2)
 
     tokenized_dataset = dataset.map( tokenize_function, batched=True, num_proc=4,)
 
-    data_collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm_probability=0.15)
+    data_collator = DataCollatorForLanguageModeling(
+        tokenizer=tokenizer, mlm_probability=0.15)
 
     model = AutoModelForMaskedLM.from_pretrained(config.USED_MODEL)
 
@@ -135,12 +137,12 @@ def main():
             print(f"Error. Model {args.trained_model} not found.")
             sys.exit(1)
 
-        test_model(args.trained_model)
+        # test_model(args.trained_model)
 
     if args.output_model is not None:
         print("Perform fine-tuning...")
         perform_training(args.output_model)
-        test_model(args.output_model)
+        # test_model(args.output_model)
 
     # print("Testing model...")
     # evaluate(trainer)
