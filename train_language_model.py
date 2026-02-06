@@ -15,6 +15,7 @@ tokenizer.add_special_tokens({'pad_token': '[PAD]'})
 # tokenizer.pad_token = tokenizer.eos_token
 
 def read_captions_json(file_path):
+    print(file_path)
     with open(file_path) as f:
         captions = json.load(f)["captions"]
         return captions

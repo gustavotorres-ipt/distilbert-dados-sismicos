@@ -2,6 +2,7 @@
 __pycache__
 model.safetensors
 captions/
+legendas*
 legendas_geradas/
 results_mlm_model/
 *.pt/
