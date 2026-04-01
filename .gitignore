@@ -7,3 +7,5 @@ results_mlm_model/
 *.pt/
 legendas_sismofacies/
 *.zip
+data/
+local_tokenizer/
